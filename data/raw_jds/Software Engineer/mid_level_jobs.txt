@@ -1,0 +1,529 @@
+MID-LEVEL / ASSOCIATE JOB DESCRIPTIONS
+============================================================ 
+setjob.lk
+We are looking for a highly skilled Senior Software Engineer (SSE) with strong expertise in AI/ML and Fullstack Development to join our team. This role focuses on building high-performance, AI-driven platforms, scalable microservices, and enterprise-grade solutions.
+If you are passionate about developing intelligent systems and working on cutting-edge technologies, this opportunity is for you.
+🔹 Key Responsibilities
+AI/ML & Core Platform Development
+Develop and optimize AI-powered automation, search systems, and data retrieval models
+Build LLM-driven applications using LangChain, RAG, and embedding techniques
+Enhance workflow automation using Haystack, LangGraph, and Vector Databases
+Fullstack Development
+Design and develop scalable microservices and event-driven systems
+Build high-performance backend services using Python, Java, and Node.js
+Develop AI-integrated dashboards and frontend applications using React, Angular, and TypeScript
+AI Deployment & DevOps
+Deploy and monitor AI models on Kubernetes, OpenShift, and cloud platforms
+Implement CI/CD pipelines, containerization, and scalable deployment strategies
+Technical Collaboration
+Work closely with Tech Leads and AI engineers on scalable implementations
+Follow best practices in software engineering and AI deployment
+Contribute to innovation in workflow automation and platform scalability
+🔹 Qualifications
+Bachelor’s or Master’s degree in Computer Science, AI, Machine Learning, or related field
+3+ years of experience in AI/ML and Fullstack Development
+Strong experience in LLMs, NLP, and deep learning models
+Proficiency in Python, Java, Node.js, and TypeScript
+Experience with AWS, GCP, or Azure cloud platforms
+Knowledge of Microservices, REST/WebSockets, and real-time APIs
+Experience in DevOps, MLOps, Kubernetes, and CI/CD pipelines
+Hands-on experience with Vector Databases and RAG-based search systems
+
+============================================================
+Coullax
+At Coullax, we Build the Unbuilt , creating cutting edge AI and blockchain solutions. We’re looking for experienced engineers who take ownership, move fast, and are comfortable building across diverse, high impact projects.
+What You’ll Do
+Design and build scalable systems (Go, PostgreSQL)
+Develop high performance frontends (React, Next.js)
+Integrate AI features (LLMs, LangChain, RAG)
+Lead technical decisions, code reviews, and architecture
+Mentor junior engineers and shape engineering culture
+What We’re Looking For
+3+ years of software engineering experience
+Strong in Golang, React/Next.js, PostgreSQL
+Experience with system design & distributed systems
+Familiar with LLMs, AI integrations, or RAG pipelines
+Solid DevOps understanding (Docker, CI/CD, cloud)
+Highly adaptable, strong ownership mindset
+Nice to Have
+Blockchain / Web3 experience
+LangChain or AI pipeline experience
+Event-driven systems (Kafka, RabbitMQ)
+What You Get
+Work on high-impact, real-world products
+Modern stack + real technical ownership
+Leadership opportunities + strong engineering culture
+Flexible work + performance-based rewards
+
+============================================================
+
+Aizenit
+Responsibilities
+Develop quality software and web applications
+Analyze and maintain existing software applications
+Design highly scalable, testable code
+Discover and fix programming bugs
+Requirements
+Hands-on experience in multiple programming languages & Frameworks (Including ASP .NET, Angular, C#, Azure)
+Maintains a sense of individuality in thinking and decision making
+Knowledge of OOP concepts
+Knowledge of Database concepts and SQL queries (PostgreSQL preferred).
+knowledge of programming language concepts
+Knowledge of Git, Linux, and other fundamental technologies
+Knowledge of technologies such as Kubernetes, Docker, Linux Containers, CI / CD, Cloud Storage, CDN, and No-SQLs is an added advantage
+Interest and ability to learn new programming languages and technologies,
+Undertake full-stack development - frontend and backend programming challenges.
+
+============================================================
+BCONIC
+Come build high-performance software that solves some of the most interesting technical challenges impacting the world right now.
+Our developers are truly "full-stack". Not only will you work with front- and back-end code, but you will also have the chance to influence and manage the product development. This is a great role for someone looking to develop their technical skills and beyond.
+You'll work closely with an engaged team of experienced developers and our experienced, technical CTO on a forward-thinking tech stack.
+The Role
+We are looking for a Full Stack Engineer who can take ownership of end-to-end development and collaborate with cross-functional teams. The ideal candidate has a solid technical foundation and is eager to dive into the marketing and data analytics domains.
+Responsibilities:
+Collaborate with product managers and designers to plan and implement new features and products.
+Develop and maintain front-end and back-end components using the PERN stack (PostgreSQL, Express, React, Node.js).
+Write clean, efficient, and scalable code.
+Conduct code reviews to ensure high-quality output.
+Optimize software for speed and scalability.
+Work on projects involving marketing automation, data intelligence, and third-party SaaS integrations.
+Provide input on improving product performance and architecture.
+Requirements:
+You are an ideal candidate if you have:
+3+ years of experience working as a Software Engineer.
+Strong proficiency in the PERN stack (PostgreSQL, Express, React, Node.js) and writing code in Typescript.
+Solid understanding of front-end and back-end web development principles.
+Strong problem-solving and analytical skills.
+Excellent written and verbal communication skills in English.
+Preferred Qualifications:
+Prior experience in marketing technology, advertising platforms, or data analytics solutions.
+Deep understanding of data visualization and reporting concepts.
+Experience with managing and processing large volumes of data, including familiarity with Data Lake architectures and data warehousing concepts.
+Exposure to technologies such as redis, kafka and duckdb
+Familiarity with cloud platforms such as AWS or DigitalOcean.
+Experience with integrating third-party SaaS tools and services.
+Keenness to experiment with and learn new technologies.
+
+============================================================
+
+Telexar Technologies
+We’re looking for a Senior Software Engineer (Full-Stack) with 3–5 years of experience who can take a high-level brief and deliver a project end-to-end. You’ll work closely with product/design/stakeholders, turn requirements into a solid technical plan, and build high-quality features across the stack.
+This role suits someone who’s hands-on, communicates clearly, and takes ownership—someone who can deliver independently while collaborating well with others.
+What you’ll do
+Build, ship, and maintain full-stack features using TypeScript, React, Node.js, Next.js
+Take ownership of tasks/projects from brief → plan → build → release
+Break down high-level requirements into user stories, technical tasks, and milestones
+Implement backend APIs and integrations, and connect them cleanly to the frontend
+Deploy and operate services on AWS (with support from the team where needed)
+Write clean, maintainable code with good test coverage (where appropriate)
+Participate in code reviews and contribute to improving engineering standards
+Communicate progress, risks, and trade-offs clearly to technical and non-technical teammates
+Must-have skills & experience
+3–5 years experience in software engineering (full-stack preferred)
+Strong experience with TypeScript, React, Node.js & Next.js
+Exposure to AWS (examples: EC2, S3, RDS, Lambda, CloudFront, API Gateway, IAM)
+Able to work from a high-level brief and deliver with minimal supervision
+Strong soft skills: clear written & verbal communication & proactive updates and ownership
+CI/CD experience (GitHub Actions, GitLab CI, etc.)
+Nice-to-have
+Testing (Jest, Playwright/Cypress) and quality practices
+Serverless and/or containers (Lambda, ECS, Docker)
+Infrastructure-as-Code (Terraform, CDK, CloudFormation)
+Performance optimisation, observability, and production troubleshooting
+Experience mentoring juniors or leading small pieces of delivery
+What success looks like
+You deliver features reliably and communicate clearly throughout
+You make good engineering trade-offs and document decisions when needed
+You improve code quality, stability, and developer experience over time
+You collaborate smoothly across product/design/QA and help the team move faster
+
+============================================================
+
+Ikman Private Limited
+Come join hands with the Sri Lanka's largest marketplace
+We at ikman.lk are looking for talented and enthusiastic young talent to join our Development team at our office premises in the heart of Colombo.
+At least Two years of relevant experience
+Experience in Full stack
+Java/ PHP/ Javascript
+Angular
+Laravel
+MySQL/Mongo DB
+GIT
+Interested? please send us your application
+
+============================================================
+Antler Foundry (PVT) Limited
+The ideal candidate will be responsible for developing high-quality applications. They will also be responsible for designing and implementing testable and scalable code
+.Responsibilities
+Develop quality software and web applications Analyze and maintain existing software applications Design highly scalable, testable code Discover and fix programming bugs Strong analytical skills Good troubleshooting & problem-solving skills. Good verbal and written communication skills in English Customer oriented thinking and behavior. Attention to detail.
+Qualifications
+Minimum 2-3 years of working experience in web application development is mandatory. Good understanding of OOP concepts. Expert knowledge on C# / ASP.Net MVC Entityframework .Net Microservices Application will be an added advantage Knowledge on Javascript frameworks such as React/ Knockout/Angular etc. Experience of web services and third-party APIs. Experience in Microsoft SQL Server. Experience with Docker/Ubuntu will be an added advantage CI/CD process and DevOps will be an added advantage Performance testing with Selenium/ JMeter will be an added advantage Experience in ASP.Net Core and GCloud platform Experience in Agile development practices (SCRUM). Bachelor's degree Computer Science/Information Technology/Software Engineering or equivalent.
+
+============================================================
+Esoft Technologies
+The Job
+Build and maintain a POS system using React (TypeScript preferred).
+Implement core workflows: cart, discounts, taxes, payments, refunds, and receipts.
+Integrate REST/GraphQL APIs with proper loading and error handling.
+Support offline usage with caching, local storage, and sync strategies.
+Optimize performance and UX for high-throughput transactions.
+Develop reusable UI components aligned with the POS design system.
+Participate in code reviews, reduce technical debt, and improve code quality.
+Debug production issues and support stable releases.
+The Person
+2–4 years of experience building production React applications.
+Strong skills in JavaScript/TypeScript, HTML, and Tailwind CSS.
+Experience with state management and async data handling (Redux, Zustand, Context, React Query, etc.).
+Comfortable building complex forms, tables, and data-heavy UIs.
+Strong engineering practices: clean code, component architecture, Git, and code reviews.
+Ability to work independently and collaborate effectively with product, design, and backend teams.
+Nice To Have
+Experience with payment systems, including gateways, payment intents, retries, and webhooks.
+Familiarity with POS hardware integrations such as receipt printers, barcode scanners, and cash drawers.
+Knowledge of RBAC, multi-merchant or multi-outlet systems, and audit logging.
+Testing experience with Jest, React Testing Library, and Cypress or Playwright, especially for critical checkout flows.
+Understanding of security and compliance basics, including safe handling of sensitive data and PCI concepts.
+
+============================================================
+Rooster Technology
+Talent is the #01 driver of a company’s success, yet the majority of employers aren’t equipped with the right tools & resources to hire in the modern age. Rooster is a technology platform that helps employers find, manage and hire in-demand talent by streamlining hiring workflows, automating repetitive tasks, and improving the candidate experience.
+This vacancy (hosted on Rooster itself) is for us to find the right team that'll be working together to take Rooster to the world!
+Responsibilities
+Full cycle end-to-end development from design through implementation.
+Maintain code integrity, documentation, version control, and organization.
+Innovate and apply critical thinking and problem-solving skills to develop creative technological solutions.
+Translate understanding of requirements to design, development, and unit testing to address solutions.
+Collaborate with designers to create intuitive and responsive user interfaces and workflows.
+Design clean, robust, reactive, and efficient API interfaces.
+Collaborate with the team on release management, version control, and documentation.
+Requirements
+Bachelor’s degree in computer programming, computer science, or a related field.
+Experience in GraphQL
+Experience in JavaScript frameworks such as React, NextJs, Express, etc.
+Experience in mobile application development with frameworks such as React-native.
+Design REST APIs using NestJs.
+Experience working with relational and non-relational databases including MariaDB, Microsoft SQL Server (MSSQL), and MongoDB.
+Expertise with HTML5, CSS3, AJAX, and front-end component libraries such as Bootstrap, Material-UI, etc.
+Experience with CI/CD pipelines and deployments in AWS, Git Workflows.
+Knowledge of common web application security to defend web applications.
+Experience in Kubernetes and Docker is an added advantage.
+Machine Learning and Deep Learning (especially NLP), Generative AI (including advanced prompting, fine-tuning, and RAG pipelines), LLM integration (hosted/local), orchestration tools like LangChain, and evaluation frameworks such as RAGAs and TruLens would be an added advantage
+
+============================================================
+
+Zero-One Technologies
+Responsibilities:
+Develop high-quality software solutions using the specified technologies, such as Flutter, React,
+React Native, Node/Express/Nest.js, and Java Spring.
+Collaborate with cross-functional teams, including product managers, designers, and other
+engineers, to design, develop, and test software applications.
+Write clean, maintainable, and well-documented code, and adhere to coding standards.
+Troubleshoot and debug issues in existing software applications, and implement fixes.
+Keep up-to-date with emerging trends and technologies in software development, and apply this
+knowledge to improve the quality and efficiency of the software development process.
+Must maintain a solid understanding of software development principles and best practices.
+Qualifications:
+Bachelor's degree in Computer Science or equivalent from a recognized university.
+1-2 years of experience in mobile app development (Flutter).
+Design and Build sophisticated and highly scalable apps using flutter.
+Translate and Build the designs and Wireframes into high-quality responsive UI code.
+Hands-on experience in producing high-quality, clear, and maintainable code.
+Ability to work independently and as part of a team.
+Experience in spring framework, micro services, and high-performance computing will be a plus
+Ability to work in a highly agile environment.
+Strong problem-solving skills and the ability to analyze complex technical issues, identify the
+root cause of problems and implement effective solutions.
+Familiarity with version control systems, such as Git, and the ability to use them effectively to
+manage code repositories and collaborate with other developers.
+
+
+============================================================
+
+
+Enactor LTD
+About Enactor
+Enactor is a successful and growing software company providing enterprise systems to leading retailers world-wide. Enactor systems drive the in-store, mobile and online channels that make up a modern retail organisation.
+Profile
+You must have an outstanding academic and industrial track record with a recognised degree in Computer Science, Mathematics, or related discipline; excellent analytical and problem-solving skills; good communication, interpersonal and team working skills and you must be willing to travel. Most of all you must have a passion for developing high quality software.
+Responsibilities
+· Develop high quality, testable, well-documented software.
+· Ensure adequate test coverage at unit and integration levels.
+· Work closely with the Technical Architects and Development Managers to convert functional and technical
+specifications to production quality software.
+· Participate in the configuration, testing and release processes.
+· Contribute to design and specification processes. Research and learn new technologies.
+Qualification & Experience
+● A degree (BSc) in Computer Science or a related field.
+● Minimum of 5 (SSE), 8 (ATL), 10 (TL) years experience in developing Java/J2EE systems
+● Database development on MSSQL, Oracle or MySQL using SQL and JDBC
+● Extensive knowledge of XML, XML Schema and XSLT
+● Experience in HTML5, CSS, JavaScript and frameworks such as Angular or React.
+● Effective use of design patterns, MVC and unit testing frameworks.
+● Experience in unit and integration testing and use of mocking frameworks.
+● Experience in REST & SOAP web services, Microservice Architecture, SOA and OR Mapping
+● A passion for Agile methodologies and knowledge of SDLC.
+● Experience in Docker, Kubernetes, Terraform, AWS/Azure is desirable.
+● Android or iOS mobile app development skills are highly desirable.
+Note: Only shortlisted candidates will be contacted.
+Apply only if you are willing to work full-time on-site.
+
+============================================================
+
+Swivel Group
+headquartered in Australia is best known for building and implementing custom solutions for businesses to enable them to innovate, scale and compete at a global standard. We've been around since 2019, with a team growing beyond 160+ employees that help us challenge and innovate for our partners across the software, digital, and finance landscapes.
+Our Brands : Swivel Tech, Swivel Finance, Swivel Foundation, HumaniseAI.
+Role Overview
+We are seeking a Senior AI Solutions Engineer to design, build, and deploy enterprise-grade Generative AI solutions for our clients. You will architect and implement complex AI agent systems, RAG pipelines, and LLM-powered applications that solve real business problems across industries including construction, healthcare, government, and professional services.
+This role requires deep expertise in agentic AI architectures, prompt engineering, and cloud-native AI services. You will work on solutions involving multi-agent orchestration, document intelligence, semantic search, and cross-session memory systems.
+Key Responsibilities
+AI Architecture & Development
+• Design and implement agentic AI systems using LangGraph, LangChain, or similar orchestration frameworks
+• Architect multi-module AI solutions with complex state management, routing logic, and gating mechanisms
+• Build production-grade RAG (Retrieval-Augmented Generation) pipelines with vector databases and semantic search
+• Develop and optimise prompts for multi-turn conversations, structured outputs, and domain-specific tasks
+• Implement cross-session memory systems for contextual awareness across user interactions
+• Integrate LLM APIs (Claude, GPT, etc.) with appropriate error handling, retry logic, and cost optimisation
+Document Processing & Intelligence
+• Build document ingestion pipelines for PDF, DOCX, and structured data extraction
+• Implement intelligent chunking strategies that preserve document structure and context
+• Design and deploy semantic search solutions using Azure AI Search or similar vector stores
+• Create document analysis workflows for compliance, summarisation, and information extraction
+Cloud & Infrastructure
+• Deploy AI solutions on Azure (preferred) or AWS using container services, serverless functions, and managed AI services
+• Implement secure, scalable architectures with appropriate data sovereignty and compliance controls
+• Design cost-effective infrastructure with auto-scaling and usage-based resource management
+• Set up monitoring, logging, and observability for AI workloads (token usage, latency, error rates)
+Full-Stack Integration
+• Build RESTful APIs and WebSocket services for real-time AI interactions
+• Collaborate with frontend engineers to create intuitive chat interfaces and AI-powered UX
+• Implement streaming responses, typing indicators, and progressive content delivery
+• Write clean, well-documented code following best practices and security standards
+Leadership & Collaboration
+• Lead technical design sessions and architecture reviews for AI projects
+• Mentor junior engineers in AI/ML concepts, prompt engineering, and best practices
+• Collaborate with solution architects and clients to translate business requirements into technical solutions
+• Stay current with rapidly evolving AI landscape and evaluate new tools, models, and techniques
+• Participate in Agile ceremonies including sprint planning, standups, and retrospectives
+Experience Requirements
+4-6 years of professional software engineering experience, with 1-2 years focused on Generative AI, LLM applications, or AI/ML solutions.
+Required Technical Skills
+Core AI/LLM Skills (Must Have)
+• Strong experience with LangChain and/or LangGraph for agent orchestration
+• Hands-on experience integrating LLM APIs (Claude/Anthropic, OpenAI, Azure OpenAI)
+• Proven track record building production RAG systems with vector databases
+• Advanced prompt engineering skills including system prompts, few-shot learning, and chain-of-thought
+• Experience with embedding models and semantic similarity search
+• Understanding of LLM limitations, hallucination mitigation, and grounding techniques
+Cloud & Infrastructure (Must Have)
+• Strong experience with Azure (preferred) or AWS cloud services
+• Hands-on with Azure AI services: AI Search, Document Intelligence, Cosmos DB, Container Apps
+• Experience with containerisation (Docker) and orchestration (Kubernetes or managed services)
+• Knowledge of Infrastructure as Code
+• Understanding of cloud security, networking, and compliance requirements
+Programming & Development (Must Have)
+• Proficiency in Python for AI/ML development and backend services
+• Experience with TypeScript/JavaScript and modern frameworks (React, Next.js)
+• Strong API design skills (REST, WebSocket, GraphQL)
+• Proficiency with Git, CI/CD pipelines, and DevOps practices
+• Experience with relational and NoSQL databases (PostgreSQL, Cosmos DB, MongoDB)
+Nice to Have Skills
+• Experience with Semantic Kernel (Microsoft) for enterprise AI orchestration
+• Voice AI integration (VAPI, Azure Speech, or similar)
+• Fine-tuning LLMs or working with open-source models (Llama, Mistral)
+• Knowledge of AI agents frameworks beyond LangGraph (AutoGen)
+• Experience with n8n, Make, or similar workflow automation platforms
+• Background in NLP, information extraction, or document understanding
+
+============================================================
+13. Avantario
+We’re looking for a Full Stack Software Engineer to join our team in building scalable, high-performance web applications. You will work closely with stakeholders, project managers, designers, and fellow engineers to develop and deliver robust solutions across both front-end and back-end components.
+Responsibilities:
+• Develop and maintain full-stack applications with a focus on scalability, performance, and usability.
+• Collaborate with cross-functional teams to gather requirements and implement effective technical solutions.
+• Participate in code reviews and contribute to best practices in software development.
+• Write clean, maintainable, and efficient code with attention to detail and performance.
+• Troubleshoot and debug issues across the application stack.
+• Stay informed of new technologies and tools relevant to the role.
+Qualifications:
+• Should Possess a BSc/BSc Eng - Computer Science / Engineering / IT / Software Engineering. etc.
+• Familiarity with modern front-end frameworks (e.g., React, NextJS, Angular, or Vue). - Experience with React and NextJS is a Plus
+• Experience in back-end technologies such as Node.js, Python, Django, Java or .NET) - Experience with Django is a Plus
+• Understanding of RESTful APIs and common architectural patterns (e.g., MVC, microservices).
+• Experience with relational (e.g., PostgreSQL, MySQL) and/or NoSQL (e.g., MongoDB, Redis) databases.
+• Familiar with Git and CI/CD tools.
+• Exposure to cloud platforms like AWS, Azure, or GCP is a plus.
+• Strong analytical and problem-solving skills.
+• Good communication and teamwork abilities.
+
+============================================================
+14. Finder Recruitment
+Job Duties
+• Involve in all stages of the software development process, including requirement gathering, design, development, testing, deployment management, issue review and maintenance.
+• Develop existing programs by analyzing and identifying areas for modifications.
+• Maintain up-to-date knowledge of the latest technologies, tools and platforms.
+• Monitoring system performance and security aspects.
+• Produce high-quality designs with research and write new secured software programs by following industry best practices and coding standards.
+• Provide training and guidance to new developers by playing a leadership role within the team.
+• Good communication skills.
+• Perform task wit minimum supervision.
+Requirements
+• Male / Female
+• Age below 45
+• Bachelor’s degree in computer science, computer engineering or similar.
+• Previous work experience as an angularJS developer.
+• Proficient in CSS, HTML, and writing cross-browser compatible code.
+• Experience using JavaScript building tools like Gulp or Grunt.
+• Knowledge of JavaScript MV-VM/MVC frameworks including AngluarJS.
+• Excellent project management skills.
+• Proven experience implementing front-end and back-end JavaScript applications.
+• Excellent communication skills.
+• Critical thinker and good problem-solve
+
+============================================================
+Webtezza Private Limited
+We are seeking a highly motivated Software Engineer with strong expertise in React & NodeJS to join our dynamic development team at Webtezza Private Limited. In this role, you will contribute to both front-end and back-end development, helping drive key company projects while delivering high-quality web applications. As a Software Engineer, you will work with cutting-edge technologies and collaborate closely with cross-functional teams to deliver innovative and scalable software solutions.
+Key Responsibilities:
+• Develop responsive, high-performance web applications using React and NodeJS.
+• Design and implement backend services and APIs using NodeJS.
+• Manage state efficiently with Redux to ensure smooth interactions and data flow.
+• Collaborate with front-end teams to implement seamless user interfaces and interactions.
+• Design and manage databases, ensuring optimized performance and effective data storage.
+• Ensure the scalability, maintainability, and performance of the application.
+• Write clean, maintainable, and efficient code while adhering to coding standards and best practices.
+• Troubleshoot, debug and resolve technical issues.
+• Participate in code reviews, providing feedback to team members and continuously improving the codebase.
+• Work closely with product managers, designers, and other engineers to deliver impactful software solutions.
+• Keep up-to-date with the latest industry trends and emerging technologies to continuously improve development practices.
+Requirements:
+• Bachelor’s degree in Computer Science, Software Engineering, or a related field.
+• Proven experience in web development with expertise in React, Node.js, and relevant frameworks.
+• Strong proficiency in front-end and back-end development, including expertise in React (with Redux) and Node.js.
+• Experience with RESTful APIs and WebSocket implementations.
+• Solid understanding of JavaScript / ES6+.
+• Experience with TypeScript would be an advantage.
+• Familiarity with Tailwind and WordPress Theme Development is a plus.
+• A solid understanding of Object-Oriented Programming (OOP) principles.
+• Strong problem-solving, analytical skills, and experience with database management.
+• Knowledge of software development best practices and version control systems like Git.
+What’s On Offer:
+• Competitive salary commensurate with experience and skill set.
+• Hybrid work model, offering flexibility to work remotely or from the office, based on preference.
+• Travel & accommodation allowances for those who choose to work from the office, ensuring a seamless and comfortable commute.
+• Opportunities for career growth and advancement within a dynamic and supportive work environment.
+• Work-life balance, supported by flexible working hours.
+
+============================================================
+
+InEight
+Responsibilities
+If you're looking to build your career at a fast-paced, innovative company with loads of opportunity, then look no further than InEight. Come work in a fun, collaborative environment with our friendly team of self-starters. We pride ourselves on our company culture, and every bit of InEight is designed to bring out the best in our people.
+We are on the lookout for talented and motivated individuals who would like to join our highly talented Software Development team. The Software Engineer will contribute knowledge of modern software development techniques and technology to design and develop best in class enterprise software solutions within a collaborative, Agile development environment. This role will have direct interaction with business analysts, product owners, product managers, UX/UI, and QA to design and develop solutions.
+Skills & Experience
+• 1+ years of experience in Web and/or Windows based software development
+• Bachelor's degree in Computer Science, IT or equivalent
+• Experience using .NET technologies (C#.NET, MVC5, Web API), Microsoft SQL Server, REST API/API Development, Entity Framework and LINQ, JavaScript based development frameworks (Angular/React.js), Bootstrap, HTML5, CSS
+• Ability to code software according to published standards and design guidelines
+• Proactive, goal oriented with excellent attention to detail
+• Effectively manages changes to work tasks and the work environment and assists others with adapting to change
+• Demonstrates initiative and a willingness to learn and continuously improve on performance
+• Experience in using Telerik components (Kendo UI) and developing Azure Web Apps or AWS experience will be beneficial
+• Experience in working in Agile development environment
+
+============================================================
+
+Glenzoft PVt Limited
+Glenzsoft is looking for Software Developers to join our team in Kandy.
+We are seeking motivated individuals with a solid foundation in .NET (C#) development and a passion for building meaningful software solutions. This is a great opportunity for candidates who are eager to grow, contribute, and work in a professional development environment.
+Qualifications
+Minimum 1 year experience in .NET (C#) development
+Familiarity with ASP.NET, Blazor, .NET MAUI, SQL Server, SSMS, and Database Design & Managementwill be an added advantage
+Good problem-solving skills
+Ability to work independently and as part of a team
+Good communication and coordination skills
+Ability to manage tasks and meet deadlines
+Willingness to learn and grow.
+
+============================================================
+CMS (PVT) Limited
+Our US client is on the lookout for a talented Full Stack .Net Engineer to join their team in Sri Lanka.
+Your Profile
+4+ years of experience as a full stack engineer. Strong experience in C# and .NET Core.
+Hands-on experience with .NET Framework 4.8 (or prior experience maintaining legacy systems).
+Solid backend development experience with a backend-heavy focus.
+Proficiency in SQL (e.g., SQL Server) including query optimization and database design.
+Experience building APIs and working with distributed systems.
+Familiarity with Node.js development.
+Working knowledge of React.js.
+Understanding of version control systems (e.g., Git).
+Strong problem-solving and analytical skills.
+Excellent spoken and written English to
+collaborate with onsite teams in the US.
+
+============================================================
+Finakle Management Solutions
+We Are Expanding Our Team! – Java Developer Wanted
+At Finakle ERP Solutions, we build powerful POS & ERP systems used by real businesses across Sri Lanka
+Now we are moving to the next level — Cloud-Based SaaS Platform
+We are looking for a passionate Java Developer to join our core team.
+What You’ll Do:
+Develop POS & ERP systems 
+Work on SaaS (multi-company cloud platform)
+Build real-world business solutions
+Requirements: Java (Servlet / JSP)
+MySQL Database
+Basic Web Knowledge
+
+============================================================
+Global Traning Network Aliances
+Requirement
+We are looking for a strong, detail-oriented, and responsible developer to join our team and contribute to building scalable and high-quality applications.
+Core Technical Skills (Must Have)
+Strong understanding of Object-Oriented Programming (OOP)
+Backend development with Node.js and Express.js Experience with TypeScript
+Frontend development using React.js and Next.js
+Familiarity with NestJS (preferred for structured backend architecture)
+Database Skills
+Experience with SQL databases (MySQL, PostgreSQL, etc.)
+Experience with NoSQL databases (MongoDB, etc.)
+Ability to design efficient and scalable data models
+Additional Skills (Nice to Have)
+Mobile development experience with Flutter
+Basic understanding of DevOps practices
+CI/CD pipelines
+Docker services (AWS, etc.)
+Developer Qualities
+Strong problem-solving skills and logical thinking
+Attention to detail and code quality
+Ability to write clean, maintainable, amd scalable code
+Good understanding of software architecture and best practices Team player with good communication skills
+Responsible, proactive, and committed to delivering results
+
+============================================================
+Digiratina Technology Solutions
+Role Overview: As a Full-Stack Developer, you will design, build, and maintain a modern ERP web application. You will work end-to-end on features across a React/TypeScript frontend and a .NET backend, leveraging AI-assisted development tools to accelerate coding, testing, and documentation. You will help replace Baseplan’s legacy ERP platform while collaborating closely with customers, business analysts, and cross-functional teams.
+Key Responsibilities as a Full-Stack Developer:
+Deliver full stack features end-to-end: from API endpoint design through to React UI implementation
+Build and extend RESTful API endpoints in .NET using Clean Architecture principles
+Implement frontend feature modules in React + TypeScript with modern state management patterns
+Leverage AI-assisted development tools to accelerate coding, testing, code review, and documentation workflows
+Conduct peer code reviews across both frontend and backend contributions
+Liaise directly with customers and business analysts to clearly understand requirements and translate them into sound technical solutions
+Identify and flag scope, timeline, or quality risks to the team lead proactively
+Ensure timesheets and administrative tasks are completed accurately and on time
+Demonstrate awareness of the wider implications of technical decisions on the product, customers, and other internal teams
+Qualifications:
+5+ years software development experience, including 3+ years full-stack.
+Strong .NET (C#), REST API, and SQL Server knowledge.
+Proficient in React, TypeScript, and state management libraries (TanStack, Zustand, Redux).
+Experience with CI/CD pipelines (Azure DevOps, GitHub Actions).
+Familiarity with AI-assisted development tools (GitHub Copilot, Cursor, Claude Code).
+ERP or enterprise software experience and Microsoft certifications are a plus.
+Excellent knowledge on modern application architecture and design patterns
+Good understanding of SOLID principles
+Experience with Entity Framework Core
+Good T-SQL and SQL Server knowledge
+Experience designing and implementing production grade RESTful APIs
+Strong English communication, problem-solving, and attention to detail.
+Ability to work independently in a distributed team and manage competing priorities.
+If you’re a passionate Full-Stack Developer eager to deliver high-quality, AI-assisted ERP solutions and end-to-end features, apply now to join our innovative team.

@@ -1,0 +1,353 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ResumeAI — AI-Powered Resume Analyzer</title>
+<meta name="description" content="AI-powered resume analysis for IT professionals. Get instant role-fit scoring, skill gap detection, and actionable improvement suggestions — no LLMs, no black boxes.">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&display=swap" rel="stylesheet">
+<link href="https://api.fontshare.com/v2/css?f[]=general-sans@300,400,500,600,700&display=swap" rel="stylesheet">
+<script src="https://unpkg.com/lucide@latest/dist/umd/lucide.js"></script>
+
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- NAV -->
+<nav class="nav" id="main-nav">
+  <a href="#" class="nav-logo">
+    <div class="nav-logo-icon">
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/></svg>
+    </div>
+    ResumeAI
+  </a>
+  <div class="nav-links">
+    <a href="#how" class="nav-link">How it works</a>
+    <a href="#features" class="nav-link">Features</a>
+    <a href="#tech" class="nav-link">Tech Stack</a>
+    <a href="#demo" class="nav-link">Demo</a>
+  </div>
+  <div class="nav-acts">
+    <button class="theme-btn" data-theme-toggle aria-label="Toggle theme">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
+    </button>
+    <a href="auth.html" class="btn btn-ghost">Sign In</a>
+    <a href="analyzer.html" class="btn btn-primary">
+      <i data-lucide="zap" style="width:15px;height:15px"></i> Analyze Resume
+    </a>
+  </div>
+</nav>
+
+<!-- HERO -->
+<section class="hero">
+  <div class="hero-bg"></div>
+  <div class="hero-grid"></div>
+  <div class="hero-content">
+    <div class="hero-eyebrow" id="h-eyebrow">
+      <i data-lucide="cpu" style="width:11px;height:11px"></i>
+      No LLMs · No Black Boxes · Custom ML
+    </div>
+    <h1 class="hero-heading" id="h-heading">
+      Your resume,<br>
+      <em>intelligently scored.</em>
+    </h1>
+    <p class="hero-sub" id="h-sub">
+      Upload your CV, choose a role. Get instant fit scoring, skill gap detection, and prioritized improvement suggestions — powered by a custom CRF NER model and cosine similarity engine.
+    </p>
+    <div class="hero-cta" id="h-cta">
+      <a href="analyzer.html" class="btn btn-primary" style="padding:var(--s4) var(--s8);font-size:var(--text-base)">
+        <i data-lucide="upload-cloud" style="width:18px;height:18px"></i>
+        Analyze My Resume
+      </a>
+      <a href="#how" class="btn btn-ghost" style="padding:var(--s4) var(--s8);font-size:var(--text-base)">
+        <i data-lucide="play-circle" style="width:18px;height:18px"></i>
+        See How It Works
+      </a>
+    </div>
+  </div>
+  <div class="scroll-hint" aria-hidden="true">
+    <i data-lucide="chevrons-down" style="width:18px;height:18px"></i>
+  </div>
+</section>
+
+<!-- TRUST BAR -->
+<div class="trust-bar" aria-hidden="true">
+  <div class="trust-track" id="trust-track">
+    <div class="trust-item"><div class="trust-dot"></div> CRF NER Model</div>
+    <div class="trust-item"><div class="trust-dot"></div> Cosine Similarity Engine</div>
+    <div class="trust-item"><div class="trust-dot"></div> Role-Based Scoring</div>
+    <div class="trust-item"><div class="trust-dot"></div> Skills Gap Detection</div>
+    <div class="trust-item"><div class="trust-dot"></div> Experience Extraction</div>
+    <div class="trust-item"><div class="trust-dot"></div> Section Completeness Check</div>
+    <div class="trust-item"><div class="trust-dot"></div> PDF · DOCX · TXT</div>
+    <div class="trust-item"><div class="trust-dot"></div> Entry · Mid · Senior</div>
+    <!-- duplicate for seamless loop -->
+    <div class="trust-item"><div class="trust-dot"></div> CRF NER Model</div>
+    <div class="trust-item"><div class="trust-dot"></div> Cosine Similarity Engine</div>
+    <div class="trust-item"><div class="trust-dot"></div> Role-Based Scoring</div>
+    <div class="trust-item"><div class="trust-dot"></div> Skills Gap Detection</div>
+    <div class="trust-item"><div class="trust-dot"></div> Experience Extraction</div>
+    <div class="trust-item"><div class="trust-dot"></div> Section Completeness Check</div>
+    <div class="trust-item"><div class="trust-dot"></div> PDF · DOCX · TXT</div>
+    <div class="trust-item"><div class="trust-dot"></div> Entry · Mid · Senior</div>
+  </div>
+</div>
+
+<!-- STATS -->
+<div class="stats-section">
+  <div class="stats-grid">
+    <div class="stat-cell reveal">
+      <div class="stat-num"><span data-count="30">0</span>+</div>
+      <div class="stat-label">Annotated CVs</div>
+    </div>
+    <div class="stat-cell reveal reveal-d1">
+      <div class="stat-num"><span data-count="4">0</span></div>
+      <div class="stat-label">Target Job Roles</div>
+    </div>
+    <div class="stat-cell reveal reveal-d2">
+      <div class="stat-num"><span data-count="3">0</span></div>
+      <div class="stat-label">Experience Levels</div>
+    </div>
+    <div class="stat-cell reveal reveal-d3">
+      <div class="stat-num"><span data-count="9">0</span></div>
+      <div class="stat-label">NER Entity Classes</div>
+    </div>
+  </div>
+</div>
+
+<!-- HOW IT WORKS -->
+<section class="section" id="how">
+  <div class="container">
+    <div class="section-header reveal">
+      <div class="snum">How it works</div>
+      <h2 class="stitle">From upload to <em>insight</em> in seconds</h2>
+      <p class="ssub">A three-stage pipeline processes your resume through text extraction, entity recognition, and role-based matching to produce a structured fit report.</p>
+    </div>
+    <div class="steps-grid">
+      <div class="step-card reveal reveal-d1">
+        <div class="step-num">01</div>
+        <div class="step-icon"><i data-lucide="upload-cloud" style="width:22px;height:22px"></i></div>
+        <div class="step-title">Upload &amp; Parse</div>
+        <p class="step-desc">Drop your PDF, DOCX, or TXT resume. The preprocessing pipeline extracts raw text using PyMuPDF and python-docx with multi-engine fallback.</p>
+      </div>
+      <div class="step-card reveal reveal-d2">
+        <div class="step-num">02</div>
+        <div class="step-icon"><i data-lucide="brain" style="width:22px;height:22px"></i></div>
+        <div class="step-title">NER Extraction</div>
+        <p class="step-desc">A custom-trained CRF NER model identifies 9 entity classes — EXP, EDU, SKILL, DATE, PROJ, PER, ORG, LOC, LANG — directly from your resume tokens.</p>
+      </div>
+      <div class="step-card reveal reveal-d3">
+        <div class="step-num">03</div>
+        <div class="step-icon"><i data-lucide="bar-chart-2" style="width:22px;height:22px"></i></div>
+        <div class="step-title">Role Matching</div>
+        <p class="step-desc">Cosine similarity measures text-to-job-profile alignment. A ML quality classifier and NER-derived experience score combine into a weighted final score.</p>
+      </div>
+      <div class="step-card reveal reveal-d4">
+        <div class="step-num">04</div>
+        <div class="step-icon"><i data-lucide="lightbulb" style="width:22px;height:22px"></i></div>
+        <div class="step-title">Actionable Report</div>
+        <p class="step-desc">You receive a detailed breakdown: component scores, matched and missing skills, completeness flags, level fit, and a prioritized improvement plan.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- FEATURES -->
+<section class="section" id="features" style="background:var(--surface);border-top:1px solid var(--border);border-bottom:1px solid var(--border)">
+  <div class="container">
+    <div class="section-header centered reveal">
+      <div class="snum">Features</div>
+      <h2 class="stitle">Everything you need to <em>stand out</em></h2>
+      <p class="ssub">Six specialized analysis modules working together to give you a complete picture of your resume's strengths and gaps.</p>
+    </div>
+    <div class="features-grid">
+
+      <div class="feat-card reveal reveal-d1">
+        <div class="feat-icon" style="background:var(--ph2);color:var(--p)"><i data-lucide="target" style="width:22px;height:22px"></i></div>
+        <div class="feat-title">Role Fit Scoring</div>
+        <p class="feat-desc">A composite score from three engines: text similarity (50%), ML quality classifier (30%), and CRF NER experience score (20%) — calibrated for IT roles.</p>
+        <span class="feat-tag" style="background:var(--ph2);color:var(--p)">Core</span>
+      </div>
+
+      <div class="feat-card reveal reveal-d2">
+        <div class="feat-icon" style="background:rgba(92,168,50,.12);color:var(--success)"><i data-lucide="check-circle-2" style="width:22px;height:22px"></i></div>
+        <div class="feat-title">Skill Gap Detection</div>
+        <p class="feat-desc">Compares your detected skills against curated role profiles. Shows exactly which required skills are present and which are missing — as chips.</p>
+        <span class="feat-tag" style="background:rgba(92,168,50,.12);color:var(--success)">Precision</span>
+      </div>
+
+      <div class="feat-card reveal reveal-d3">
+        <div class="feat-icon" style="background:rgba(224,128,32,.12);color:var(--warn)"><i data-lucide="clock" style="width:22px;height:22px"></i></div>
+        <div class="feat-title">Experience Extraction</div>
+        <p class="feat-desc">The CRF NER model identifies DATE entities within EXP sections to calculate years of professional experience — excluding education dates to avoid overcounting.</p>
+        <span class="feat-tag" style="background:rgba(224,128,32,.12);color:var(--warn)">NER-Powered</span>
+      </div>
+
+      <div class="feat-card reveal reveal-d1">
+        <div class="feat-icon" style="background:var(--ph2);color:var(--p)"><i data-lucide="layers" style="width:22px;height:22px"></i></div>
+        <div class="feat-title">Section Completeness</div>
+        <p class="feat-desc">Checks five key resume sections — Summary, Experience, Education, Skills, Projects — and flags any that are missing or underdeveloped.</p>
+        <span class="feat-tag" style="background:var(--ph2);color:var(--p)">Structure</span>
+      </div>
+
+      <div class="feat-card reveal reveal-d2">
+        <div class="feat-icon" style="background:rgba(92,168,50,.12);color:var(--success)"><i data-lucide="user-check" style="width:22px;height:22px"></i></div>
+        <div class="feat-title">Level Recommendation</div>
+        <p class="feat-desc">Fits your profile against Entry, Mid, and Senior levels simultaneously and recommends the optimal level based on experience and skill depth.</p>
+        <span class="feat-tag" style="background:rgba(92,168,50,.12);color:var(--success)">Smart Fit</span>
+      </div>
+
+      <div class="feat-card reveal reveal-d3">
+        <div class="feat-icon" style="background:rgba(224,64,80,.12);color:var(--err)"><i data-lucide="lightbulb" style="width:22px;height:22px"></i></div>
+        <div class="feat-title">Prioritized Recommendations</div>
+        <p class="feat-desc">Every gap becomes an action item — categorized as High, Medium, or Info priority — so you know exactly what to fix first to maximize your fit score.</p>
+        <span class="feat-tag" style="background:rgba(224,64,80,.12);color:var(--err)">Actionable</span>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- DEMO SCORE PREVIEW -->
+<section class="section" id="demo">
+  <div class="container">
+    <div class="section-header centered reveal">
+      <div class="snum">Live Preview</div>
+      <h2 class="stitle">What your <em>report</em> looks like</h2>
+      <p class="ssub">A sample output for a Software Engineer (Mid Level) role — showing component scores and skill analysis.</p>
+    </div>
+    <div class="demo-wrap reveal">
+      <div class="demo-role">
+        <div class="demo-role-info">
+          <div class="demo-role-icon"><i data-lucide="code-2" style="width:22px;height:22px"></i></div>
+          <div>
+            <div class="demo-role-name">Software Engineer</div>
+            <div class="demo-role-sub">Mid Level · IT Role</div>
+          </div>
+        </div>
+        <div>
+          <div class="demo-score-big" id="demo-score">0</div>
+          <div style="font-size:var(--text-xs);color:var(--muted);text-transform:uppercase;letter-spacing:.08em">Overall Score</div>
+        </div>
+      </div>
+      <div class="demo-bars">
+        <div class="demo-bar-row">
+          <span class="demo-bar-label">Text Similarity</span>
+          <span class="demo-bar-pct">72%</span>
+          <div class="demo-track"><div class="demo-fill" data-w="72"></div></div>
+        </div>
+        <div class="demo-bar-row">
+          <span class="demo-bar-label">Skill Match</span>
+          <span class="demo-bar-pct">80%</span>
+          <div class="demo-track"><div class="demo-fill" data-w="80"></div></div>
+        </div>
+        <div class="demo-bar-row">
+          <span class="demo-bar-label">Experience Match</span>
+          <span class="demo-bar-pct">65%</span>
+          <div class="demo-track"><div class="demo-fill" data-w="65"></div></div>
+        </div>
+        <div class="demo-bar-row">
+          <span class="demo-bar-label">Education Match</span>
+          <span class="demo-bar-pct">90%</span>
+          <div class="demo-track"><div class="demo-fill" data-w="90"></div></div>
+        </div>
+      </div>
+      <div class="demo-chips">
+        <span class="demo-chip demo-chip-match"><i data-lucide="check" style="width:9px;height:9px"></i>Python</span>
+        <span class="demo-chip demo-chip-match"><i data-lucide="check" style="width:9px;height:9px"></i>REST APIs</span>
+        <span class="demo-chip demo-chip-match"><i data-lucide="check" style="width:9px;height:9px"></i>Git</span>
+        <span class="demo-chip demo-chip-match"><i data-lucide="check" style="width:9px;height:9px"></i>Flask</span>
+        <span class="demo-chip demo-chip-miss"><i data-lucide="x" style="width:9px;height:9px"></i>Docker</span>
+        <span class="demo-chip demo-chip-miss"><i data-lucide="x" style="width:9px;height:9px"></i>CI/CD</span>
+        <span class="demo-chip demo-chip-match"><i data-lucide="check" style="width:9px;height:9px"></i>SQL</span>
+        <span class="demo-chip demo-chip-match"><i data-lucide="check" style="width:9px;height:9px"></i>Unit Testing</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- TECH STACK -->
+<section class="section" id="tech" style="background:var(--surface);border-top:1px solid var(--border);border-bottom:1px solid var(--border)">
+  <div class="container">
+    <div class="section-header reveal">
+      <div class="snum">Tech Stack</div>
+      <h2 class="stitle">Built from <em>scratch.</em> No shortcuts.</h2>
+      <p class="ssub">Every model is trained from scratch on hand-annotated Sri Lankan IT resumes. No pre-trained transformer APIs. No third-party LLMs. Full transparency.</p>
+    </div>
+    <div class="tech-grid">
+      <div class="tech-card reveal reveal-d1"><div class="tech-dot"></div><div><div class="tech-name">Python</div><div class="tech-role">Core language</div></div></div>
+      <div class="tech-card reveal reveal-d2"><div class="tech-dot"></div><div><div class="tech-name">Flask</div><div class="tech-role">Backend API</div></div></div>
+      <div class="tech-card reveal reveal-d3"><div class="tech-dot"></div><div><div class="tech-name">CRF (sklearn-crfsuite)</div><div class="tech-role">NER model</div></div></div>
+      <div class="tech-card reveal reveal-d4"><div class="tech-dot"></div><div><div class="tech-name">scikit-learn</div><div class="tech-role">ML classifier + TF-IDF</div></div></div>
+      <div class="tech-card reveal reveal-d1"><div class="tech-dot"></div><div><div class="tech-name">PyMuPDF</div><div class="tech-role">PDF text extraction</div></div></div>
+      <div class="tech-card reveal reveal-d2"><div class="tech-dot"></div><div><div class="tech-name">python-docx</div><div class="tech-role">DOCX parsing</div></div></div>
+      <div class="tech-card reveal reveal-d3"><div class="tech-dot"></div><div><div class="tech-name">Cosine Similarity</div><div class="tech-role">Text matching engine</div></div></div>
+      <div class="tech-card reveal reveal-d4"><div class="tech-dot"></div><div><div class="tech-name">BIO Annotation</div><div class="tech-role">Training data format</div></div></div>
+    </div>
+  </div>
+</section>
+
+<!-- CTA -->
+<section class="cta-section">
+  <div class="cta-bg"></div>
+  <div class="container">
+    <h2 class="cta-heading reveal">Ready to know where<br><em>you really stand?</em></h2>
+    <p class="cta-sub reveal reveal-d1">Upload your resume and get a full analysis in seconds. No signup required. No data stored.</p>
+    <div class="cta-btns reveal reveal-d2">
+      <a href="analyzer.html" class="btn btn-primary" style="padding:var(--s4) var(--s8);font-size:var(--text-base)">
+        <i data-lucide="upload-cloud" style="width:18px;height:18px"></i>
+        Analyze My Resume
+      </a>
+      <a href="#how" class="btn btn-ghost" style="padding:var(--s4) var(--s8);font-size:var(--text-base)">
+        <i data-lucide="info" style="width:18px;height:18px"></i>
+        Learn More
+      </a>
+    </div>
+  </div>
+</section>
+
+<!-- FOOTER -->
+<footer class="footer">
+  <div class="footer-inner">
+    <div class="footer-brand">
+      <div class="footer-logo">
+        <div class="nav-logo-icon"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/></svg></div>
+        ResumeAI
+      </div>
+      <p class="footer-desc">AI-powered resume analysis for IT professionals. Built with custom ML — no LLMs, no black boxes.</p>
+    </div>
+    <div>
+      <div class="footer-col-title">Product</div>
+      <div class="footer-links">
+        <a href="analyzer.html" class="footer-link">Analyze Resume</a>
+        <a href="#how" class="footer-link">How It Works</a>
+        <a href="#features" class="footer-link">Features</a>
+        <a href="#demo" class="footer-link">Demo Preview</a>
+      </div>
+    </div>
+    <div>
+      <div class="footer-col-title">Tech</div>
+      <div class="footer-links">
+        <a href="#tech" class="footer-link">Tech Stack</a>
+        <a href="#" class="footer-link">CRF NER Model</a>
+        <a href="#" class="footer-link">Scoring Formula</a>
+        <a href="#" class="footer-link">API Docs</a>
+      </div>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <span>© 2026 ResumeAI. Designed for IT job applicants.</span>
+    <div class="footer-badges">
+      <span class="f-badge"><i data-lucide="shield" style="width:10px;height:10px"></i> No LLMs</span>
+      <span class="f-badge"><i data-lucide="lock" style="width:10px;height:10px"></i> No Data Stored</span>
+      <span class="f-badge"><i data-lucide="cpu" style="width:10px;height:10px"></i> Custom ML</span>
+    </div>
+  </div>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,517 @@
+INTERN / ENTRY-LEVEL JOB DESCRIPTIONS
+============================================================
+Surge Globel (Company)
+Surge Global is a digital consultancy that leverages marketing, data, and technology to help businesses grow. As Sri Lanka’s leading digital firm, we employ the best content, creative, design & engineering talent the country has to offer.
+Embracing a culture of transparency and equality in the workplace, we’ve built an environment helping Sri Lanka’s best marketing and creative talent thrive. Our team looks at untangling multivariate problems with an open mind and the willingness to constantly test and learn.
+With our headquarters in Colombo Sri Lanka, we help scale startups to Fortune 500 companies across the United States, United Kingdom, Australia, and Sri Lanka.
+This paid internship is a 12 month program, which operates in 2 tiers. The first half involves a structured training program to build up core skills, while the latter half gives hands on experience with live engagements. Starting at Rs.50,000/month, interns have the ability to increase their paid rate by moving through the tiers.
+By the end of the internship, we expect that you would have gathered the skills and attitude required to work alongside the engineers and marketers here at Surge to take your career forward and join our ranks.
+What you’ll be doing/learning:
+Hands-on experience in the full software development lifecycle.
+Hands-on experience in programming for enterprise-grade apps, and obtaining knowledge of related processes and practices.
+Participate in requirement gathering and architecture discussions with development and business teams.
+Work on setting up development environments and gain exposure to the Dev-Ops practice.
+Gain exposure to international clients looking to solve a various business and engineering problems.
+Proactive and reactive monitoring of application systems and infrastructure.
+Improve communication skills and understand the dynamics of working in a team.
+General Requirements:
+Bachelor’s Degree in Computer Information Systems or Computer Science or equivalent.
+Knowledge of basic programming, data structures, algorithms, and operating systems.
+Knowledge of database concepts (both RDBMS and NoSQL).
+Good knowledge of OOP concepts and SOLID principles.
+Experience working on or building PAT projects using JavaScript, MongoDB, ExpressJS, React JS, and NodeJS is an absolute advantage.
+Basic understanding of cloud-based environments such as AWS or Azure.
+Excellent communication and problem-solving skills.
+Excellent time management skills.
+Excellent attention to detail.
+
+==============================================================================
+Softmint Software Solutions
+We're currently on the lookout for a talented Intern Software Engineer ( React ) who shares our passion for crafting exceptional tech products using the MERN stack for our esteemed clients. If you thrive in a flexible work setting and enjoy collaborating with a tech-savvy and motivated team, this opportunity is tailor-made for you!
+To excel in this role, you should possess the following skills and knowledge:
+• Proficiency in HTML, CSS, and JavaScript.
+• Academic experience in React.js and Node.js.
+• Academic experience in MongoDB or other NoSQL and SQL databases.
+• Familiarity with GitHub.
+• Strong understanding of functional components in React.
+• Adherence to coding best practices.
+Additional Skills: Apart from technical expertise, we also value the following skills:
+• Effective communication abilities.
+• Problem-solving aptitude.
+• Ability to adapt to various working environments.
+• Keen attention to detail.
+Responsibilities:
+As part of our team, you will be responsible for the following:
+• Building reusable code components.
+• Collaborating closely with other team members.
+• Being involved in the complete software development cycle, from inception to completion
+Location : Battaramulla
+
+==========================================================================
+Rov Digital
+We are looking for Software Engineering Interns who are passionate about ReactJS, React Native, Spring, Angular JS, Laravel, and PHP.
+Ideal candidates should have the following,
+• Excellent written and verbal skills are a must
+• Superb interpersonal skills and ability to work in a team
+• Leadership qualities would be an added advantage
+• Must have good analytical skills
+
+============================================================
+Asipiya soft solution
+Join Asipiya Soft Solution’s Innovation Journey!
+Internship Opportunity: Ready to make an impact?
+We are looking for Associate Software Engineer intern to join our dynamic team
+Requirements:-
+🔹Strong understanding of programming fundamentals, data structures, and algorithms.
+🔹Proficiency in React.js with JavaScript/TypeScript, JSX, Redux, and asynchronous programming.
+🔹Strong backend development skills using PHP with Laravel, covering MVC architecture, RESTful API development, routing, middleware, and authentication.
+🔹Good knowledge of PostgreSQL for database design, querying, and optimization.
+🔹Excellent problem-solving skills, with the ability to analyze complex issues and implement effective solutions.
+📩 Apply: Send your resume to career@asipiya.lk
+Let’s shape the future together!
+Sri Lanka IT job vacancy 2024
+Source:- Asipiya soft solutions
+
+=======================================================================================
+Perpova Developers
+Perpova Deelopers is seeking a talented and motivated Software Engineer Intern to join our growing team. This is an excellent opportunity for aspiring developers to gain hands-on experience with modern web technologies and contribute to real-world projects.
+What You'll Work With
+• PHP & Laravel - Build robust backend systems using one of the most popular PHP frameworks
+• Dart - Develop cross-platform applications with Flutter
+• JavaScript/TypeScript - Create dynamic, type-safe web applications
+• Database Management - Design and optimize database structures
+• Software Architecture - Learn best practices in scalable system design
+• User Experience (UX) - Contribute to creating intuitive, user-centered interfaces
+Nice to Have
+• Go (Golang) – Experience with high-performance backend services
+• WordPress development experience
+• Experience with React, Vue.js, or other modern JavaScript frameworks
+• Knowledge of RESTful API design and development
+• Familiarity with Git version control and collaborative workflows
+• Understanding of responsive design principles and CSS frameworks (Tailwind, Bootstrap)
+• Experience with MySQL, PostgreSQL, or MongoDB
+• Basic understanding of Docker and containerization
+• Knowledge of Agile/Scrum methodologies
+• UI/UX design tools experience (Figma, Adobe XD, Sketch)
+What We're Looking For
+We're seeking candidates who are passionate about software development, eager to learn, and ready to tackle challenging problems. Whether you're a student looking to apply your classroom knowledge or a self-taught developer ready to break into the industry, we want to hear from you.
+Why Join Us?
+• Gain real-world experience with modern development tools and frameworks
+• Work alongside experienced developers who are invested in your growth
+• Contribute to meaningful projects from day one
+• Flexible, collaborative work environment
+
+============================================================
+Riskonnect Inc
+Responsibilities
+• Assist the engineering team in developing and maintaining enterprise web applications.
+• Contribute to development tasks including bug fixes, feature implementations, and improvements under the guidance of senior engineers.
+• Support testing, debugging, and troubleshooting of application components.
+• Work with backend APIs, frontend UI components, and databases as part of assigned tasks.
+• Participate in code reviews, team discussions, and Agile ceremonies.
+• Use modern development tools and AI-assisted engineering practices to improve productivity.
+• Write clean, scalable code using C#/Typescript programming languages.
+• Support the development of AI-driven features by preparing data, testing APIs, and validating outputs.
+• Collaborate with senior engineers and architects to explore the use of AI in enhancing user experience and business workflows.
+• Stay updated with emerging AI tools and frameworks relevant to the product roadmap.
+Requirements
+• Fully or partially completed BSc in Computer Science, Software Engineering, IT, or a related field.
+• Strong understanding of programming fundamentals, including:
+• Object-Oriented Programming (OOP)
+• Data structures and basic algorithms
+• Exposure to Microsoft development stack, including:
+• C#
+• .NET / ASP.NET Core fundamentals
+• Web APIs
+• Basic frontend development knowledge, including:
+• Angular or similar TypeScript framework
+• HTML, CSS, TypeScript / JavaScript
+• Basic knowledge of databases
+• DBMS concepts
+• SQL queries
+• Understanding of relational databases
+• Familiarity with development tools
+• Visual Studio / Visual Studio Code
+• Git or other version control systems
+• Interest in modern software development practices
+• REST APIs
+• Agile development
+• CI/CD concepts
+• Exposure to AI-assisted development tools
+• Use of AI coding assistants or LLM tools (e.g., ChatGPT, Copilot) for development and learning.
+• Ability to learn new technologies quickly and work collaboratively in a team environment.
+
+===========================================================================
+Coullax
+Ready to kickstart your career in software engineering?
+Coullax is looking for interns who are passionate about coding, Creativity, problem-solving, and excited to make an impact.
+What You’ll Do:
+• Assist in the design, development, and testing of software applications.
+• Collaborate with the team to troubleshoot and resolve software issues.
+• Write clean, efficient, and maintainable code.
+• Participate in code reviews and actively contribute to team discussions.
+• Document development processes and solutions.
+• Support various software development tasks as needed.
+Qualifications:
+• Passion for tech and innovation.
+• Currently pursuing a degree in Computer Science, Software Engineering, or a related field.
+• Familiarity with programming languages such as Java, Python, Golang, or JavaScript.
+• Understanding of software development principles and methodologies (Agile, Scrum).
+• Basic knowledge of databases and SQL.
+• Strong problem-solving skills and attention to detail.
+• Excellent communication and teamwork abilities.
+At Coullax, we're "Building the Unbuilt."
+We’d love to hear from you if you’re excited about making a real impact and growing with a friendly, creative tech community.
+Apply now and let's create something amazing together!
+To apply, send your resume and a cover letter that showcases your achievements.
+
+==============================================================================
+SilverLine IT
+Duties & Responsibilities
+• Gain hands-on experience in developing and maintaining web applications using Python and Django.
+• Participate in the full software development lifecycle, including requirements gathering, design, development, testing, and deployment.
+• Work with React.js to build interactive and user-friendly front-end components.
+• Collaborate with senior engineers to learn best practices in software development, including code reviews, version control (Git), and agile methodologies.
+• Assist in troubleshooting and debugging existing applications.
+• Contribute to the improvement of existing systems and processes.
+• Participate in team meetings and contribute to project discussions.
+• Learn and adapt to new technologies and industry best practices.
+Our Requirements
+• Enrolled in a Bachelor's or Master's degree in Computer Science, Software Engineering, or a related field.
+• Strong understanding of fundamental programming concepts, including data structures, algorithms, and object-oriented programming. (Mandatory)
+• Proficiency in Python programming language. (Mandatory)
+• Basic understanding of web development concepts, including HTML, CSS, and JavaScript. (Mandatory)
+• Familiarity with or a strong interest in learning React.js.
+• Excellent problem-solving and analytical skills.
+• Strong communication and teamwork skills.
+• Ability to learn quickly and adapt to new technologies.
+• Passion for software development and a desire to learn and grow.
+What You'll Receive
+• Valuable hands-on experience in a professional software development environment.
+• Opportunity to gain hands-on experience in a fast-paced technology environment.
+• Opportunity to work on real-world projects and contribute to meaningful work.
+• Mentorship and guidance from experienced software engineers.
+• Exposure to industry best practices and technologies.
+• Potential for full-time employment upon successful completion of the internship.
+• Opportunity to work on challenging and impactful projects.
+• Continuous learning and development opportunities.
+• Networking opportunities within the industry.
+
+============================================ 
+Fidenz Technologies
+ESSENTIALS
+• Currently pursuing a Bachelor’s in Computer Science, Engineering, or a related field
+• Self-motivation
+• Demonstrated passion through personal projects, coursework, or internships
+• Proficiency in at least one programming language (e.g., .NET, Python, Java, JavaScript)
+• Basic Understanding of Software Development Concepts
+• Algorithms and data structures
+• Object-oriented programming (OOP)
+• Version control systems (e.g., Git)
+• Problem-Solving Skills
+• Ability to analyze and debug simple code
+• Logical and critical thinking
+• Communication & Teamwork
+• Willingness to learn and collaborate with a team
+• Basic written and verbal communication skills
+NICE TO BE FAMILIAR WITH
+• Familiar with web development frameworks such as .NET, Spring Boot, React, Angular
+• Software development practices (Agile, unit testing)
+• Intro-level cloud knowledge (e.g., AWS, Azure)
+• Working with APIs and Linux-based systems
+
+==============================================================
+OnCoor Pvt. Ltd
+ OnCoor Inc. is a fast-growing, US-based SaaS company specializing in Advanced Data Management and Analytics. Founded in 2021 and headquartered in the Bay Area, California, OnCoor empowers organizations to integrate, manage, and share data across platforms seamlessly. OnCoor Pvt Ltd, based in Sri Lanka, serves as a fully owned subsidiary of OnCoor Inc.
+Position Overview
+We are seeking talented and motivated interns to join our Software Engineering team under multiple tracks: Development, Quality Assurance (QA), and DevOps. This internship provides an opportunity to work on enterprise-grade software using modern technologies such as React, Node.js, SQL, and Azure DevOps. You will gain hands-on experience contributing to real projects while learning OnCoor’s metadata-driven architecture and delivery practices.
+Key Responsibilities
+Development Track
+Build and maintain web applications using React and Node.js.
+Work with APIs, SQL databases, and backend services.
+Participate in code reviews, debugging, and documentation.
+QA Track
+Test API, UI, and data pipelines using automation frameworks (Playwright, Postman).
+Develop regression suites and ensure test coverage for each release.
+Collaborate with developers to verify bug fixes and enhance software quality.
+DevOps Track
+Assist in CI/CD pipeline creation and release automation using Azure DevOps.
+Support build, deployment, and environment management.
+Learn containerization and cloud-based monitoring practices (Docker, Azure).
+Skills & Technologies
+JavaScript, React, Node.js, SQL, API Testing, Automation Testing, Playwright, Postman, CI/CD, Azure DevOps, Git, REST APIs, Data Management, ETL, Debugging, Cloud Platforms, Communication, Teamwork
+Qualifications
+Undergraduate or recent graduate in Computer Science, Software Engineering, or related field.
+Strong analytical and problem-solving mindset.
+Familiarity with front-end or backend frameworks (React, Node.js preferred).
+Basic understanding of data or API testing, DevOps tools, or cloud platforms.
+Excellent communication and collaboration skills.
+Engagement Details
+Duration: 1-Year Internship (Structured in four 3-month evaluation phases).
+Evaluation Process:
+Top 40%: Move to focused track (Development, QA, or DevOps).
+Middle 30%: Re-evaluation after next cycle.
+Bottom 30%: Internship ends after 3 months.
+Work Arrangement: On-site, Nawala Office.
+Future Path: High performers will be considered for full-time employment.
+
+==================================================
+
+Agro Ventures Digital
+We are seeking motivated undergraduates or recent graduates who are serious about building a strong foundation in full stack software engineering. This internship offers hands-on experience working on real-world web applications within a structured and performance-driven environment. Interns will contribute to live systems, collaborate with the team, and gain exposure to production-level development practices.
+Location: Colombo, Sri Lanka
+Contract Duration: 6 Months
+Work Arrangement: On-site
+Access to a reliable personal laptop suitable for development work is required.
+Key Responsibilities:
+Develop and maintain PHP-based web applications
+Design, query, and optimize MySQL databases
+Build and integrate RESTful APIs
+Implement authentication and authorization mechanisms
+Create responsive user interfaces using HTML and Tailwind CSS
+Use Git for version control and team collaboration
+Work in Linux-based development environments
+Participate in testing, debugging, and code reviews
+Requirements:
+Hands-on experience with PHP, MySQL, HTML, and Tailwind CSS
+Understanding of REST APIs and authentication concepts
+Basic knowledge of database design principles
+Familiarity with Git and version control workflows
+Basic knowledge of Linux environments
+Strong communication skills in English
+Eagerness to learn, adapt, and grow in a startup setting
+Ability to work independently and as part of a team
+Commitment to the full 6-month contract
+Good To Have:
+Experience with Firebase or Supabase
+Exposure to serverless functions
+Basic understanding of SaaS architecture or cloud-based systems
+
+===============================================================
+Axceera (Pvt) Ltd
+Axceera is on the lookout for motivated and results-driven undergraduates or fresh graduates to join our growing team as Full-Stack Software Engineer - Interns. If you’re passionate about building modern web applications using the latest technologies, we want to hear from you!
+Location: Work from home (Must have a reliable internet connection and personal computer)
+Contract Duration: 12 Months
+Skills & Requirements:
+Hands-on experience with JavaScript (ES6+)
+Familiarity with React.js for frontend development
+Knowledge of Node.js and Express.js for backend services
+Exposure to AWS services (e.g., Lambda, S3, EC2, DynamoDB) is a strong plus
+Understanding of RESTful API integration
+Experience or understanding of databases – SQL (MySQL, PostgreSQL) and/or NoSQL (MongoDB)
+Currently pursuing or completed a Diploma/Degree in IT, Computer Science, or related field
+Strong communication skills in English
+Eagerness to learn, adapt, and grow in a fast-paced environment
+A team player with strong collaboration skills
+Join us and gain hands-on experience working on real-world projects while building your career in full-stack development.
+
+===============================================
+Thyaga
+We are seeking a talented and enthusiastic Software Engineer Intern to join our dynamic and innovative team. As a Software Engineer Intern, you will have the opportunity to work on real-world projects, collaborate with experienced software engineers, and gain hands-on experience in a professional software development environment. This internship is designed to provide valuable learning opportunities and contribute to your growth as a software engineer.
+Key Responsibilities:
+Collaborate with the development team to design, develop, and test software solutions.
+Assist in the implementation and maintenance of software applications, ensuring adherence to coding standards and best practices.
+Participate in the entire software development lifecycle, including requirements gathering, design, coding, testing, and deployment.
+Debug and troubleshoot software issues, identifying and implementing solutions to enhance application performance and functionality.
+Conduct research and propose improvements to existing software systems or processes.
+Write and maintain technical documentation, including design specifications, user manuals, and troubleshooting guides.
+Collaborate with cross-functional teams, such as product management and quality assurance, to deliver high-quality software solutions.
+Stay up to date with emerging technologies and industry trends, applying new knowledge to enhance your software development skills.
+Requirements:
+Currently pursuing a degree in Computer Science, Software Engineering, or a related field.
+Strong understanding of object-oriented programming concepts and principles.
+Proficiency in one or more programming languages, such as Java, JS, Python, or JavaScript.
+Familiarity with web development technologies, frameworks, and libraries (e.g., HTML, CSS, React, Spring, Flutter, Lambda, AWS).
+Knowledge of software development methodologies, version control systems, and agile practices.
+Strong problem-solving and analytical skills, with the ability to debug and resolve complex technical issues.
+Excellent communication and collaboration skills, with the ability to work effectively in a team environment.
+Self-motivated and eager to learn, with a strong passion for software development.
+Duration and Benefits:
+This is a 6-month internship position.
+The internship offers valuable learning opportunities and exposure to real-world software development projects.
+Mentoring and guidance from experienced software engineers.
+A stipend or compensation package may be provided.
+
+================================================
+
+KingTeza Software Solutions
+Kingteza Software Solutions is pleased to announce an exciting opportunity for motivated individuals to join our team as Software Development Interns, specializing in Full Stack Development. This internship is ideal for students or recent graduates looking to gain hands-on experience in software development and enhance their skills by working with modern technologies in a collaborative environment.
+Internship Duration
+1 year (Full-time)
+Tech Stack
+Languages: TypeScript
+Frontend: React
+Backend: Node.js, NestJS
+Database: PostgreSQL
+Platforms: Firebase, AWS
+Candidate Requirements
+Basic understanding of HTML, CSS, React, and Node.js
+Familiarity with Object-Oriented Programming (OOP) concepts
+A strong desire to learn and contribute within a team environment
+Good communication and problem-solving skills
+
+============================================================
+DataInsight
+We are seeking a highly motivated Full Stack Software Engineering Intern to join our early-stage AI-driven web analytics start-up, DataInsight. You will work closely with the founding team to build the MVP using the MERN stack, integrating intresting features that will help fill a gap in the market. The ideal candidate should be comfortable working across both front-end (React, TailwindCSS) and back-end (Node.js, Express, MongoDB, SQL) development, with a strong understanding of Git and modern development workflows. This role is perfect for someone who’s comfortable across the stack (React, TailwindCSS, Node.js, Express, MongoDB, SQL) and has experience with Git-based workflows.
+We’re looking for someone who is proactive, fun to work with, and passionate about learning. If you love solving meaningful problems, thrive in a fast-paced environment, and want to contribute to building something from the ground up, we want to hear from you. This is a remote internship based in Sri Lanka, with flexible working hours, real responsibilities, and the chance to make a visible impact from day one.
+
+========================================================
+Zegates International Private LTD
+We are seeking passionate and motivated individuals with the following skills and qualities:
+: Proficiency in React.js, React Native, Flutter, Node.js, Python, and Golang.Tech Stack Expertise
+: Strong analytical and logical thinking skills with a solid grasp of Data Structures and Algorithms.Problem-Solving Prowess
+: Hands-on experience in web-based application development and architecture.Web Development Knowledge
+: Clear and effective communication skills to collaborate within and beyond the team.Exceptional Communication
+: Experience contributing to and collaborating on open-source projects is a bonus!Open Source Enthusiast
+Why Join Us?
+: Fast-track your career with opportunities to step into leadership roles.Accelerated Career Growth
+: Competitive compensation and inspiring work environments.Attractive Perks
+: Be part of a unique, team-focused organization that values your growth and well-being.Employee-Centric Culture
+: Work on cutting-edge technologies and continuously expand your skills through innovation and creativity.Innovation at Its Core
+Join us to shape the future of technology and grow alongside a team that values your contributions! 🌟
+Associate:
+
+=========================================================
+Zegates International Private LTD
+We are seeking passionate and motivated individuals with the following skills and qualities:
+Tech Stack Expertise: Proficiency in React.js, React Native, Flutter, Node.js, Python, and Golang.
+Problem-Solving Prowess: Strong analytical and logical thinking skills with a solid grasp of Data Structures and Algorithms.
+Web Development Knowledge: Hands-on experience in web-based application development and architecture.
+Exceptional Communication: Clear and effective communication skills to collaborate within and beyond the team.
+Open Source Enthusiast: Experience contributing to and collaborating on open-source projects is a bonus!
+Why Join Us?
+Accelerated Career Growth: Fast-track your career with opportunities to step into leadership roles.
+Attractive Perks: Competitive compensation and inspiring work environments.
+Employee-Centric Culture: Be part of a unique, team-focused organization that values your growth and well-being.
+Innovation at Its Core: Work on cutting-edge technologies and continuously expand your skills through innovation and creativity.
+Join us to shape the future of technology and grow alongside a team that values your contributions! 🌟
+
+=================================================================
+18. Coullax
+At Coullax, we Build the Unbuilt, crafting AI and blockchain solutions in a fast moving, ever evolving space. We’re looking for engineers who are curious, adaptable, and ready to grow while taking on real responsibility.
+What You’ll Do
+Build features across React/Next.js and Go
+Work with PostgreSQL (queries, schemas, migrations)
+Integrate AI features (LLMs, LangChain, RAG)
+Write tests and maintain code quality
+Collaborate with design, product, and QA teams
+Debug and optimize real product systems
+What We’re Looking For
+0–2 years of experience
+Strong in JS/TS + React
+Familiar with Go / Node / Python + APIs
+Basic understanding of databases + REST
+Fast learner with strong problem-solving mindset
+Nice to Have
+Golang experience
+Exposure to LLMs or AI tools
+Docker / cloud basics
+Interest in Blockchain / Web3
+What You Get
+Work on real, high-impact products
+Modern stack + hands on mentorship
+Fast growth in a strong engineering culture
+Flexible work + performance based rewards
+
+================================================
+
+Oncoor Private LTD
+Skills Required
+Position Overview
+We are looking for an Associate Software Engineer to join our Core Product Development team. This role is ideal for engineers with 1–3 years of hands-on development experience who want to grow into enterprise-grade product engineering, working on data-intensive, metadata-driven platforms. You will work closely with senior engineers, QA, DevOps, and data teams to build, enhance, and maintain OnCoor’s core products.
+Key Responsibilities
+· Business Delivery Need
+Develop and enhance existing product features and modules.
+Ensure code quality, performance, and adherence to design standards.
+· Ownership
+Take ownership of assigned components or features.
+Handle coding, debugging, testing, support, and maintenance tasks independently with guidance.
+· Research / Innovation
+Participate in troubleshooting, bug fixing, and minor process improvements.
+Learn and apply best practices in scalable product development.
+· People, Process & Technology Advancement
+Collaborate with senior engineers to understand architecture, coding standards, and workflows.
+Contribute ideas for improving code quality, tooling, or development practices.
+· Data / AI / ML Responsibilities
+Assist with data validation, data processing logic, and metadata-driven workflows.
+Support integration of data-centric and AI/ML-enabled features under guidance.
+· Project Management
+Support sprint activities by estimating tasks, tracking progress, and communicating blockers.
+Provide regular status updates to technical leads.
+Skills Required
+· JavaScript / TypeScript
+· Node.js, React
+· SQL & Relational Databases
+· REST APIs & Backend Development
+· Data Structures & Algorithms
+· Git & Version Control
+· CI/CD (Azure DevOps preferred)
+· Basic Cloud Concepts (Azure/AWS)
+· Debugging & Troubleshooting
+· Analytical Thinking & Problem Solving
+· Ownership & Delivery Mindset
+· Communication & Team Collaboration
+Experience & Qualifications
+Experience: 1–3 years in software development (product or platform preferred).
+Education: Bachelor’s degree in Computer Science, Software Engineering, or a related field.
+Exposure to enterprise systems, data platforms, or SaaS products is a plus.
+Work Arrangement
+Location: On-site – Nawala, Sri Lanka
+Employment Type: Full-Time (Permanent)
+Probation Period: 1 Year
+Performance Reviews: Mid-year and annual reviews
+
+===========================================================
+Hype Invention
+Join our Digital Transformation Agency! We operate in the UK, Australia, Sri Lanka, and Malaysia, serving clients across industries like tech, facilities management, process automation, and finance. Our expertise spans digital marketing, AI development, AI as a service (AIaaS), and software development/SaaS solutions.
+As part of our team, you'll have the opportunity to broaden your skills and work on innovative projects that shape the future of digital transformation. Collaborate with extraordinary people, gain exposure to cutting-edge technologies, and enjoy benefits and development opportunities that will empower you both in and out of the office.
+Qualifications:
+Education:
+Bachelor’s degree in Computer Science, Computer Engineering, or a related field is required. Advanced degrees or relevant certifications are a plus.
+Experience:
+A minimum of 1+ years of professional experience as a Python developer is essential. Experience in leading projects or teams will be an advantage.
+Technical Skills:
+Python Expertise:
+Strong understanding of Python programming language and its associated web frameworks, such as, Flask, or FastAPI. Ability to write clean, maintainable, and efficient code.
+Web Frameworks:
+Proficiency in developing robust and scalable web applications using popular Python frameworks. Familiarity with asynchronous programming in Python is desirable.
+Database Management:
+Hands-on experience working with relational and non-relational databases, including MySQL, PostgreSQL, etc. Ability to design, optimise, and maintain complex database schemas.
+API Development:
+Experience in building and consuming RESTful APIs, with an understanding of API security practices and versioning. Knowledge of GraphQL is a plus.
+Version Control:
+Proficient in using Git for version control and collaboration. Experience with CI/CD pipelines and tools like Jenkins or GitLab CI is a bonus.
+Additional Skills:
+Problem-Solving:
+Strong analytical and problem-solving skills, with the ability to troubleshoot and debug code effectively.
+Communication:
+Excellent verbal and written communication skills, with the ability to convey technical concepts clearly to both technical and non-technical stakeholders. Ability to work collaboratively in a team environment.
+Front-End Technologies:
+Familiarity with front-end technologies such as Next.js, JavaScript, HTML, CSS, and modern JavaScript frameworks are advantageous.
+Cloud Platforms:
+Experience with cloud platforms like Google Cloud Platform (GCP), AWS, or Microsoft Azure. Knowledge of cloud services, serverless architecture, and infrastructure as code (Terraform, CloudFormation) is preferred.
+Containerization:
+Experience with containerization technologies like Docker and orchestration tools. Understanding of microservices architecture and deployment strategies in a cloud environment.
+
+========================================================================
+begood solutions
+BeGOOD Solutions is a multi-disciplinary software company. Our focus is the attention to detail at every stage of the design process. We have come to recognize this as the major building block in our services, consistently providing unique and innovative experiences.
+Extras what you'll get:
+Share of ownership on the in-house products built here at BeGOOD.
+Responsibilities
+Full cycle end-to-end development from design through implementation.
+Maintain code integrity, documentation, version control, and organization.
+Innovate and apply critical thinking and problem-solving skills to develop creative technological solutions.
+Translate understanding of requirements to design, development, and unit testing to address solutions.
+Collaborate with designers to create intuitive and responsive user interfaces and workflows.
+Design clean, robust, reactive, and efficient API interfaces.
+Collaborate with the team on release management, version control, and documentation.
+Support in hiring and training new Full-Stack Developers.
+Requirements
+Bachelor’s degree in computer programming, computer science, or a related field.
+1+ years of experience as a Full-Stack Developer or a similar position.
+In-depth experience in JavaScript frameworks such as React, Express, etc.
+Experience using TypeScript / GraphQL is an advantage.
+Design REST APIs from the ground up using Node.js Express and MongoDB.
+Expertise with HTML5, CSS3, AJAX, and front-end component libraries such as Bootstrap, Material-UI, etc.
+Experience in Spring Boot is an added advantage.

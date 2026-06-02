@@ -1,0 +1,348 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>ResumeAI — Dual Analyzer</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://api.fontshare.com/v2/css?f[]=general-sans@300,400,500,600,700&display=swap"
+      rel="stylesheet"
+    />
+    <script src="https://unpkg.com/lucide@latest/dist/umd/lucide.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <!-- Firebase SDK -->
+    <script type="module">
+      import { initializeApp } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-app.js";
+      import { getAuth } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-auth.js";
+      import { getFirestore } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore.js";
+
+      const firebaseConfig = {
+        apiKey: "AIzaSyCYY4vSBHvHRk6J_hN_ETWFhy9go1DFNEE",
+        authDomain: "resume-analyzer-a55b5.firebaseapp.com",
+        projectId: "resume-analyzer-a55b5",
+        storageBucket: "resume-analyzer-a55b5.firebasestorage.app",
+        messagingSenderId: "751160437599",
+        appId: "1:751160437599:web:b0a643f644c48d22a664ea",
+      };
+      const app = initializeApp(firebaseConfig);
+      const auth = getAuth(app);
+      const db = getFirestore(app);
+      window.__firebase__ = { auth, db };
+    </script>
+    <link rel="stylesheet" href="analyzer.css" />
+  </head>
+  <body>
+    <!-- ============================================================ NAV -->
+    <nav class="nav" id="main-nav">
+      <a
+        href="#"
+        class="nav-logo"
+        onclick="
+          resetToUpload();
+          return false;
+        "
+      >
+        <div class="nav-logo-icon">
+          <svg
+            width="18"
+            height="18"
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="2.5"
+          >
+            <path
+              d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"
+            />
+            <polyline points="14 2 14 8 20 8" />
+            <line x1="16" y1="13" x2="8" y2="13" />
+            <line x1="16" y1="17" x2="8" y2="17" />
+          </svg>
+        </div>
+        ResumeAI
+      </a>
+      <div class="nav-acts">
+        <div class="nav-status" id="health-badge">
+          <div class="status-dot" id="status-dot"></div>
+          <span id="status-text">Checking…</span>
+        </div>
+        <button
+          class="nav-chip"
+          id="new-analysis-btn"
+          style="display: none"
+          onclick="resetToUpload()"
+        >
+          <i data-lucide="plus" style="width: 14px; height: 14px"></i
+          ><span>New</span>
+        </button>
+        <button
+          class="nav-admin-btn"
+          onclick="openAdmin()"
+          title="Admin — Rebuild Profiles"
+        >
+          <i data-lucide="settings" style="width: 14px; height: 14px"></i>
+        </button>
+        <button class="theme-btn" data-theme-toggle aria-label="Toggle theme">
+          <svg
+            width="17"
+            height="17"
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="2"
+          >
+            <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z" />
+          </svg>
+        </button>
+      </div>
+    </nav>
+
+    <!-- ============================================================ UPLOAD SCREEN (dual mode) -->
+    <div id="upload-screen">
+      <div class="upload-bg"></div>
+      <div class="upload-content">
+        <div class="upload-grid">
+          <div class="upload-left">
+            <div class="upload-eyebrow" id="u-eyebrow">
+              <i data-lucide="cpu" style="width: 12px; height: 12px"></i>
+              AI-Powered Resume Analysis
+            </div>
+            <h1 class="upload-heading" id="u-heading">
+              Upload your<br /><em>resume.</em>
+            </h1>
+            <p class="upload-sub" id="u-sub">
+              Compare your CV against a standard role or a custom job
+              description.
+            </p>
+          </div>
+          <div class="upload-right">
+            <!-- Mode Switcher -->
+            <div class="mode-switch">
+              <button class="mode-btn active" data-mode="role">
+                Role‑Based Analysis
+              </button>
+              <button class="mode-btn" data-mode="custom">
+                Custom Job Description
+              </button>
+            </div>
+
+            <!-- Role Mode Form -->
+            <div id="role-mode-form" class="mode-form active">
+              <div class="drop-zone" id="drop-zone-role">
+                <input
+                  type="file"
+                  class="drop-input"
+                  id="file-input-role"
+                  accept=".pdf,.docx,.txt"
+                />
+                <div class="drop-icon">
+                  <i
+                    data-lucide="upload-cloud"
+                    style="width: 28px; height: 28px"
+                  ></i>
+                </div>
+                <div class="drop-title">Drop your resume here</div>
+                <div class="drop-sub">PDF, DOCX, or TXT — click to browse</div>
+                <div class="drop-file-name" id="drop-filename-role"></div>
+              </div>
+              <div class="field-row">
+                <div class="field-group">
+                  <label class="field-label" for="role-select"
+                    >Target Role</label
+                  >
+                  <select class="field-select" id="role-select">
+                    <option value="">Loading roles...</option>
+                  </select>
+                </div>
+                <div class="field-group">
+                  <label class="field-label" for="level-select"
+                    >Experience Level</label
+                  >
+                  <select class="field-select" id="level-select">
+                    <option value="Entry">Entry</option>
+                    <option value="Mid">Mid</option>
+                    <option value="Senior">Senior</option>
+                  </select>
+                </div>
+              </div>
+              <button class="submit-btn" id="submit-role-btn" disabled>
+                <i data-lucide="zap" style="width: 18px; height: 18px"></i>
+                Analyze Resume
+              </button>
+            </div>
+
+            <!-- Custom Mode Form -->
+            <div id="custom-mode-form" class="mode-form">
+              <div class="drop-zone" id="drop-zone-custom">
+                <input
+                  type="file"
+                  class="drop-input"
+                  id="file-input-custom"
+                  accept=".pdf,.docx,.txt"
+                />
+                <div class="drop-icon">
+                  <i
+                    data-lucide="upload-cloud"
+                    style="width: 28px; height: 28px"
+                  ></i>
+                </div>
+                <div class="drop-title">Drop your resume here</div>
+                <div class="drop-sub">PDF, DOCX, or TXT — click to browse</div>
+                <div class="drop-file-name" id="drop-filename-custom"></div>
+              </div>
+              <div class="field-group">
+                <label class="field-label">Job Description</label>
+                <textarea
+                  id="job-description"
+                  class="field-textarea"
+                  rows="4"
+                  placeholder="Paste the full job description here…"
+                ></textarea>
+                <div class="char-counter" id="jd-counter">0 characters</div>
+              </div>
+              <button class="submit-btn" id="submit-custom-btn" disabled>
+                <i
+                  data-lucide="git-compare"
+                  style="width: 18px; height: 18px"
+                ></i>
+                Compare Now
+              </button>
+            </div>
+
+            <!-- Usage limit banner -->
+            <div
+              class="alert-box alert-warn"
+              id="usage-limit-banner"
+              style="display: none; margin-top: var(--s6)"
+            >
+              <div class="alert-title">Analysis limit reached (2/2)</div>
+              <div class="alert-body">
+                You have used your 2 free analyses.
+                <a
+                  href="#"
+                  id="signup-link"
+                  style="color: var(--p); text-decoration: underline"
+                  >Sign in or create an account</a
+                >
+                to unlock unlimited analyses.
+              </div>
+            </div>
+
+            <div class="prev-banner" id="prev-banner">
+              <span id="prev-summary"></span>
+              <button class="prev-view-btn" onclick="viewPreviousResult()">
+                <i data-lucide="eye" style="width: 12px; height: 12px"></i> View
+                Last Results
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- ============================================================ LOADING SCREEN -->
+    <div id="loading-screen">
+      <div class="loader-ring">
+        <svg viewBox="0 0 100 100" width="100" height="100" fill="none">
+          <circle
+            cx="50"
+            cy="50"
+            r="40"
+            stroke="var(--border)"
+            stroke-width="6"
+          />
+          <circle
+            cx="50"
+            cy="50"
+            r="40"
+            stroke="var(--p)"
+            stroke-width="6"
+            stroke-linecap="round"
+            stroke-dasharray="100 152"
+            transform="rotate(-90 50 50)"
+          />
+        </svg>
+      </div>
+      <div class="loader-text" id="loader-text">Analyzing your resume…</div>
+      <div class="loader-steps-list" id="loader-steps"></div>
+    </div>
+
+    <!-- ============================================================ RESULTS SCREENS -->
+    <div id="results-screen-role" class="results-screen"></div>
+    <div id="results-screen-custom" class="results-screen"></div>
+
+    <!-- ============================================================ TOAST & ERROR -->
+    <div class="toast" id="toast">
+      <i
+        data-lucide="alert-circle"
+        style="width: 16px; height: 16px; flex-shrink: 0"
+      ></i
+      ><span id="toast-msg"></span>
+    </div>
+    <div id="error-screen">
+      <div class="err-icon">
+        <i
+          data-lucide="server-off"
+          style="width: 36px; height: 36px"
+          id="err-icon-inner"
+        ></i>
+      </div>
+      <div class="err-title" id="err-title">Analysis failed.</div>
+      <div class="err-body" id="err-body">Could not reach the API.</div>
+      <pre class="err-code" id="err-code" style="display: none"></pre>
+      <div class="err-btns">
+        <button class="btn btn-primary" onclick="retryLastAnalysis()">
+          <i data-lucide="refresh-cw" style="width: 15px; height: 15px"></i>
+          Retry</button
+        ><button class="btn btn-ghost" onclick="resetToUpload()">
+          <i data-lucide="upload" style="width: 15px; height: 15px"></i> New
+          Resume
+        </button>
+      </div>
+    </div>
+
+    <!-- ============================================================ ADMIN SHEET -->
+    <div
+      class="admin-sheet-overlay"
+      id="admin-overlay"
+      onclick="closeAdmin()"
+    ></div>
+    <div class="admin-sheet" id="admin-sheet">
+      <div class="sheet-handle"></div>
+      <div class="sheet-title">Admin Panel</div>
+      <div class="sheet-sub">Rebuild the role profiles used for scoring.</div>
+      <div class="field-group">
+        <label class="field-label">Admin Key</label
+        ><input
+          class="field-input"
+          type="password"
+          id="admin-key"
+          placeholder="Enter admin password"
+        />
+      </div>
+      <button class="admin-btn" id="rebuild-btn" onclick="doRebuild()">
+        <i data-lucide="database" style="width: 16px; height: 16px"></i> Rebuild
+        Profiles
+      </button>
+      <div class="rebuild-status" id="rebuild-status"></div>
+      <div style="margin-top: var(--s4); text-align: center">
+        <button
+          class="btn-ghost btn"
+          onclick="closeAdmin()"
+          style="font-size: var(--text-xs)"
+        >
+          Close
+        </button>
+      </div>
+    </div>
+
+    <script type="module" src="usage-limit.js"></script>
+    <script src="analyzer.js"></script>
+  </body>
+</html>

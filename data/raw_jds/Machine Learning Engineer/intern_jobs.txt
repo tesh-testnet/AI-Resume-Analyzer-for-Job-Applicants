@@ -1,0 +1,721 @@
+INTERN / ENTRY-LEVEL JOB DESCRIPTIONS
+============================================================
+We are seeking a motivated and talented Machine Learning Engineer Intern to join our team and assist with the development of our cutting-edge machine learning projects. As a Machine Learning Engineer Intern, you will be responsible for designing, developing, testing, and deploying machine learning models and algorithms that solve complex problems. You will work closely with data scientists and software engineers to create robust and scalable machine-learning solutions. Joining our innovative team presents an excellent opportunity for individuals who are passionate about machine learning and seek to gain valuable hands-on experience in a real-world setting.
+
+Duties & Responsibilities
+
+Develop and deploy machine learning models and algorithms that solve complex problems.
+Collaborate with data scientists and software engineers to design and implement machine learning solutions.
+Write high-quality, clean, and efficient code that is maintainable and scalable.
+Participate in the entire machine learning development lifecycle, including data preprocessing, feature engineering, model selection, and evaluation.
+Test and validate machine learning models and algorithms to ensure accuracy and performance.
+Stay up-to-date with emerging trends and technologies in machine learning.
+Our Requirements
+
+Hands-on experience or coursework involving Large Language Models (LLMs), including familiarity with prompt engineering, fine-tuning, or API-based integration.
+Currently pursuing a Bachelor’s degree in Computer Science, Information Technology, or a related field.
+Familiarity with machine learning frameworks such as TensorFlow, PyTorch, or Scikit-learn.
+Strong programming skills in Python.
+Strong foundation in machine learning algorithms and techniques (e.g., linear regression, logistic regression, decision trees, neural networks).
+Experience with Git, GitHub, or other version control systems.
+Ability to work collaboratively in a team environment and communicate effectively with technical and non-technical stakeholders.
+Strong problem-solving skills and attention to detail.
+Experience with Retrieval-Augmented Generation (RAG) pipelines and frameworks such as LangChain or LlamaIndex is a strong advantage. (Plus)
+What You’ll Receive
+
+You will gain experience in teamwork and also will have experience in team coordination.
+You will get a better understanding and experience regarding modern software development practices, including agile, scrum, automation, continuous integration, and continuous delivery.
+Valuable hands-on experience working on real-world machine learning projects.
+Exposure to a range of technologies and tools used in the industry.
+Opportunity to learn from experienced data scientists and machine learning developers.
+Chance to contribute to the development of cutting-edge machine learning solutions.
+You will build a network of technologists you can reach out to and expand your familiarity with specific technologies, exploring them in new contexts and ways.
+
+==============================================================================
+
+We’re looking for a passionate AI & Machine Learning Intern to join our remote team and work alongside engineers and product teams to design, develop, and deploy intelligent systems including LLM-based applications, Agentic AI systems, and AI agents. In this role, you’ll build autonomous, AI-powered workflows using modern AI APIs while gaining hands-on experience in real-world AI/ML projects such as data-driven applications, automation, and model optimization using cutting-edge tools to create impactful solutions.
+
+Responsibilities
+
+Assist in LLM training, fine-tuning, and evaluation
+Build and experiment with AI Agents and agentic workflows
+Integrate AI APIs (OpenAI, Claude and others)
+Work with datasets: collection, cleaning, preprocessing, and labeling
+Support AI-powered web and mobile applications
+Optimize prompts and improve LLM performance (prompt engineering)
+Collaborate on deployment, testing, and scaling AI solutions
+Research latest trends (LLMs, multi-agent systems, automation)
+Qualifications
+
+Degree (or currently studying) in Computer Science, AI, Data Science, or related field
+Basic understanding of LLMs and machine learning concepts
+Familiarity with Python or JavaScript
+Strong analytical and problem-solving skills
+Interest in AI Agents, LLM training, and automation systems
+Ability to work independently in a remote environment
+Required Skills
+
+Programming knowledge (Python / JavaScript)
+Understanding of ML fundamentals and AI APIs
+Basic knowledge of REST APIs and JSON
+Logical thinking and problem-solving
+Communication and teamwork skills
+Preferred Skills
+
+Experience with LLM/Agent frameworks (LangChain, LlamaIndex, etc.)
+Familiarity with OpenAI, Claude, or similar APIs
+Knowledge of fine-tuning, embeddings, and vector databases
+Experience with prompt engineering and LLM optimization
+Exposure to cloud platforms and AI deployment
+Personal or academic AI/LLM/Agent projects
+
+==========================================================================
+Are you passionate about AI tools, automation, and building with the latest technology?
+
+We’re looking for AI Interns with a strong developer mindset, curiosity to explore AI platforms, and a willingness to learn fast in a hands-on environment.
+
+Key Requirements:
+
+Keen eye for AI tools, trends, and emerging technologies
+Development background or strong technical foundation
+Exposure to prompt engineering, AI models, and automation workflows
+Familiarity with vibe coding / AI-assisted coding is preferred
+Basic understanding of LLMs, no-code/low-code tools, and AI use cases
+Good English communication skills
+Eagerness to experiment, learn, and solve problems creatively
+What We Offer:
+
+Hands-on exposure to real AI projects
+Opportunity to work with cutting-edge AI tools and platforms
+Learning-focused, fast-paced environment
+Career growth opportunities for high performers
+AI DEVELOPERS
+
+We’re looking for skilled AI Developers who can build, test, and deploy practical AI-powered solutions.
+
+If you have strong hands-on experience, know how to work with modern AI development tools, and can showcase your work, we’d love to hear from you.
+
+Key Requirements:
+
+Strong experience in AI application development and automation
+Hands-on experience with Claude Code and AI-assisted development workflows
+Strong software development background
+Must have an active GitHub profile/repository showcasing personal or professional projects
+Good understanding of AI models, APIs, prompt engineering, and agent workflows
+Ability to build, test, and improve AI-driven solutions independently
+Strong problem-solving and communication skills
+Ability to work late when required to sync with global teams
+What We Offer:
+
+Opportunity to work on innovative AI products and client projects
+Competitive salary and career growth opportunities
+Collaborative, forward-thinking work environment
+Exposure to advanced AI tools, systems, and real-world implementation
+Email the CV to info@lfi.one
+============================================================
+Join us to build the next-gen marketing analytics platform!
+
+Develop & optimize Al/ML models (attribution, reinforcement learning)
+Manage React frontend dashboards & API integrations
+Strong Python Django, ML, and React skills required
+Duration: 1 year | Remote/ Hybrid
+
+=======================================================================================
+Job Role
+We are looking for an AI & Machine Learning Intern to support data processing, model development, and experimentation within our AI team. You will assist in building intelligent features, training models, and integrating machine learning components into real products. This role is perfect for someone passionate about AI research, automation, and applied machine learning.
+
+Responsibilities
+Assist in preprocessing datasets, cleaning data, and preparing training inputs.
+Train, evaluate, and experiment with machine learning models.
+Support AI-driven features integrated into production systems.
+Collaborate with engineers and designers to implement ML outputs.
+Analyze datasets and generate meaningful insights.
+Research new algorithms, architectures, and tools to improve performance.
+Help maintain documentation and experiment logs.
+Requirements
+Basic knowledge of Python and ML libraries (NumPy, Pandas, Scikit-Learn, TensorFlow, or PyTorch).
+Understanding of machine learning fundamentals and workflows.
+Ability to perform exploratory data analysis.
+Interest in AI automation, agents, or deep learning.
+Familiarity with Jupyter, Colab, or ML pipelines is a plus.
+Strong analytical and problem-solving skills.
+Eagerness to learn and explore new AI technologies.
+
+============================================================
+We are seeking a curious, motivated AI Engineer – Intern to join our growing team. This role is ideal for someone passionate about artificial intelligence, machine learning, and problem-solving, and who is eager to gain hands-on experience building real-world AI-powered solutions. You will work closely with engineers, product teams, and designers to develop intelligent systems that enhance digital products and business workflows.
+
+Key Responsibilities
+Assist in designing, developing, and testing AI/ML models for real-world applications.
+Work with structured and unstructured data to build, clean, and preprocess datasets.
+Support the integration of AI models into web or backend systems.
+Experiment with NLP, computer vision, recommendation systems, or predictive models (based on project needs).
+Collaborate with senior engineers to improve model performance, accuracy, and scalability.
+Document experiments, model behavior, and implementation details.
+Stay updated with the latest trends, tools, and best practices in AI and machine learning.
+Participate in brainstorming sessions and contribute innovative ideas to AI-driven features.
+Qualifications
+Currently pursuing or recently completed a Bachelor’s degree in Computer Science, Software Engineering, Data Science, AI, or a related field.
+Familiarity with Python and libraries such as NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch, or similar.
+Basic understanding of machine learning workflows (data preparation, training, evaluation).
+Familiarity with Large Language Models (LLMs) and API-based AI integrations .
+Exposure to Retrieval-Augmented Generation (RAG) models, embeddings, or vector-based search is an added advantage.
+Understanding of concepts like supervised/unsupervised learning, NLP, or deep learning is a plus.
+Strong analytical and problem-solving skills.
+Curiosity, willingness to learn, and ability to experiment and iterate.
+Good communication skills and the ability to work collaboratively in a team environment.
+Passion for building intelligent systems that solve real business problems.
+Join us in our mission to revolutionize the way businesses approach their digital journey through intelligent automation and AI-driven innovation. Whether you’re an aspiring AI engineer, a curious learner, or someone excited about shaping the future with technology, Twist Digital is the place for you.
+
+Are you ready to become a Twister? Apply now and be a part of the transformation. 🚀
+
+===========================================================================
+We are looking for an Intern AI/ML who is excited about building real, working AI systems. This is a hands-on internship where you’ll learn by doing — working with datasets, training and fine-tuning models, and integrating AI into backend services used in real products.
+
+This role is ideal for students or early-career engineers who want practical experience with machine learning, large language models (LLMs), and production software engineering, not just notebooks and theory.
+
+What You’ll Do
+
+Assist in training, fine-tuning, and evaluating ML and LLM models
+Work with datasets: data cleaning, preprocessing, labeling, and analysis
+Help build LLM-powered features such as chatbots, RAG pipelines, or automation tools
+Implement and test backend APIs using FastAPI (Python) and NestJS (TypeScript)
+Experiment with prompt engineering, embeddings, and retrieval techniques
+Support integration of models into production systems
+Write clean, maintainable, and well-documented code
+Learn how AI systems are monitored for accuracy, latency, and cost
+Collaborate with senior engineers and product teams to deliver AI features
+Must-Have Qualifications
+
+Currently pursuing or recently completed a degree in Computer Science, AI, ML, Data Science, or a related field
+Good Python skills (for data processing and ML work)
+Basic JavaScript or TypeScript knowledge
+Understanding of machine learning fundamentals (training, validation, evaluation metrics)
+Familiarity with LLMs and modern AI concepts (prompting, embeddings, fine-tuning)
+Comfort working with datasets using tools like pandas / NumPy
+Basic understanding of APIs and backend services
+Willingness to learn FastAPI and/or NestJS
+Strong problem-solving mindset and curiosity
+Nice-to-Have (Not Required)
+
+Hands-on experience with LLMs (OpenAI, Claude, Gemini, or open-source models)
+Familiarity with Hugging Face models or datasets
+Exposure to RAG systems or vector databases
+Experience with FastAPI, NestJS, or Express
+Basic SQL knowledge
+Docker or cloud basics
+Personal projects, internships, or open-source contributions in AI/ML
+What We’re Looking For
+
+Curiosity and willingness to learn fast
+Interest in applied AI, not just research papers
+Comfort asking questions and taking feedback
+Ability to turn vague problems into working prototypes
+Passion for building things that actually get used
+What You’ll Gain
+
+Hands-on experience building production AI systems
+Mentorship from experienced AI and software engineers
+Exposure to real-world datasets and business problems
+Experience with modern AI stacks (LLMs, APIs, cloud)
+A strong foundation for a career in AI/ML engineering
+
+==============================================================================
+We are seeking a highly motivated and enthusiastic Machine Learning Engineer Intern to join our growing AI team at Inforwaves. This internship offers a fantastic opportunity to gain practical experience in the exciting field of Artificial Intelligence and contribute to cutting-edge projects. You will work alongside experienced engineers and researchers, learning and applying the latest advancements in machine learning. This is an excellent chance to develop your skills and build a strong foundation for a career in AI.
+
+Responsibilities:
+
+Assist in the development and implementation of machine learning models and systems.
+Participate in the research and exploration of state-of-the-art AI technologies.
+Work with large datasets for training and evaluating machine learning models.
+Contribute to the design and implementation of AI agents for various applications.
+Collaborate with senior engineers to understand and implement LLM (Large Language Model) solutions.
+Assist in the deployment and monitoring of machine learning models.
+Participate in code reviews and contribute to improving code quality.
+Document research findings, code, and project progress.
+Stay up-to-date with the latest advancements in the field of machine learning and AI.
+Required Skills and Qualifications:
+
+Currently pursuing a Bachelor's or Master's degree in Computer Science, Data Science, Artificial Intelligence, or a related field.
+Strong understanding of fundamental machine learning concepts and algorithms.
+Proficiency in Python programming language and relevant libraries (e.g., NumPy, Pandas, Scikit-learn).
+Familiarity with Large Language Models (LLMs), their architectures, and applications.
+Basic understanding of AI Agents and their design principles.
+Basic knowledge of LLMOps (Large Language Model Operations), including model deployment and monitoring.
+Strong problem-solving and analytical skills.
+Excellent communication and teamwork skills.
+Eagerness to learn and a passion for AI.
+Ability to work independently and manage time effectively.
+Preferred Skills (Nice to Have):
+
+Experience with deep learning frameworks such as TensorFlow or PyTorch.
+Familiarity with natural language processing (NLP) concepts and techniques.
+Experience with cloud platforms (e.g., AWS, Google Cloud, Azure).
+Understanding of data preprocessing and feature engineering techniques.
+Knowledge of version control systems like Git.
+Experience with data visualization tools.
+Prior experience with any AI projects or personal projects is a plus.
+What You Will Gain:
+
+Hands-on experience working on real-world AI projects.
+Mentorship from experienced Machine Learning Engineers.
+Opportunity to learn and apply the latest AI technologies, including LLMs and AI Agents.
+Exposure to the full software development lifecycle.
+Development of valuable technical and professional skills.
+Potential for future employment opportunities at Inforwaves based on performance.
+============================================ 
+We are looking for a curious and self-driven AI/ML Engineering Intern to help shape the intelligence behind DataInsight, our real-time web analytics platform. You will work closely with the founding team to build machine learning models that detect user behavior patterns, generate actionable insights, and support features like automated recommendations and real-time engagement triggers. Key responsibilities include data preprocessing, feature engineering, building and evaluating ML models, and experimenting with LLMs for smart action suggestions.
+
+The ideal candidate has hands-on experience with Python, scikit-learn, and popular ML frameworks (like TensorFlow or PyTorch), and is excited to apply AI to real-world web user data. We’re looking for someone who is proactive, eager to learn, and excited to work in a fast-paced, remote environment where your work will directly shape the product’s intelligence layer.
+==============================================================
+Location: Dubai, United Arab EmiratesIn fast changing markets, customers worldwide rely on Thales. Thales is a business where brilliant people from all over the world come together to share ideas and inspire each other. In aerospace, transportation, defence, security and space, our architects design innovative solutions that make our tomorrows possible.Thales has built a presence in the United Arab Emirates for over 35 years, and today has over 300 employees. Thales in the UAE is part of our Middle East business that has 1,800 people across Egypt, Iraq, Kuwait, KSA, Lebanon, Oman, Pakistan, Qatar and UAE. Together we delivered technology for the Dubai metro, the longest driverless metro network in the world and a fare collection system that processes up to 250,000 transactions per day. We make UAE a safer place by providing secure electronic payment solutions, cyber security systems and communications as well as security systems for Dubai International Airport and air traffic management and navigation systems for Abu Dhabi’s airport.JOB OBJECTIVE:We are seeking a talented and enthusiastic AI/ML Intern to join our team. This position is ideal for recent graduates or final year students in Computer Science or IT Engineering who are passionate about machine learning and artificial intelligence.The intern will play a key role in helping us define a solution to digitalize documents and develop a system capable of predicting qualifications based on database analysis.ROLES & RESPONSIBILITIES:Collaborate with senior officials to understand project requirements and goals.Assist in the development and implementation of a machine-learning model to process and digitalize various documents.Work on algorithms that analyze data from the digital documents to make predictions about qualifications.Perform data preprocessing and cleaning to ensure high-quality input for the machine learning models.Conduct experiments and evaluations to measure the effectiveness of different models and approaches.Document processes, methodologies, and findings for future reference and knowledge sharing.Present progress updates and findings to the team in a clear and concise manner.WORK EXPERIENCE REQUIREMENTS:Solid understanding of machine learning concepts and algorithms.Experience with programming languages such as Python, R, or Java.Familiarity with machine learning frameworks and libraries such as TensorFlow, PyTorch, or scikit-learn.Knowledge of data preprocessing techniques and tools.Strong analytical and problem-solving skills.Excellent communication and teamwork abilities.Ability to learn quickly and adapt to new challenges.Qualification, Certification & Educational RequirementsEducational background in Computer Science, IT Engineering, or a related field.Preferred SkillsExperience with natural language processing (NLP) and document digitalization.Understanding of database design and management.Familiarity with cloud services and deployment (AWS, Azure, GCP).Previous internship or project experience in AI/ML.At Thales we provide CAREERS and not only jobs. With Thales employing 80,000 employees in 68 countries our mobility policy enables thousands of employees each year to develop their careers at home and abroad, in their existing areas of expertise or by branching out into new fields. Together we believe that embracing flexibility is a smarter way of working. Great journeys start here, apply now!
+
+==================================================
+
+About Dezzex
+
+Dezzex is a fast-growing AI startup headquartered in Dubai. We specialize in transforming industries like Insurance, Smart Cities, and Automotive through advanced Computer Vision and Deep Learning. From automating motor insurance claims with Dubai Police to drone-based industrial inspections, we are building the future of automated decision-making.
+The Opportunity
+
+We are looking for a passionate AI Engineer Intern to join our elite team of researchers and engineers. This is not just a learning role; you will work on production-level models used by government agencies and global enterprises. Outstanding interns will be offered a full-time position as an AI Engineer upon completion of the program.
+What You’ll Do
+• Develop Computer Vision Models & Agentic AI Projects: Work on real-time image and video analysis for vehicle damage assessment, drone imagery, and traffic prediction.
+• Research & Implementation: Stay ahead of the curve by implementing state-of-the-art Deep Learning and Neural Network techniques.
+• Collaborate: Work closely with our hardware and software teams to optimize AI models for performance and scalability.
+• End-to-End Impact: Assist in designing training datasets, fine-tuning LLMs, and deploying models that solve high-stakes industry problems.
+
+What We’re Looking For
+• Education: Currently enrolled in or a recent graduate of a Computer Science, AI, or Data Science program.
+• Technical Skills: Strong proficiency in Python and experience with frameworks like PyTorch, TensorFlow, or Keras.
+• AI Fundamentals: Solid understanding of Machine Learning, Deep Learning, and Neural Networks.
+• Mindset: A problem-solver who is inspired by decentralized AI and the "AI revolution".
+
+Why Join Dezzex?
+• Mentorship: Work directly with senior AI experts and research teams.
+• Real-World Impact: Your code will help Dubai Police improve road safety and insurance companies reduce operational costs.
+• Career Growth: High-performing interns are prioritized for full-time career roles.
+
+How to ApplyReady to inspire the next generation of AI? Send your resume and portfolio to hiring@dezzex.com.
+Work Location: In person
+===============================================================
+Bayut & dubizzle - The Arab World's only Homegrown Unicorn Business is now inviting applications for internships of 6 months duration in our Business Intelligence department.
+
+World-class mentors, fast paced & high performing work environment, our open culture and the opportunity to make an impact are just a few of the reasons why our internship program is highly sought after.
+
+As a Machine Learning Intern, you will be participating in exciting projects covering the end-to-end Data Science lifecycle – from raw data cleaning and exploration with primary and third-party systems, through advanced state-of-the-art data visualization and Machine learning development.
+
+You will work in a modern cloud-based data warehousing environment hosting Machine Learning models alongside alongside a team of diverse, intense and interesting co-workers. You will liaise with other departments – such as product & tech, the core business verticals, trust & safety, finance and others – to enable them to be successful.
+
+In this role, you will:
+• Query large datasets with SQL and feed ML models.
+• Perform data exploration to find patterns in the data and understand the state and quality of the data available.
+• Utilize Python code for analyzing data and building statistical models to solve specific business problems.
+• Evaluate ML models and fine tune model parameters considering the business problem behind.
+• Collaborate with senior peers to Deploy ML models in production.
+• Build customer-facing reporting tools to provide insights and metrics which track system performance.
+• Being part and contributing towards a strong team culture and ambition to be on the cutting edge of big data
+• Participate in the off-hours on call stability rotation to support live ML models
+
+Requirements
+• Bachelor’s degree in AI, Statistics, Math, Operations Research, Engineering, Computer Science, or a related quantitative field.
+• Statistical modelling and math
+• Basic knowledge of Machine learning algorithms.
+• Basic knowledge of SQL.
+• Basic knowledge of visualization tools such as Periscope
+• Excellent verbal and written communication.
+• Strong problem solving skills.
+
+Benefits
+• Ability to contribute to a platform used by more than 5M users in UAE and other platforms in the region.
+• Strengthen your resume and build your network.
+• Opportunity to find a full time career with the region's leading organization.
+• Working in a multicultural environment with over 60 different nationalities
+• Access to the Learning & Development tools and courses provided by the company.
+
+Bayut & dubizzle is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.
+===============================================
+We are seeking a motivated and curious AI Engineering Intern to join our growing technology team in Dubai. This role is ideal for fresh graduates or students who are passionate about Artificial Intelligence, Machine Learning, and data-driven solutions. The intern will gain hands-on experience working on real-world AI projects while collaborating with experienced engineers.
+
+Key Responsibilities
+• Assist in developing and testing AI/ML models and algorithms.
+• Support data collection, cleaning, and preprocessing for model training.
+• Work with the engineering team to integrate AI solutions into applications.
+• Conduct research on emerging AI technologies and tools.
+• Assist in building prototypes and proof-of-concept solutions.
+• Analyze datasets to derive insights and support decision-making.
+• Participate in code reviews, documentation, and team discussions.
+• Help optimize model performance and accuracy under supervision.
+
+Requirements
+• Currently pursuing or recently completed a degree in Computer Science, Artificial Intelligence, Data Science, or a related field.
+• Basic understanding of Python programming.
+• Familiarity with machine learning concepts and libraries (e.g., TensorFlow, PyTorch, Scikit-learn) is a plus.
+• Strong analytical and problem-solving skills.
+• Eagerness to learn and adapt in a fast-paced environment.
+• Good communication and teamwork skills.
+• Exposure to data analysis or AI/ML projects (academic or personal).
+• Knowledge of statistics and linear algebra fundamentals.
+• Understanding of APIs and basic software development concepts.
+
+Location
+
+Dubai, United Arab Emirates
+
+================================================
+
+CoreAI Technologies Ltd is shaping the future of intelligent software — redefining how people interact with information through cutting-edge AI solutions.
+
+Based in Dubai, we are an emerging AI company behind FinX, our flagship platform that merges real-time financial data, natural language understanding, and AI agents to power next-generation financial intelligence tools.
+
+Role Description
+
+We’re looking for a passionate AI Engineering Intern to join our dynamic team and work at the intersection of machine learning, software engineering, and product innovation.
+
+You will design, build, and optimise state-of-the-art AI systems, integrating AI agents and open-source frameworks to enhance FinX’s capabilities — from information retrieval to reasoning and AI-driven decision support.
+
+Key Responsibilities
+
+• Design, build, and optimise AI systems using agentic and open-source frameworks.
+
+• Create intelligent agent workflows utilising the latest AI technologies.
+
+• Collaborate with backend and product teams to deploy scalable AI pipelines.
+
+• Evaluate new AI research and integrate the most promising advancements into production.
+
+• Ensure data accuracy, efficiency, and responsible AI implementation across features.
+
+Qualifications
+
+• Strong hands-on experience with Python.
+
+• Understanding of RAG systems, embeddings, and vector databases.
+
+• Bachelor’s degree in Computer Science, Data Science, or related field.
+
+• Experience with agentic workflows and Model Context Protocols (MCPs) is a plus.
+
+• Deep passion for AI innovation and building impactful, real-world products.
+
+Why Join CoreAI Technologies
+
+• Be part of a fast-moving AI startup in Dubai shaping the global future of intelligent software.
+
+• Work with an ambitious, collaborative team leveraging cutting-edge AI technologies.
+
+• Opportunity to directly impact products used by clients and users worldwide.
+============================================================
+Working at GE Aerospace means you are bringing your unique perspective innovative spirit drive and curiosity to a collaborative and diverse team working to advance aerospace for future generations. If you have ideas we will listen. Join us and see your ideas take flight!
+
+Job Description
+
+Site Overview:
+
+For over 40 years GE Aerospace has had a significant presence on the ground in the United Arab Emirates. With offices in Abu Dhabi and Dubai Airport Freezone; an On Wing Support Center; partnership engineering testing and Maintenance Repair and Overhaul facilities across the country; and the Middle East Technology Center focused on solutions for the regions hot & harsh addition to career opportunities our sites offer a culture focused on respect for people and giving back to the community t hrough grants and philanthropic programming.
+
+Role Overview:
+
+Are you ready to see your future take flight At GE Aerospace we believe the world works better when it flies. We are a world-leading provider of jet engines components and integrated systems for commercial and military aircraft. We have a relentless dedication to the future of safe and more sustainable flight and believe in our talented people to make it happen.
+
+At GE Aerospace Technology & Operations our customers challenge us to tackle some of the worlds most complex engineering problems that require innovative approach using new technologies. Our engineers depend on software developers to bridge data tools and emerging technologies like cloud and AI to unlock new possibilities and shape the future of flight.
+
+What You will Do
+• Develop technical solutions for engineers to evaluate and adopt data and AI solutions.
+• Consult on architecture implement proof of concepts and deliver solutions for business strategic projects including data science and machine learning systems
+• Build and present product architectures write technical code and demo applications to stakeholders.
+• Gain hands-on experience with the Innovator Method and turn customer insights into solution that deliver real business value
+• Sharpen your skills in cloud platforms databases data engineering web design AI technologies and numerical methods
+• Use your strengths to support team members and build cross-functional relationships across the company.
+• Work to ship solutions to production that meet business needs and drive impact.
+
+Our culture thrives on innovation diversity and deep collaboration. Youll contribute as both a learner and a builder helping us push the design frontier in aerospace.
+
+Required Qualifications:
+• Graduate or pursuing a bachelors degree in computer science Aerospace Engineering Mechanical Engineering or a related field at an accredited university or credentialed software accelerator program.
+• Minimum 3.7 cumulative GPA off a 4.0 scale without rounding
+• Strong academic performance in Computer Science or other STEM disciplines
+• Experience designing AI solutions and architecting distributed data systems
+• Proficiency in programming and debugging with Python C# C and SQL
+• Customer-centric mindset with ability to lead design thinking workshops
+• Hands-on experience in at least one of the following areas: Machine Learning Large Language Models (LLMs) or Computer Vision
+• Experience building solutions using public cloud platforms such as AWS or Azure
+• Preferred but not required: AWS and/or Azure certification
+• No prior work experience required
+
+About The Internship
+• Time: Winter (Full-time) and Spring (Part-time)
+• Location: Remote
+• Paid Internship
+• Travel Opportunities
+• Real-world project ownership
+• Mentorship from experienced engineers
+• Opportunity for return offers
+
+At GE Aerospace we have a relentless dedication to the future of safe and more sustainable flight and believe in our talented people to make it happen. Here you will have the opportunity to work on really cool things with really smart and collaborative people. Together we will mobilize a new era of growth in aerospace and defense. Where others stop we accelerate.
+========================================================
+Full time | Black Pearl Consult | United Arab Emirates
+Posted On 05/14/2026
+Job Information
+Technology
+Number of Positions 1
+City Dubai
+337-1500
+Job Description
+We are seeking a motivated and curious
+AI Engineering Intern
+to join our growing technology team in Dubai. This role is ideal for fresh graduates or students who are passionate about Artificial Intelligence, Machine Learning, and data-driven solutions. The intern will gain hands‑on experience working on real‑world AI projects while collaborating with experienced engineers.
+Key Responsibilities
+Assist in developing and testing AI/ML models and algorithms.
+Support data collection, cleaning, and preprocessing for model training.
+Work with the engineering team to integrate AI solutions into applications.
+Conduct research on emerging AI technologies and tools.
+Assist in building prototypes and proof-of-concept solutions.
+Analyze datasets to derive insights and support decision-making.
+Participate in code reviews, documentation, and team discussions.
+Help optimize model performance and accuracy under supervision.
+Requirements
+Currently pursuing or recently completed a degree in Computer Science, Artificial Intelligence, Data Science, or a related field.
+Basic understanding of Python programming.
+Familiarity with machine learning concepts and libraries (e.g., TensorFlow, PyTorch, Scikit-learn) is a plus.
+Strong analytical and problem-solving skills.
+Eagerness to learn and adapt in a fast-paced environment.
+Good communication and teamwork skills.
+Exposure to data analysis or AI/ML projects (academic or personal).
+Knowledge of statistics and linear algebra fundamentals.
+Understanding of APIs and basic software development concepts.
+
+=========================================================
+Rize is a groundbreaking rent-now-pay-later platform reshaping the rental landscape in Saudi Arabia. We're dedicated to making rentals more accessible and affordable, enabling tenants to manage their finances with ease and landlords to secure their income effortlessly. We're on a mission to revolutionize the rental industry, breaking down barriers and creating opportunities for all.
+
+We're a team of innovators, thinkers, and problem-solvers, committed to creating a positive impact and driving change in the market.
+
+Our Team
+
+We love working together, being creative, and doing things differently! Our team is made up of over 20 people with different nationalities. We work from a cozy office in Riyadh, Saudi Arabia. And hey, we're not just smart—we're really good at coming up with new ideas! Plus, you can work from wherever you want because we like to keep things flexible.
+
+Our core values & Principles
+• Innovation – We’re a technology-driven team with the purpose of uplifting the real estate sector. We are the leaders of the industry in innovation.
+• Customer Centricity – We put the customer at the core of every decision and action.
+• Adaptability - Being able to adapt quickly to changing market conditions and customer needs.
+• Empowerment & Collaboration – Our team is the most valuable aspect of the company; We respect all ideas, our team enjoys authority, autonomy, and collaboration.
+• Ethical Excellence - We perform within the highest ethical standard.
+
+Job Summary
+
+As an AI Engineering Intern, you will be at the forefront of innovation, helping to transition theoretical concepts into functional intelligence. You will collaborate with senior engineers to architect, train, and refine machine learning models that solve complex problems.
+
+Your role is a blend of software engineering and data science, focused on building robust, scalable AI systems and staying ahead of the curve in a rapidly evolving field.
+
+What will you be doing?
+• Pipeline Development: Designing, building, and testing end-to-end Machine Learning pipelines—from ingestion to evaluation.
+• Data Engineering: Preprocessing and augmenting diverse datasets to ensure they are high-quality and "model-ready" for training.
+• Cutting-Edge Research: Staying current with AI trends and researching state-of-the-art techniques (such as LLMs, Computer Vision, or Reinforcement Learning) to improve model performance.
+• Lifecycle Management: Assisting with ModelOps, including the deployment of models into production environments and monitoring their real-world performance for "drift."
+• Scientific Documentation: Maintaining rigorous records of experiments, hyperparameters, and results to ensure all AI development is reproducible and transparent.
+
+You're a perfect match if you have
+• Academic Pedigree: Enrolled in a Bachelor’s or Master’s program in Computer Science, AI, or Data Science, with a strong focus on algorithmic thinking.
+• Python Mastery: High proficiency in Python, the primary language of the AI ecosystem.
+• Framework Fluency: Hands-on experience with the heavy hitters of AI development, such as PyTorch, TensorFlow, or scikit-learn.
+• Mathematical Foundation: A solid grasp of Linear Algebra and Statistics—the "engine" that powers neural networks and ML algorithms.
+• A Researcher’s Curiosity: The ability to troubleshoot complex bugs in model training and a passion for experimenting with new architectures to find the most efficient solution.
+=================================================================
+What the Role Entails
+We are looking for an Associate Data Scientist to help build AI-powered capabilities for our influencer marketing platform. This role focuses on turning data and machine learning into practical product features-from creator discovery and content understanding to campaign optimization and performance prediction.
+You will work at the intersection of data science, product, and engineering, helping bring intelligent systems into real world use cases that drive measurable business impact.
+
+1. Applied AI & Model Development
+
+Develop and deploy machine learning / AI models to enhance platform capabilities.
+Work on use cases such as:
+Creator segmentation and recommendation.
+Creator Content labeling and data analysis.
+Campaign performance prediction and optimization.
+Agentic Systems Developing.
+2. Problem Framing & Experimentation
+
+Translate business and product problems into data science solutions.
+Design experiments to validate hypotheses and measure impact.
+Iterate on models based on performance, feedback, and real-world usage.
+3. Data Pipeline & Feature Engineering
+
+Work with data engineers to define and build scalable data pipelines.
+Clean, process, and structure large datasets (creator data, content metadata, campaign performance).
+Design meaningful features that improve model performance.
+4. Product Integration
+
+Collaborate closely with product managers and engineers to integrate models into the platform.
+Ensure models are production-ready, reliable, and scalable.
+Contribute to API design, model serving, and inference workflows.
+5. Monitoring & Continuous Improvement
+
+Track model performance using appropriate metrics (accuracy, precision, recall, business KPIs).
+Maintain documentation and ensure reproducibility.
+Who We Look For
+
+Core Values
+
+Integrity - You prioritize correctness, transparency, and responsible use of data.
+Gamer Native - You understand gaming ecosystems and player/content dynamics.
+Pop Culture Fluent - You are familiar with creators, platforms, and digital trends.
+Tech-Savvy - You are curious and hands-on with emerging AI technologies.
+Technical Skills
+
+Strong foundation in machine learning and statistics.
+Proficiency in Python and common ML libraries (e.g., PyTorch,scikit-learn).
+Experience with data processing (e.g., pandas, SQL).
+Familiarity with LLMs, NLP, or recommendation systems is a strong plus.
+Understanding of model deployment (APIs, batch/real-time inference) is preferred.
+Data & Product Thinking
+
+Ability to translate ambiguous business problems into data science solutions.
+Strong analytical thinking and hypothesis-driven approach.
+Understanding of how models create value in a product context (not just offline metrics).
+Execution & Collaboration
+
+Ability to work cross-functionally with product, engineering, and business teams.
+Good communication skills-able to explain complex models in simple terms.
+Strong ownership and ability to iterate quickly.
+Nice to Have
+
+Experience in influencer marketing, advertising, or creator platforms.
+Familiarity with social media data (e.g., YouTube, Twitch, TikTok ecosystems).
+Experience with embeddings, vector databases, or retrieval systems.
+Basic knowledge of data engineering or MLOps workflows.
+Example Projects You Might Work On
+
+Build a creator discovery engine using embeddings + similarity search.
+Develop a content understanding pipeline (tags, sentiment, brand safety).
+Train a campaign ROI prediction model to guide budget allocation.
+Integrate LLMs to improve tool efficiency and automate workflows.
+Equal Employment Opportunity at Tencent
+
+As an equal opportunity employer, we firmly believe that diverse voices fuel our innovation and allow us to better serve our users and the community. We foster an environment where every employee of Tencent feels supported and inspired to achieve individual and common goals.
+
+================================================
+
+Work closely with the Data and AI team to help turn messy problems into practical solutions.
+
+This internship is designed for someone who is curious about how data, machine learning, AI systems, and products come together in a real company environment. You will work across different types of projects: analysis, experimentation, automation, research, internal tooling, and operational problem solving.
+
+About Lean
+
+Lean has tripled in size over the past twelve months. We’re on track to triple again next year.
+
+What started as the region’s pioneering Open Finance platform is now becoming something bigger: a multi-product infrastructure company powering payments, data, and lending across MENA. We’re expanding into new markets, opening offices, acquiring businesses, and building capabilities that didn’t exist here before.
+
+We’ve processed billions of dollars in transactions. We’re trusted by 300+ clients - from Tabby and Tas’heel to Hungerstation - and backed by General Catalyst, Sequoia, and Shorooq. Our $67.5M Series B was just the beginning.
+
+What you'll Own
+• Support ongoing data and AI initiatives across the company.
+• Help investigate business and operational problems using data.
+• Assist with exploratory analysis, experimentation, and prototyping.
+• Research tools, models, APIs, and technical approaches when needed.
+• Work with structured and unstructured data from different systems.
+• Document findings, decisions, and technical work clearly.
+• Participate in discussions around product ideas, workflows, and process improvements.
+• Take ownership of ambiguous tasks and work through them methodically.
+
+What We’re Looking For
+• Curiosity and willingness to learn quickly.
+• Strong analytical skills.
+• Strong problem-solving and critical thinking.
+• Resourcefulness when facing unfamiliar problems.
+• Comfort working through ambiguity.
+• Ability to communicate ideas clearly and ask good questions.
+• Ability to learn independently without waiting for step-by-step instructions.
+• Programming experience (Python, SQL, dbt, or similar).
+• Familiarity with spreadsheets, APIs, and databases.
+• Exposure to AI tools, automation tools, or analytics platforms.
+• Interest in AI, machine learning, product thinking, or systems design.
+
+===========================================================
+GE Vernova – Electrification Software is the world's Digital Industrial Company, transforming industry with software-defined machines and solutions that are connected, responsive and predictive. Through our people, leadership development, services, technology and scale, GEV delivers better outcomes for global customers by speaking the language of industry.
+
+At GE Vernova, we are creating technology and solutions to enable social, mobile, analytical and cloud capabilities for the Industrial Internet. The Industrial Internet is an open, global network that connects people, data and machines. We believe it’s about the future of the energy industry. It’s about making the world work better.
+
+As a GEV Intern, you will benefit from the mentorship program and the opportunity to collaborate with subject expert Engineers (SMEs). Some examples of assignments are Product/Project Management, Data Analytics, Information Security, Cyber Security, Application Architecture, Data Modeling, Web Applications, User Experience/Interaction Design, Cloud Technology, Software Development, Electrical Power Application and Optimization and DBA (Oracle & SQL Server). GEV offers a great work environment, professional development, challenging careers, and competitive compensation.
+
+Essential Responsibilities:
+
+We offer meaningful, impactful assignments that encourage team building, career development opportunities, and more! GEV Interns are GE’s primary pipeline to full-time employment opportunities as a direct hire. GEV Interns are hired to focus on a particular area based on availability of positions, the interviewer's assessment, and the applicant's preference. Focus areas for this internship will be in Grid – Software Solutions within Services – Technical Delivery Department.
+
+The intern assignments, typically 12 months fixed term placements, are dynamic and challenging based on the business needs and the type of work required. Interns have significant exposure to key Software and business leaders at GE; as well as a global internship support network to accelerate learning and development.
+
+Qualifications/Requirements
+
+We are looking for an "AI/ML Software DevOps Engineer" intern to join our talented pool of experts shaping the future of the Grid:
+
+Below the basic Qualifications required:
+
+• Fresh graduated from the University
+
+• Bachelor’s, Master’s at an accredited university in Saudi Arabia or Internationally
+
+• Degree focused on Electrical Engineering, Software Engineering, Power Systems, Computer Science, Computer Engineering, Computer Information Systems, Data science
+
+• Must commit to work full time during the internship.
+
+Eligibility Requirements:
+
+• Must be based in Saudi Arabia and willing to travel if needed
+
+Desired Characteristics:
+
+• Knowledge of computer science fundamentals such as object-oriented design, operating systems, algorithms, data structures, and complexity analysis
+
+• Experience with at least one modern language such as Java, Python, C++, or C# including object-oriented design.
+
+• Candidates with strong interests and academic qualifications/research focus in: Artificial Intelligence, machine learning, and/or Generative AI
+
+• Deploy and maintain machine learning models in various environments.
+
+• Implement and maintain CI/CD pipelines, familiar with containerization tools loke Docker and Orchestration tools like Kubernetes
+
+• Experience with distributed, multi-tiered systems, algorithms, and relational databases.
+
+• Prior intern experience in software, electrical engineering, power systems or relevant area.
+
+• Excellent team player whilst maintaining an independent perspective.
+
+• A strong commitment to a career in technology and passion/aptitude for both software and electrical engineering.
+
+• Strong analytical and technical skills with experience in software industry standards and development tools.
+
+• Excellent written and verbal communication skills and ability to articulate clearly in English language
+
+• Demonstrated creative problem solving and proactive learning.
+========================================================================
+Our vision is to transform how the world uses information to enrich life for all.
+
+Join an inclusive team passionate about one thing: using their expertise in the relentless pursuit of innovation for customers and partners. The solutions we build help make everything from virtual reality experiences to breakthroughs in neural networks possible. We do it all while committing to integrity, sustainability, and giving back to our communities. Because doing so can fuel the very innovation we are pursuing.
+
+Machine Learning Engineer Intern – Smart Manufacturing & AI (Micron Technology)
+
+Join Micron Technology’s Smart Manufacturing and AI team as a Machine Learning Engineer Intern. In this role, you'll apply AI/ML to real-world manufacturing problems, explore data, deploy models, and learn how ML systems operate at scale. You’ll gain hands-on experience alongside ML engineers, data scientists, and data engineers, contributing to impactful solutions for global manufacturing operations.
+
+Responsibilities
+• Build and maintain data pipelines and workflows for machine learning model development.
+• Develop and optimize data structures and datasets in cloud platforms (e.g., Snowflake, Google Cloud).
+• Write clean, maintainable code for scalable MLOps implementation and internal tools.
+• Support CI/CD workflows for model testing and deployment.
+• Collaborate with cross-functional teams to explore data-driven solutions.
+
+Minimum Qualifications
+• Enrolled in Computer Science, Data Science, Statistics, Engineering, or a related technical field.
+• Basic understanding of ML concepts and algorithms.
+• Experience with Python and ML libraries (TensorFlow, PyTorch, scikit-learn).
+• Knowledge of data structures, scripting, and software development fundamentals.
+• Familiarity with SQL or cloud platforms (AWS, Azure, GCP) is a plus.
+• Strong analytical skills, curiosity, and eagerness to learn new technologies.
+• Ability to work in a fast-paced, collaborative environment.
+
+Preferred Qualifications
+• Coursework or projects in machine learning, data engineering, or cloud computing.
+• Experience with Docker, Git, and CI/CD workflows (school or personal projects).
+• Exposure to big data concepts, data preprocessing, or ETL processes.
+• Interest in computer vision, signal processing, or statistics.
+• Strong communication skills and proactive learning mindset.
+
+About Micron Technology, Inc.
+
+We are an industry leader in innovative memory and storage solutions transforming how the world uses information to enrich life for all. With a relentless focus on our customers, technology leadership, and manufacturing and operational excellence, Micron delivers a rich portfolio of high-performance DRAM, NAND, and NOR memory and storage products through our Micron® and Crucial® brands. Every day, the innovations that our people create fuel the data economy, enabling advances in artificial intelligence and 5G applications that unleash opportunities — from the data center to the intelligent edge and across the client and mobile user experience.

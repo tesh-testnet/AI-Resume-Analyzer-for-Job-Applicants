@@ -1,0 +1,273 @@
+SENIOR-LEVEL JOB DESCRIPTIONS
+============================================================ 
+PasificKode
+PacificKode is a software development and IT services and consulting company that specializes in robotic engineering, software development, cloud computing, mobile application development, IT consulting, application support and manage services. Our team of experienced engineers and consultants work together to create innovative solutions for our clients that meet their unique business needs.
+Key Responsibilities
+Develop, test, and maintain scalable .NET applications using .NET 6.0/8.0 and C#.
+Design and implement RESTful APIs, Azure Functions, and SignalR-based real-time solutions.
+Build responsive front-end applications using React, TypeScript, HTML5, CSS, and Bootstrap.
+Write efficient and optimized SQL queries, stored procedures, and manage large datasets with indexing techniques.
+Work with various databases including MS SQL Server, Cosmos DB, MongoDB, Azure Storage Accounts, Firebase, and Firestore.
+Integrate and manage messaging with Azure Service Bus.
+Deploy and manage applications using Azure App Services, Azure Container Instances, Azure VMs, and other Azure cloud services.
+Collaborate with the DevOps team on CI/CD pipelines using Azure DevOps or GitHub.
+Participate in code reviews, unit testing, debugging, and documentation.
+Work in an agile development environment and collaborate with cross-functional teams.
+Knowledge of Object-Relational Mapping frameworks such as EF Core, Dapper.
+Required Skills & Qualifications:
+2-5 years of experience in software development with a strong grasp of .NET (6.0/8.0) and C#.
+Experience building Web APIs, Azure Functions, or background services like Hosted Services.
+Front-end development experience with React, TypeScript, HTML/CSS, and Bootstrap
+Strong database skills with ability to write optimized SQL, manage stored procedures, apply indexes, and handle large datasets.
+Familiarity with Azure Cloud services including App Services, Containers, VMs, and Azure Storage. Understanding of messaging patterns using Azure Service Bus.
+Understanding of messaging patterns using Azure Service Bus.
+Exposure to CI/CD tools and pipelines will be an added advantage (Azure DevOps / GitHub Actions)
+Integrate third-party APIs and payment gateways.
+Follow security best practices for API development (e.g., OAuth2, JWT, input validation, HTTPS, etc.).
+Excellent problem-solving skills and a willingness to learn new technologies.
+Experience with Agile and Scrum development methodologies.
+Strong understanding of object-oriented programming (OOP), software architecture, and SOLID principles for writing clean, maintainable, and scalable code.
+
+============================================================
+VitalHub Innovation Lab
+We are seeking a talented Senior Software Engineer with strong technical expertise and a professional, organized approach. In this role, you will work primarily with .NET web-based applications, focusing on the design, development, deployment, and maintenance of innovative, market-leading products in the healthcare domain.
+Core Responsibilities and Duties
+Build high quality, scalable, performant, and secure .NET based applications.
+Write well-defined, commented, maintainable and testable code.
+Collaborate with global team members across various disciplines (team leads, architects, BAs, QA, and project stakeholders) to design and develop applications in an Agile environment.
+Be a strong advocate of coding standards and other software engineering best practices.
+Troubleshoot issues, clearly define problems and provide effective recommendations.
+Qualification and experience
+Bachelor’s Degree in Software Engineering / Computer Science.
+3-5 years of experience designing and building solutions in a .NET based stack
+Strong proficiency and proven experience in C#, .NET Core, .NET framework, VB.net, MVC, and Razor pages.
+Solid knowledge of HTML, CSS, JavaScript, Bootstrap, LESS and jQuery.
+Practical understanding of dependency injection, tag helpers, and razor components (a plus).
+Experience in .NET data access technologies and ORMs (ADO.NET, EF Core, EF 6).
+Good understanding of relational database management systems, preferably MSSQL Server.
+Experience on Telerik will be a plus.
+Solid understanding of design principles, patterns, best practices and clean coding techniques.
+Familiarity with DevOps CI/CD tools such as Bitbucket, Azure DevOps, containers (a plus). Experience with test-driven development and unit testing frameworks (NUnit, XUnit) (a plus).
+Excellent communication skills, a problem-solving mindset, and a passion for technology with a desire for continuous learning and career growth.
+
+============================================================
+
+ZB Solutions
+Join ZB Solutions as a Senior Laravel Full Stack Developer and grow your career with an innovative team.
+Key Responsibilities
+Design, develop, and maintain scalable applications.
+Lead and participate in architecture decisions.
+Write clean, maintainable, and efficient code.
+Review code and mentor junior developers.
+Collaborate with cross-functional teams (design, product, QA).
+Troubleshoot, debug, and upgrade existing systems.
+Ensure performance, quality, and responsiveness of applications.
+Requirements
+2+ years of professional software development experience.
+Strong proficiency in HTML 5, CSS3, JavaScript, PHP
+Experience with modern frameworks (e.g., React, Nodejs, Laravel, etc.)
+Solid understanding of databases (SQL/NoSQL).
+Experience with APIs and system integrations.
+Familiarity with version control tools (e.g., Git).
+Strong problem-solving and communication skills.
+Nice to Have
+Knowledge with cloud platforms (AWS, Azure, or GCP)
+Strong experience with Laravel (REST APIs, queues, jobs, Eloquent ORM)
+Experience leading development teams
+What we offer
+Competitive salary
+Flexible working environment
+Opportunities for career growth
+Friendly and collaborative team culture
+
+============================================================
+
+Surecore (Pvt) Ltd
+We’re building the backend infrastructure powering the next generation of insurance technology — and we need a Senior Software Engineer to help lead that effort. 
+At SureCore, we solve real-world problems in the insurtech space by building scalable, high-performance systems that truly make an impact. If you enjoy owning technical decisions, mentoring engineers, and shipping systems that matter — this is your chance to do exactly that
+We’re currently hiring Senior Software Engineers to join our growing team.
+We’re looking for candidates with:
+5+ years of professional software development experience
+Strong proficiency in Java and Spring Boot
+Hands-on experience with microservices architecture & distributed systems
+Solid understanding of system design, scalability & performance tuning
+Proficiency with PostgreSQL or similar relational databases
+Experience with CI/CD pipelines & DevOps practices (Docker, Kubernetes is a plus)
+Ability to clearly communicate technical concepts to non-technical stakeholders
+A strong focus on writing clean, maintainable & well-tested code
+What you’ll do:
+Design, develop, and own scalable backend systems and microservices
+Lead technical decisions and drive architectural improvements
+Build and optimize REST / gRPC APIs for performance and reliability
+Mentor junior engineers through pairing, guidance, and code reviews
+Collaborate closely with QA, DevOps, and Product teams
+Champion code quality, testing, and engineering best practices
+
+============================================================
+
+Silverline IT
+Work remotely, enjoy competitive benefits, and be part of a dynamic, fast-growing team building scalable and high-performance systems.
+Duties & Responsibilities
+Design, develop, and maintain scalable backend systems, APIs, and microservices for production environments.
+Lead backend architecture decisions and ensure high availability, performance, and security across all services.
+Build and maintain RESTful and GraphQL APIs using NodeJS and FastAPI frameworks.
+Collaborate with frontend, DevOps, and product teams to define technical requirements and deliver robust solutions.
+Design and manage relational and non-relational database schemas, queries, and optimisation strategies.
+Conduct code reviews and enforce best practices in coding standards, testing, and documentation.
+Identify and resolve performance bottlenecks, bugs, and technical debt across backend systems.
+Mentor junior engineers and contribute to overall team capability and growth.
+Our Requirements
+Must be able to work between 8:00 AM – 5:00 PM Eastern Time Zone (ET).
+Strong communication skills in English and the ability to collaborate effectively across teams are essential.
+3–5 years of hands-on experience in backend engineering or a related field.
+Strong proficiency in NodeJS and FastAPI, with a solid understanding of backend development principles.
+Extensive experience with relational databases, particularly MySQL — including schema design, query optimisation, and performance tuning.
+Solid experience with NoSQL databases such as MongoDB, Redis, DynamoDB, or Cassandra.
+Familiarity with RESTful API design, authentication protocols (OAuth, JWT), and API security best practices.
+Experience with cloud platforms such as AWS, GCP, or Azure and their backend-relevant services.
+Knowledge of containerisation and orchestration tools such as Docker and Kubernetes.
+Understanding of CI/CD pipelines and DevOps practices.
+Demonstrated ability to lead technical initiatives and collaborate in an agile environment.
+Bachelor’s or Master’s degree in Computer Science, Software Engineering, or a related discipline.
+
+============================================================
+BISTEC Global
+We are looking for a Senior .NET Developer to join a growing product team - someone who writes clean, solid code and is ready to take ownership beyond their own ticket. This role suits a developer who enjoys working close to the metal: optimizing queries, thinking about data access patterns, and keeping the codebase clean for the developers who come after them.
+What you'll work on:
+Building and maintaining .NET Core / ASP.NET Core APIs and services
+Working across both legacy .NET Framework and modern .NET Core codebases - including migration work
+Designing the data layer using Entity Framework Core and writing complex SQL queries
+Collaborating with Angular frontend teams and contributing to code reviews
+What we are looking for:
+Strong hands-on experience with C# and .NET Core
+Solid SQL skills - writing, reading, and reviewing queries with confidence (performance tuning)
+Entity Framework Core - you understand how queries translate to SQL and how to avoid common pitfalls
+Experience working with both .NET Framework and .NET Core applications
+Good grasp of SOLID principles and the ability to apply them in real codebases
+Experience with Angular is a plus
+
+============================================================
+
+Tecciance
+Expected Mindset
+Ownership.
+Architecture thinking.
+Al-first approach.
+What You'll Do
+Lead backend architecture decisions
+Design Al-enabled system components
+Review code & mentor engineers
+Optimize performance & scalabilityt
+Must Have
+5+ years Java + Spring Boot
+Strong system design skills
+Microservices + distributed systems experience
+Experience integrating Al services into workflows
+Strong databasa optimization knowledge
+
+============================================================
+Not Mentioned
+We are seeking an experienced Senior Software Engineer with strong .NET development skills. In this role, you’ll design, build, and optimize highly available systems and services, ensuring performance, scalability, and security across all layers from infrastructure to application.
+Responsibilities:
+Architect and develop robust applications using .NET 8+, C#, and microservices architecture.
+Build high-performance web applications with ASP.NET Core, MVC, and modern front-end frameworks like React or Angular.
+Design and optimize SQL Server/MSSQL schemas, write complex queries, and manage performance tuning.
+Deploy and manage applications on cloud platforms (Azure or AWS), leveraging serverless computing and managed services.
+Conduct comprehensive code reviews, implement unit/integration tests (xUnit, NUnit), and ensure adherence to SOLID principles.
+Lead and guide junior and mid-level engineers, providing technical direction and supporting their professional growth.
+Participate in Agile/Scrum ceremonies, collaborating with product managers and stakeholders to translate requirements into technical specs
+Requirements:
+Bachelor's or Master’s degree in Computer Science, Software Engineering, or a related field.
+4+ years of experience in .NET development.
+Expertise in C#, .NET Core/6/7/8+, and ASP.NET MVC/Web API.
+Strong background in Entity Framework Core and LINQ.
+Proficiency in RESTful APIs, microservices, and serverless architecture.
+Experience with Git, Azure DevOps, and CI/CD pipelines.
+Proven ability to diagnose and resolve performance and reliability issues.
+Strong communication skills, with the ability to convey technical concepts to non-technical stakeholders.
+Experience with containerization (Docker, Kubernetes) (Preferred)
+Microsoft .NET or Azure certifications (Preferred)
+What We Offer:
+Work on cutting-edge technology with leading international companies, contributing to real-world production projects.
+Relocation to Europe with full visa sponsorship and structured onboarding for working in international engineering teams.
+Competitive compensation package and a clear pathway to long-term employment and career growth with our partner companies.
+
+============================================================
+Not mentioned
+About the role:
+We are seeking an experienced Senior Software Engineer with strong skills in Go (Golang), Kubernetes, and StackIT, along with a deep understanding of the full technology stack and network infrastructure, to collaborate with our global team. In this role, you’ll design, build, and optimize highly available systems and services, ensuring performance, scalability, and security across all layers, from infrastructure to application.
+Responsibilities:
+Design, develop, and maintain backend services and APIs using Go (Golang).
+Architect and manage scalable systems deployed on Kubernetes (cloud or on-premises).
+Build and maintain environments on StackIT Cloud to ensure reliability and performance.
+Implement and optimize network design, including routing, load balancing, and service connectivity.
+Drive performance tuning and troubleshooting across the entire stack — application, container, and network layers.
+Develop and maintain CI/CD pipelines for automated testing and deployment.
+Collaborate closely with architecture, DevOps, and product teams to deliver robust and secure solutions.
+Lead technical discussions, provide mentorship, and promote engineering best practices.
+Requirements:
+Bachelor’s or Master’s Degree in Computer Science, Software Engineering, or related field
+4+ years of experience in backend or infrastructure engineering.
+Strong proficiency in Go (Golang) development.
+Hands-on experience with Kubernetes (deployment, scaling, service mesh, monitoring).
+Practical knowledge of StackIT Cloud or similar platforms (AWS, Azure, GCP).
+Deep understanding of networking fundamentals – TCP/IP, routing, DNS, VPN, and load balancing.
+Experience with Docker, CI/CD, and Infrastructure as Code tools (Terraform, Helm, etc.).
+Proven ability to diagnose and resolve performance and reliability issues.
+Strong communication skills, with the ability to convey technical concepts to non-technical stakeholders.
+Experience designing microservices or distributed systems. (Preferred)
+Knowledge of Zero Trust or modern secure networking practices. (Preferred)
+
+============================================================
+Avantario (PVT) Ltd.
+Seeking skilled and passionate Software Engineers / Senior Software Engineers with a minimum of 2 years of industry experience (excluding internships) and a strong Python background. Front-end development skills are a preferred qualification.
+Key Responsibilities:
+Design, develop, test, and maintain scalable and robust solutions using Python
+Collaborate with cross-functional teams to define, design, and ship new features
+Write clean, maintainable, and efficient code
+Conduct code reviews to ensure code quality
+Troubleshoot, debug and upgrade existing software
+Provide technical guidance and solutions to complex problems
+Work closely with product managers, designers, and other stakeholders
+Communicate effectively to ensure alignment and transparency
+Stay updated with the latest industry trends and technologies
+Proactively seek opportunities to improve software and development processes
+Qualifications:
+Bachelor's degree in Computer Science, Software Engineering, or a related field
+Minimum of 2 years of professional experience in software development (excluding internships)
+Proven experience with Python and its frameworks (e.g., Django, Flask)
+Strong proficiency in Python
+Experience with Python data libraries (e.g., pandas, NumPy, scipy)
+Experience with version control systems (e.g., Git)
+Familiarity with RESTful APIs and web services
+Thorough knowledge of databases (SQL and NoSQL)
+Excellent problem-solving and analytical skills
+Strong communication and teamwork abilities
+Self-motivated with a passion for continuous learning and improvement
+Preferred Qualifications:
+Front-end development skills with modern JavaScript frameworks
+Experience with cloud platforms (e.g., AWS, Azure, GCP)
+Knowledge of containerization technologies (e.g., Docker, Kubernetes)
+
+============================================================
+Orysys
+We are seeking a Senior Software Engineer – Business Automation to lead the design, development, and implementation of workflow automation solutions that enhance critical banking operations. This role requires a strong foundation in both frontend and backend development, along with a passion for building automation capabilities within enterprise environments.
+Our organization is actively developing solutions using IBM Cloud Pack for Business automation (CP4BA) and you will collaborate closely with** **Business Process Reengineering (BPR)teams to automate and optimize key business processes.
+Key Responsibilities:
+Lead the end-to-end design, development, and customization of complex business process workflows and automation frameworks.
+Partner with cross-functional teams, including Operations and Business Process Reengineering (BPR), to identify, prioritize, and translate automation opportunities into robust technical implementations.
+Architect and develop custom workflow components, integration layers, and intuitive user interfaces leveraging modern frontend and backend technologies.
+Design and implement integrations with external applications and services using RESTful and SOAP web service APIs.
+Ensure solutions adhere to stringent security, compliance, scalability, and performance standards.
+Drive testing, deployment, and continuous improvement of automated workflows to maximize efficiency and reliability.
+Mentor junior engineers and collaborate with senior technical leaders to foster best practices and innovation in automation initiatives.
+Stay abreast of emerging automation technologies, tools, and methodologies to continually enhance our automation capabilities.
+Exceptional problem-solving, analytical thinking, and communication skills, with the ability to influence stakeholders at all levels.
+Required Skills & Technologies:
+Backend: Expert-level development experience with Java and/or .NET for building custom workflow components and backend integration logic.
+Frontend: Advanced proficiency in JavaScript, React, Node.js, HTML, and CSS to create dynamic, responsive, and user-friendly automation interfaces.
+Data & Integration:Proficient in SQL and stored procedures for data management, XML for workflow schemas.
+REST / SOAP Web Services: For integrating workflows with external applications and services.
+Additional Qualifications: Experience with OCR technologies, content management and storage solutions and proficiency in IBM Operational Decision Manager (ODM) are valuable assets.
+Case Management: Hands-on expertise in case management design and implementation within business automation frameworks is preferred.
+Solid experience with Agile development methodologies and DevOps practices. , Can you safely give me 3 txt file with the seperated job description related to 3 level.

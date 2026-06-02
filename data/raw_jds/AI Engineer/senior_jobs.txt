@@ -1,0 +1,394 @@
+SENIOR-LEVEL JOB DESCRIPTIONS
+============================================================ 
+Company: A Leading IT Firm in Sri Lanka
+
+Job Type: Full-Time | Fully Remote (candidates should be Sri Lankans)
+
+Singapore Timezone
+
+The Opportunity
+
+We are seeking a visionary Senior / Lead AI Engineer with strong, practical expertise in Prompt Engineering and Agentic AI Development to join our dynamic, fully remote team. This is a crucial role where you will be instrumental in designing intelligent workflows, building cutting-edge AI-driven automation systems, and optimizing model behavior across diverse business use cases.
+
+This position is ideal for an innovator ready to push the boundaries of LLM integration and autonomous systems.
+
+Key Responsibilities
+
+Prompt Engineering & Optimizations
+
+Design, develop, and refine high-quality LLM prompts for targeted outcomes.
+Experiment, evaluate, and fine-tune prompts for maximum accuracy, relevance, and creativity.
+Analyze AI responses to identify and resolve bias, inconsistency, or inefficiencies to ensure peak performance.
+AI Agent Development
+
+Build, test, and deploy autonomous or semi-autonomous AI agents using open-source frameworks and APIs.
+Design and implement resilient agentic platforms for complex reasoning, planning, and executing multi-step tasks.
+Integrate LLMs with tools, databases, and APIs (e.g., RAG) for enhanced functionality.
+Collaboration & Integration
+
+Collaborate closely with AI researchers, product managers, and engineers to seamlessly integrate AI solutions.
+Document prompt and agent design methodologies, ensuring adoption of best practices.
+Stay updated on the latest advancements in LLMs, AI orchestration, and multi-agent systems.
+Qualifications
+
+Technical Mastery (Required)
+
+Experience: 3+ years of hands-on experience in AI/ML, NLP, or LLM-based systems.
+Programming: Proficiency in Python and AI/ML frameworks such as PyTorch, TensorFlow, and Hugging Face Transformers.
+LLM Tools: Extensive experience developing LLM-integrated applications using LangChain, LlamaIndex, or CrewAI.
+System Knowledge: Familiarity with API integrations, vector databases, and Retrieval-Augmented Generation (RAG).
+Deployment: Experience in the deployment, monitoring, and maintenance of production AI applications.
+Design: Strong solutioning and automation design skills focused on delivering outcome-oriented results.
+Soft Skills
+
+Strong analytical thinking and exceptional attention to detail.
+Excellent communication and documentation skills.
+Ability to thrive in a fast-paced, collaborative, and innovation-driven environment.
+Familiarity with financial or gaming industry processes and data is an added advantage.
+Why Join Us?
+
+100% Remote: Enjoy the flexibility of working fully remotely from anywhere in Sri Lanka.
+Cutting-Edge Tech: Work on the forefront of AI innovation (Agentic AI & LLMs).
+Impact: Directly contribute to building intelligent automation systems that solve real-world business problems.
+Growth: Competitive compensation and a clear pathway for professional development in a leading IT firm.
+How to Apply
+
+If you are a Senior/Lead AI Engineer ready to define the next generation of intelligent systems, apply via ITPro.lk or send your CV to careers@wisdomrecruitments.com
+============================================================
+
+We are seeking a Senior AI/ML Engineer with a comprehensive background in machine learning, computer vision, and data science. In this role, the successful candidate will lead the architecture, development, and deployment of the intelligent systems that drive our platforms' perception, decision-making, and data processing capabilities.
+
+This position involves shaping the technology stack, mentoring junior engineers, and ensuring model reliability in real-world, mission-critical applications.
+
+Responsibilities
+
+Own the full ML lifecycle: data strategy, model training, deployment, and production monitoring
+Build real-time computer vision systems for 3D mapping, obstacle detection, and object identification
+Design scalable data pipelines and MLOps infrastructure for robotic fleet telemetry
+Optimize deep learning models for low-latency edge inference
+Drive data science initiatives to improve system resilience and performance
+Collaborate with hardware, software, and mechanical teams on sensor integration
+Mentor junior engineers, uphold rigorous engineering standards, and foster a culture of continuous improvement
+Requirements
+
+Master's in Computer Science, Al, Data Science, Robotics, or equivalent experience
+5+ years delivering scalable Al/ML solutions, with strong Computer Vision and Data Science portfolios
+Proficiency in Python and C++ for production-grade development Expertise in ML frameworks, computer vision libraries, and edge Al/hardware acceleration
+Experience building data pipelines, utilizing data science tools, and managing MLOps workflows
+Strong project management and cross-functional communication skills
+
+============================================================
+
+We are seeking a hands‑on AI Engineer to design, build, and deploy production‑grade agentic applications leveraging Claude (or similar agentic coding tools) and the Model Context Protocol (MCP). This role goes beyond prompt engineering and prototypes—you will build real agents that act on real systems, integrating enterprise data, tools, and workflows.
+
+You will work across agent orchestration, MCP servers, agent‑to‑tool interfaces, and cross‑platform agent migration (e.g., Claude ↔ Copilot Studio), enabling scalable, secure, and maintainable AI systems embedded directly into business operations.
+
+This role requires strong Python engineering skills, deep understanding of LLM tool use and multi‑step cognition, and practical experience deploying agentic systems in production environments.
+
+Key Responsibilities
+• Agentic Application Development (Claude)
+• Design and implement multi‑step agentic workflows using Claude with advanced tool‑use, reasoning loops, and prompt chaining
+• Build agents that operate against live enterprise data and systems, not static demos or isolated notebooks
+• Implement agent patterns including:
+• Planner / Executor architectures
+• Tool‑selection and dynamic routing
+• Reflection, retries, and guardrail handling
+• Use the Anthropic Python SDK and Claude Skills / Plugins framework to create maintainable, extensible agent codebases
+• Optimize prompt and tool design for reliability, cost, latency, and correctness
+• Claude Cowork Agent & Connector Development
+• Build and configure Claude Cowork agents, connectors, and scheduled workflows for enterprise use cases
+• Extend Cowork using custom plugins and connectors to integrate domain‑specific systems (internal APIs, data stores, BI tools, etc.)
+• Define safe execution boundaries, permissions, and automation triggers for unattended or scheduled agent runs
+• Partner with product, data, and security teams to ensure agents are safe, auditable, and production‑ready
+• Cross‑Platform Agent Migration & Portability
+• Port agent logic, prompt libraries, and tool integrations across LLM platforms (e.g., Claude ↔ Microsoft Copilot Studio)
+• Identify:
+• What agent components are portable (reasoning structure, tool semantics)
+• What must be rebuilt due to platform constraints (auth, execution models, UI, orchestration patterns)
+• Refactor agent designs to satisfy different platform limits around memory, tools, grounding, and execution
+• Maintain architectural documentation that enables future platform migration with minimal rework
+• MCP Server Design, Build & Integration
+• Design and implement MCP (Model Context Protocol) servers to expose internal tools and data sources to Claude
+• Build end‑to‑end MCP servers including:
+• Tool definitions and schemas
+• Authentication & authorization middleware
+• Data transformation and response normalization
+• Error handling, rate limiting, and observability
+• Integrate MCP servers with enterprise APIs, databases, file systems, and SaaS platforms
+• Support both local (studio) and remote (HTTP/streaming) MCP deployment models
+• Ensure MCP servers meet enterprise security and compliance standards
+• Production Engineering & Reliability
+• Write clean, testable, production‑quality Python code
+• Implement logging, metrics, and tracing to observe agent behavior and failures
+• Optimize agents for:
+• Deterministic outputs where required
+• Safe degradation and fallback paths
+• Responsible AI requirements (privacy, access control, explainability)
+• Collaborate with platform, DevOps, and InfoSec teams on deployment pipelines and runtime governance
+
+Key Competencies
+
+Core Technical Skills
+• Strong Python proficiency (production backend experience, not scripting only)
+• Hands‑on experience building agentic AI systems (multi‑step, tool‑using agents)
+• Practical experience with Claude and the Anthropic Python SDK
+• Deep understanding of:
+• Tool‑calling LLMs
+• Prompt chaining and memory patterns
+• Agent planning vs execution models
+
+MCP & Integration Experience
+• Hands‑on experience implementing MCP servers end‑to‑end
+• Experience exposing internal tools and data to LLMs via structured APIs
+• Understanding of authentication patterns (API keys, OAuth, service tokens) for agent access
+
+Platform & Architecture
+• Experience migrating or adapting agent solutions across multiple LLM platforms
+• Strong understanding of system boundaries, trust models, and platform constraints
+• Ability to reason about long‑running agents, failure modes, and retry strategies
+
+============================================================
+
+FS is a billion-dollar revenue company with 7000+ employees on all continents. Our leading AI technology is the backbone of our award-winning enterprise software solutions, enabling our customers to be their best when it really matters–at the Moment of Service™. Our commitment to internal AI adoption has allowed us to stay at the forefront of technological advancements, ensuring our colleagues can unlock their creativity and productivity, and our solutions are always cutting-edge.
+
+At IFS, we’re flexible, we’re innovative, and we’re focused not only on how we can engage with our customers but on how we can make a real change and have a worldwide impact. We help solve some of society’s greatest challenges, fostering a better future through our agility, collaboration, and trust.
+
+We celebrate diversity and understand our responsibility to reflect the diverse world we work in. We are committed to promoting an inclusive workforce that fully represents the many different cultures, backgrounds, and viewpoints of our customers, our partners, and our communities. As a truly international company serving people from around the globe, we realize that our success is tantamount to the respect we have for those different points of view.
+
+By joining our team, you will have the opportunity to be part of a global, diverse environment; you will be joining a winning team with a commitment to sustainability; and a company where we get things done so that you can make a positive impact on the world.
+
+We’re looking for innovative and original thinkers to work in an environment where you can #MakeYourMoment so that we can help others make theirs. With the power of our AI-driven solutions, we empower our team to change the status quo and make a real difference.
+
+If you want to change the status quo, we’ll help you make your moment. Join Team Purple. Join IFS.
+
+Job Description
+
+We are looking for an experienced and driven Lead / Senior Lead / Principal AI Engineer to join our R&D AI Engineering team. In this role, you will play a critical part in shaping, building, and scaling AI-native solutions across our products, with a strong focus on Applied AI, Generative AI, and agentic systems.
+
+You will lead the design and delivery of complex AI/ML systems end-to-end, covering model integration, advanced retrieval-augmented generation (RAG), agent-based architecture, evaluation frameworks, and production-grade AI platforms. This role requires deep technical expertise, strong architectural judgment, and the ability to leverage emerging agentic AI frameworks and AI-assisted development tools to accelerate delivery while maintaining enterprise-grade quality, safety, and reliability.
+
+Tasks included but not limited to:
+
+• Design, implement, and evolve production-grade AI/ML and Generative AI architectures, including advanced RAG systems and agent-based workflows.
+
+• Lead integration of LLMs and AI services into enterprise platforms, ensuring scalability, security, and reliability.
+
+• Drive architectural decisions, perform trade-off analysis, and author high-quality design artifacts and ADRs for complex systems.
+
+• Build and standardize AI evaluation and testing frameworks covering quality, reliability, safety, bias, and performance.
+
+• Leverage agentic AI frameworks and AI-assisted development tools to build, debug, troubleshoot, and ship features efficiently to production.
+
+• Collaborate closely with Product, Architecture, Data, and Platform teams to align AI solutions with business outcomes.
+
+• Mentor and coach engineers, lead technical reviews, and guide teams through complex problem-solving.
+
+• Proactively improve AI engineering practices, tooling, and standards across the organization.
+
+• Stay ahead of advancements in Applied AI and contribute to strategic experimentation and innovation initiatives.
+
+Qualifications
+
+• Bachelor’s or Master’s degree in Computer Science, Software Engineering, AI, or a related field (or equivalent practical experience).
+
+• Significant experience delivering and owning complex, high-impact software or AI systems.
+
+• Advanced proficiency in one or more mainstream programming languages such as Python, Java, C#, Go, or TypeScript.
+
+• Strong expertise in Applied AI, including LLM integration, advanced prompt and context engineering, advanced RAG architectures, agent frameworks, and AI evaluation.
+
+• Experience with cloud-native architectures, CI/CD pipelines, and operating AI systems in production.
+
+• Ability to lead technical direction, mentor engineers, and influence architectural decisions across teams.
+
+• Strong written and verbal communication skills with the ability to engage both technical and non-technical stakeholders.
+
+• Demonstrated ability to rapidly adopt new AI frameworks, tools, and paradigms and apply them effectively in real-world delivery.
+
+If you are motivated to shape the future of AI-powered enterprise software and lead engineering excellence at scale, we encourage you to apply.
+
+Additional Information
+
+We embrace flexibility and hybrid work opportunities to support diverse needs and lifestyles, while also valuing inclusive workplace experiences. By fostering a sense of community, we drive innovation, strengthen connections, and nurture belonging. Our commitment ensures you can work in a way that suits you best, while also engaging with colleagues to share ideas and build meaningful relationships.
+
+
+============================================================
+Synopsys’ Generative AI Center of Excellence defines the technology strategy to advance applications of Generative AI across the company. The GenAI COE pioneers the core technologies – platforms, processes, data, and foundation models – to enable generative AI solutions, and partners with business groups and corporate functions to advance AI-focused roadmaps.
+
+We are seeking a highly skilled Senior AI Engineer to join our dynamic and innovative team. As a Senior AI Engineer, you will play a critical role in designing, developing, and deploying advanced AI and machine learning solutions. You will collaborate with cross-functional teams to drive AI initiatives and contribute to the development of cutting-edge technologies that enhance our products and services. The ideal candidate will have a strong foundation in machine learning algorithms, data structures, and computer science fundamentals. This role provides an excellent opportunity for growth and learning in a fast-paced, innovative environment.
+
+Key Responsibilities:
+• Assist in design, develop, and deploy AI and machine learning models and algorithms to solve complex business problems.
+• Work closely with product managers, architects, and other stakeholders to support AI projects and initiatives.
+• Stay up to date with the latest advancements in AI and machine learning technologies and apply them to improve existing systems or develop new solutions.
+• Perform data analysis, data preprocessing, and feature engineering to prepare datasets for machine learning models.
+• Train, validate, and fine-tune machine learning models, ensuring they meet performance and accuracy requirements.
+• Document processes, models, and experiments clearly and share the knowledge with the team.
+
+Qualifications:
+• Bachelor’s or Master’s degree in Computer Science, Electrical Engineering, or a related field.
+• Minimum of 3 years of experience in machine learning and software engineering
+• Strong proficiency in programming languages such as Python, or C++.
+• Very good understanding of data structures, algorithms and design patterns.
+• Experience with machine learning frameworks and libraries (e.g., TensorFlow, PyTorch, scikit-learn).
+• Excellent problem-solving and analytical skills.
+• Strong communication and interpersonal skills.
+• Ability to work independently and as part of a team.
+============================================================
+
+We are seeking a talented and experienced Full Stack AI/ML Developer to join our innovative team. This role is available at both Senior Engineer and Tech Lead levels, depending on your experience and expertise. You will be instrumental in developing and deploying cutting-edge AI/ML solutions across our platform.
+
+Responsibilities:
+
+Build end-to-end RAG workflows, chat interfaces, and web applications.
+Design and implement GenAI and native AI/ML use cases.
+Develop, test, and optimize data extraction from various data sources, preprocess, transform, and load data into vector databases.
+Enhance the accuracy of RAG workflows using techniques such as chunking strategy optimizations, re-ranking, HyDE, query expansions, context-aware embeddings, and prompt engineering.
+Evaluate and monitor RAG workflows using tools such as RAGAS, Llama Index, and LangSmith.
+Train and fine-tune open-source LLMs for specific tasks/use cases and deploy them in the cloud.
+Optimize LLM performance by tuning hyperparameters and using techniques such as knowledge distillation and fine-tuning.
+Develop and test data pipelines for training and evaluating LLMs using machine learning frameworks like TensorFlow, PyTorch, and JAX.
+Monitor and maintain LLM performance in a production environment.
+Design, develop, and deploy REST APIs, microservices, and integrations with managed public LLMs from OpenAI, Google, Mistral, and Anthropic.
+Quickly adapt to a fast-paced development cycle.
+Learn and work on various full-stack technologies (both backend and frontend) based on project/client demands.
+Perform R&D, innovate, and ideate on the AI/ML landscape, contributing to the product roadmap.
+Conduct technical analysis on competitor products, services, and the latest AI/ML trends.
+Required Skills, Tools & Technologies:
+
+Primary Programming Language: Python
+Secondary Languages: React/Angular, Node/Java, SQL
+LLM Development Frameworks: Langchain, LlamaIndex, TensorFlow
+Vector Databases: ChromaDB, Pinecone, Postgres, Faiss, Milvus
+Machine Learning and NLP Libraries and Frameworks: PyTorch, JAX, NLTK
+Embedding Libraries: Gensim, spaCy
+Transformer Libraries: Hugging Face Transformers, AllenNLP
+Cloud Computing Platforms: AWS, Azure, GCP
+Other Tools: Jupyter Notebook, Git, Docker
+Chatbot Development Frameworks: Kore.ai, Rasa, Rasa NLU, Botpress
+Tools for Building and Managing Production-grade LLM Apps: Langsmith
+Qualifications & Experience:
+
+Degree in computer science, machine learning, or a related field.
+3 - 5 years of experience in software development with a focus on AI/ML for (Senior Engineer level)
+5 years of experience in software development with substantial experience in AI/ML & 3+ years of experience in a leadership role for (Tech lead level)
+High proficiency in Python development.
+Proficiency in React/Angular and SQL is a key advantage.
+Hands-on experience in developing and deploying RAG workflows, chat interfaces, and web applications.
+Experience with LangChain, Llama Index, and similar technologies.
+Expertise in vector databases and embedding libraries.
+Proficiency in designing and fine-tuning prompts using prompt design and engineering techniques.
+Experience integrating with LLMs such as GPT-4, Gemini, Mistral, and Claude.
+Hands-on experience in developing front-end interfaces and backend services for web applications.
+Experience training, deploying, monitoring, and maintaining LLMs in production.
+Expertise in NLP techniques, including text representation, tokenization, stemming, lemmatization, part-of-speech tagging, parsing, and semantic analysis.
+In-depth knowledge of transformer architectures, such as BERT, GPT-3, and their applications in NLP tasks.
+Strong understanding of machine learning concepts, including supervised and unsupervised learning, classification, regression, and neural networks.
+Experience with the GCP and Azure cloud computing platforms would be an added advantage.
+Soft skills:
+
+Communication: Ability to communicate complex technical concepts to both technical and non-technical audiences.
+Teamwork: Ability to work effectively with other engineers, data scientists, and product managers to build and deploy machine learning models.
+Problem-solving: Ability to identify and solve complex machine learning problems.
+Adaptability: Ability to learn new technologies and adapt to changing requirements.
+Why Join Us?
+
+Be part of an innovative and forward-thinking organization.
+Engage in projects that have a significant impact on the business and its customers.
+Work in a collaborative and supportive environment that values continuous learning and growth.
+If you are a dedicated professional ready to take on a challenging and rewarding role, apply now!
+============================================================
+We are seeking an experienced Senior AI Engineer to lead the design, development, and deployment of AI-driven applications and services. The ideal candidate will have strong expertise in Python for AI/ML development and TypeScript for scalable backend or frontend integration, bridging the gap between data science, machine learning engineering, and production-grade software systems.
+
+You will work closely with product, research, and engineering teams to bring cutting-edge AI capabilities to life — from concept and experimentation to large-scale deployment.
+
+Key Responsibilities
+Design, develop, and optimize AI/ML models, focusing on performance, scalability, and real-world deployment.
+Build and maintain robust data pipelines and model-serving APIs using Python (FastAPI, Flask, etc.) and TypeScript (Node.js, NestJS, or similar).
+Collaborate with data scientists to transition models from research to production, ensuring efficient integration and reliability.
+Implement AI-powered features in TypeScript-based applications, including web or backend systems.
+Conduct code reviews, performance optimization, and technical mentorship for junior engineers.
+Contribute to AI architecture decisions, ensuring best practices in software engineering, CI/CD, and security.
+Explore and evaluate new AI frameworks, tools, and libraries to enhance development workflows and capabilities.
+Partner with product managers and stakeholders to define AI project requirements and success metrics.
+Qualifications
+Required Skills & Experience
+Bachelor’s or Master’s degree in Computer Science, Engineering, or related field.
+5+ years of experience in software engineering with 3+ years in AI/ML development.
+Strong proficiency in Python (TensorFlow, PyTorch, scikit-learn, pandas, FastAPI).
+Solid understanding of TypeScript / JavaScript (Node.js, React, or similar frameworks).
+Experience with machine learning model deployment, MLOps, and RESTful or GraphQL APIs.
+Proven ability to build scalable, maintainable systems integrating AI/ML components.
+Familiarity with cloud platforms (AWS, GCP, or Azure) and containerization (Docker, Kubernetes).
+Strong understanding of data structures, algorithms, and software design patterns.
+Preferred Skills
+Experience with vector databases, LLM fine-tuning, or prompt engineering.
+Knowledge of LangChain, OpenAI API, or similar frameworks.
+Exposure to frontend integration of AI features using TypeScript/React.
+Familiarity with data engineering (Airflow, dbt, Kafka, etc.).
+Experience with AI observability and monitoring tools.
+What We Offer
+Competitive salary and performance-based bonuses
+Flexible working arrangements (remote or hybrid)
+Opportunity to work with cutting-edge AI technologies
+Collaborative, innovative, and fast-paced environment
+Professional development and continuous learning support
+============================================================
+We are seeking a highly skilled Senior Machine Learning Engineer with extensive experience in designing, developing, and deploying machine learning models to solve complex problems. This role is centered around leveraging cutting-edge AI technologies to create innovative solutions and improve our products and services. The ideal candidate will have a profound knowledge of machine learning algorithms, deep learning, and the ability to work with large datasets to drive insights and actionable outcomes.
+
+This position demands experience and understanding in the field of NLP.
+
+Responsibilities:
+
+Develop and implement machine learning models, including specifics in NLP highly preferable.
+Optimize existing ML models for performance and scalability.
+Conduct data analysis and preprocessing to facilitate model training and validation.
+Collaborate with cross-functional teams to understand business requirements and integrate AI/ML solutions effectively.
+Stay abreast of the latest AI/ML technologies and methodologies to keep our projects at the cutting edge.
+Manage the full lifecycle of model development from conception to deployment and maintenance.
+Ensure models are deployed securely and efficiently, utilizing containerization tools like Docker and Kubernetes as necessary.
+Qualifications:
+
+A minimum of 5 years of experience in machine learning and data science.
+Expert proficiency in Python and familiarity with ML libraries such as TensorFlow and PyTorch.
+Demonstrated experience with NLP is important.
+Strong understanding of data analysis, data preprocessing techniques, and statistical analysis.
+Experience with model deployment technologies like Docker and Kubernetes is preferred.
+Knowledge of Git and experience with agile development practices.
+
+============================================================
+What we're looking for:
+• Strong expertise in Data Engineering, Data Modeling, and AI/ML Engineering
+• Proven track record of building scalable data pipelines and ML models
+• Extensive experience working with Generative AI and Large Language Models (LLMs)
+• Experience with big data technologies and cloud platforms
+• Ability to work independently and drive projects from conception to completion
+• Excellent problem-solving skills and attention to detail
+
+💼 What you'll do:
+• Design and implement data architectures to support our new Data Platform and Products.
+• Develop ML models for sales prediction, lead generation, and product optimization
+• Create and integrate Gen. AI solutions leveraging LLMs into our product ecosystem
+• Create data visualizations and dashboards for actionable insights
+• Collaborate with cross-functional teams to integrate ML solutions into our platform
+
+🌟 Ideal candidate:
+• 5+ years of experience in data engineering and machine learning
+• Proficiency in Python, SQL, and cloud technologies (AWS/GCP/Azure)
+• Familiarity with modern AI & ML frameworks and tools
+• Experience in the Food Tech industry is a plus
+
+📍 Location:
+
+Dubai-based or remote (compatible time zone)
+
+💪 Why join us:
+• Work on cutting-edge technology in a fast-growing industry
+• Opportunity to make a significant impact on a product used by thousands of businesses
+• Collaborative and innovative work environment
+• Competitive salary and benefits package
+
+If you're a smart, independent professional who gets things done and wants to be at the forefront of food tech innovation, we want to hear from you!
+============================================================
+Careem is building the Everything App for the greater Middle East, making it easier than ever to move around, order food and groceries, manage payments, and more. Careem is led by a powerful purpose to simplify and improve the lives of people and build an awesome organisation that inspires. Since 2012, Careem has created earnings for over 2.5 million Captains, simplified the lives of over 70 million customers, and built a platform for the region’s best talent to thrive and for entrepreneurs to scale their businesses. Careem operates in over 70 cities across 10 countries, from Morocco to Pakistan.About The TeamThe Careem Data Science team’s mission is to drive competitive value from data at scale through building AI models to optimize user experiences, decision making, operational efficiencies, and lead the region’s AI ecosystem. As one of the leaders in this team, you will be at the forefront of fulfilling this mission. You will be working with and leading the top data science talent of the region, leveraging AI to solve the region’s day to day problems, through state-of-the art machine learning, optimization, deep learning, and RL models, that are deployed on top of our own in-house AI platform, serving users in real-time.What Youll DoBuild a long-term vision on how we can rethink our customer acquisition and engagement strategies leveraging data in our decision making.Drive exploratory analysis to understand the ecosystem, user behavior; identifying new levers to help move metrics and build models of user behaviors for analysis and product enhancements.Shape and influence data/ML models and instrumentation to optimize the product experience and generate insights on new areas of opportunity and new products.Provide product leadership by sharing data-based recommendation to communicate state of business, root cause of change in metrics and experimentation results influencing product and business decisionImplement scalable machine learning algorithms that will be used in production on big data.Embark on exploratory data analysis projects to achieve better understanding of phenomena as well as to discover untapped areas of growth and optimization. Answer complex analytic questions from big data sets to help Careem shape its products and services in a better way.Help define and track the appropriate key metrics for specific projects. Design and run randomized controlled experiments, analyze the resulting data and communicate results with other teams.You will always challenge the status quo and continually investigate new data processing technologies and seek to ensure that we follow the industry best practices.What Youll NeedExperience in data mining, predictive modeling, time series analysis, machine learning, Big Data methodologies, transformation and cleaning of both structured and unstructured data.Advanced degree in a quantitative discipline such as Physics, Statistics, Mathematics, Engineering or Computer Science.Strong problem solving and coding skills.Solid knowledge of and experience with marketplace problems in ride hailing and delivery services. Solid knowledge of AB testing, classic ML and DLSolid understanding of recommendations, learning to rank, uplift modeling and matching problems. Fluency in English along with excellent oral and written communication skills.Proficiency and demonstrated experience in: Python, SQL, Spark, Hive.Demonstrated experience with database technologies (e.g. Hadoop, BigQuery, Amazon EMR, Hive, Oracle, SAP, DB2, Teradata, MS SQL Server, MySQL).Demonstrated experience with business intelligence and visualization tools (Tableau, MicroStrategy, ChartIO, Qlik) along with geospatial data processing skills is a plus.Knowledge of Agile methodologies.What We’ll Provide YouWe offer colleagues the opportunity to drive impact in the region while they learn and grow. As a full time Careem colleague, you will be able to:Work and learn from great minds by joining a community of inspiring colleagues.Put your passion to work in a purposeful organisation dedicated to creating impact in a region with a lot of untapped potential.Explore new opportunities to learn and grow every day.Work 4 days a week in office & 1 day from home, and remotely from any country in the world for 30 days a year with unlimited vacation days per year. (If you are in an individual contributor role in tech, you will have 2 office days a week and 3 to work from home.)Access to healthcare benefits and fitness reimbursements for health activities including gym, health club, and training classes.
+============================================================

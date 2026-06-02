@@ -1,0 +1,433 @@
+SENIOR-LEVEL JOB DESCRIPTIONS
+============================================================ 
+Senior Quality Engineer (3 – 6 months Contract basis - working in office full-time at a leading Softeware Development company)
+
+The position is based in Colombo, SL
+
+In this role you will:
+
+· Perform functional, automated, and regression testing from low level test environments through release to Production.
+
+· Authoring detailed test cases that provide high coverage and enforce traceability back to the user story.
+
+· Isolate, replicate, and report defects, then verify fixes within JIRA. Ensure all corrective actions are assigned, documented, and completed.
+
+· Recommend improvements to existing standards and procedures.
+
+· Maintain and improve the existing test automation framework that supports Web, API, and Mobile product testing.
+
+· Design, develop, and execute automation scripts.
+
+· Ability to solve problems more efficiently.
+
+· Ability to do PR reviews and provide constructive feedback.
+
+· Self-motivator to bring up the QE process to the next level with limited guidance
+
+We are looking for someone who has:
+
+· Bachelor’s degree or equivalent combination of education and experience.
+
+· 4+ years of Quality/Automation Engineering experience.
+
+· Hands on experience in UI automation and API automation.
+
+· Proficiency in one or more programming languages such as Java, JavaScript, NodeJS, Typescript is essential for effective test automation.
+
+· Familiarity with test automation frameworks like Junit, TestNG, Selenium, Appium, or Cypress
+
+· Experience with API testing tools like Postman or similar.
+
+· Familiarity with JIRA or equivalent bug tracking software.
+
+· Experience with Confluence or similar document management system.
+
+· Experience working with source control (such as GIT) and build management systems (such as Jenkins)
+
+· Strong communication skills – both written and verbal.
+
+· Strong work ethic, positive attitude, and a desire to be challenged and learn new skills.
+
+· Strong interpersonal skills, and the ability to work independently or as part of a team.
+
+· Experience in Performance testing using JMeter will be an added advantage.
+============================================================
+
+Provides quality control tests and analysis of outcomes in software development life cycle to ensure technology solutions meet or exceed business and customer needs.
+
+Role Responsibilities
+
+Supports a wide range of quality control planning and execution activities in alignment with the organization's standards and strategy to ensure that software meets or exceeds specified business and customer needs.
+Gathers testing requirements by evaluating the product requirement (functional / non-functional) and raise clarifications with product owners, business analysts and customers.
+Develops, executes and maintains test scripts/cases autonomously – manual, automation, performance, and supporting analysis. Assigns required tests to Associates.
+Ensures test traceability and reporting on testing progress and activities.
+Recommends and supports the implementation of improvements to quality control frameworks, processes and standards.
+Builds trusting relationships with team and colleagues, collaborating closely with the team.
+Communicates clearly with team and keeps clear lines of communication open to ensure full understanding of tasks, asking questions where needed. 
+
+Minimum Requirements
+
+Degree in Computer Science, Software Engineering or equivalent
+ISTQB Core Foundation Certified or equivalent
+Exhibits good knowledge in software quality assurance processes and
+Exhibits good experience in manual, test automation or performance testing
+Exhibits good experience in the software development life cycle and one
+
+programming language (JAVA or Python), preferably in multi-tiered applications.
+
+Career Stage:
+
+Senior Associate
+
+London Stock Exchange Group (LSEG) Information:
+
+Join us and be part of a team that values innovation, quality, and continuous improvement. If you're ready to take your career to the next level and make a significant impact, we'd love to hear from you.
+
+LSEG is a leading global financial markets infrastructure and data provider. Our purpose is driving financial stability, empowering economies and enabling customers to create sustainable growth.
+
+Our purpose is the foundation on which our culture is built. Our values of Integrity, Partnership, Excellence and Change underpin our purpose and set the standard for everything we do, every day. They go to the heart of who we are and guide our decision making and everyday actions.
+
+Working with us means that you will be part of a dynamic organisation of 25,000 people across 65 countries. However, we will value your individuality and enable you to bring your true self to work so you can help enrich our diverse workforce.
+
+We are proud to be an equal opportunities employer. This means that we do not discriminate on the basis of anyone’s race, religion, colour, national origin, gender, sexual orientation, gender identity, gender expression, age, marital status, veteran status, pregnancy or disability, or any other basis protected under applicable law. Conforming with applicable law, we can reasonably accommodate applicants' and employees' religious practices and beliefs, as well as mental health or physical disability needs.
+
+You will be part of a collaborative and creative culture where we encourage new ideas. We are committed to sustainability across our global business and we are proud to partner with our customers to help them meet their sustainability objectives. Our charity, the LSEG Foundation provides charitable grants to community groups that help people access economic opportunities and build a secure future with financial independence. Colleagues can get involved through fundraising and volunteering.
+
+LSEG offers a range of tailored benefits and support, including healthcare, retirement planning, paid volunteering days and wellbeing initiatives.
+
+Please take a moment to read this privacy notice carefully, as it describes what personal information London Stock Exchange Group (LSEG) (we) may hold about you, what it’s used for, and how it’s obtained, your rights and how to contact us as a data subject.
+
+If you are submitting as a Recruitment Agency Partner, it is essential and your responsibility to ensure that candidates applying to LSEG are aware of this privacy notice.
+
+============================================================
+
+Key Responsibilities
+
+Lead and ensure adherence to Quality Engineering (QE) guidelines, standards, and best practices across projects
+Collaborate with business stakeholders, engineers, and project teams to understand business requirements and technical specifications
+Review requirements and ensure clarity, completeness, and testability while driving requirement review sessions
+Prepare and oversee test strategies, test plans, and test case execution for functional and non-functional testing
+Manage defect tracking, root cause analysis, and resolution while ensuring quality standards are maintained
+Drive system integration testing, end-to-end testing, and support User Acceptance Testing (UAT) activities
+Lead automation initiatives, provide guidance on scripting, and support troubleshooting where required
+Identify non-functional requirements and define NFR testing strategies including performance, security, and reliability
+Monitor QA deliverables, timelines, and ensure on-time project delivery
+Mentor and guide QA team members while managing escalations and continuous process improvements
+Ensure Agile/Scrum practices are followed and maintain effective stakeholder communication throughout the project lifecycle
+
+
+Person Specifications
+
+Bachelor's degree in Computer Science, Software Engineering, or a related field
+Minimum 5+ years of experience in Software Quality Assurance with leadership responsibilities
+Strong understanding of QA methodologies, testing concepts, and quality assurance frameworks
+Hands-on experience in manual testing, test planning, and defect management
+Experience with automation testing, scripting, and troubleshooting is preferred
+Strong knowledge of test management tools such as Jira, HPQC, or similar platforms
+Good understanding of OOP concepts and software development lifecycle
+Strong analytical, problem-solving, leadership, and decision-making skills
+Excellent communication, stakeholder management, and team collaboration abilities
+Strong understanding of Scrum, Agile practices, and delivery management
+
+============================================================
+
+Performance Testing Leadership
+
+Lead and own end-to-end performance testing for mobile and web applications, from requirements analysis through final sign-off
+Define performance test strategies aligned with business and customer experience expectations
+Act as the primary QA performance point-of-contact for stakeholders, including engineering, architecture, and product teams
+
+
+Customer Experience–Focused Testing
+
+Design and execute tests focused on customer experience KPIs, including Page load and response times, Rendering performance, Throughput and concurrency and Bandwidth simulation
+Translate business SLAs and UX expectations into measurable performance benchmarks
+
+
+Tooling & Execution
+
+Use LoadRunner (mandatory) or equivalent enterprise-grade performance testing tools to conduct web and mobile performance tests
+Perform realistic browser-based and mobile performance testing (not API-only or protocol-only testing)
+Create and maintain performance test scripts, scenarios, and workloads that reflect real user behavior
+
+
+Analysis & Optimization
+
+Conduct detailed bottleneck analysis
+Analyze test results and provide clear, actionable insights to development and infrastructure teams
+Work closely with developers to resolve performance issues, plan fixes, and lead retesting and validation cycles
+
+
+Planning & Data Preparation
+
+Plan test schedules, environments, and entry/exit criteria for performance testing cycles
+Prepare and manage test data required for realistic volume and workload simulations
+Ensure performance testing is embedded into the overall QA and release lifecycle
+
+
+Governance & Continuous Improvement
+
+Define and enforce performance quality standards and best practices
+Mentor QA engineers on performance testing approaches, tools, and result interpretation
+Continuously refine performance testing frameworks and methodologies
+
+
+Person Specifications
+
+8+ years of experience in QA, with strong specialization in performance testing
+Proven hands-on expertise in LoadRunner (or equivalent enterprise-grade tool)
+Deep experience in web and mobile performance testing, focusing on end-user experience rather than API-only testing
+Strong understanding of HTTP/HTTPS, browser rendering, and client-side performance and Network behavior, bandwidth simulation, and latency impact
+Demonstrated experience in performance analysis, tuning, retesting, and closure
+Strong ability to interpret performance results and identify root causes
+Experience working collaboratively with development, DevOps, and infrastructure teams to resolve issues
+Ability to convert non-technical business expectations into performance test metrics
+Proven experience leading performance test initiatives independently
+Strong communication skills to present findings to technical and non-technical stakeholders
+Able to influence quality outcomes and push performance improvements across teams
+
+
+Good to Have
+
+Experience in Banking applications or Fintech domain
+
+
+============================================================
+Acumatica is a company on a mission. We are a leading innovator in cloud ERP with customers located around the world.  But don’t take our word for it—read what analysts like G2 and Info-Tech have to say about us.
+
+
+
+Acumatica is a leading provider of cloud business management software that empowers small and mid-size businesses to unlock their potential and drive growth. Built on the world’s best cloud and mobile technology and a unique customer-centric licensing model, Acumatica delivers a suite of fully integrated business management applications, such as Financials, Construction, Distribution, and CRM, on a robust and flexible platform. In an interconnected world, Acumatica enables customers to take full control of their businesses, play to their organizations’ unique strengths, and support their clients by following them anywhere on any device.
+
+
+
+Acumatica’s culture is casual and high-energy. We are passionate about our product and our mission, and we are loyal to each other and our company. We value work/life balance, efficiency, simplicity, freakishly friendly customer service, and making a difference in the world. Acumatica offers exceptional professional and financial growth potential.
+
+
+
+To learn more about Acumatica’s mission, please visit: http://www.acumatica.com
+
+
+
+
+Job Description
+
+This is an exciting opportunity for a QA Engineer to play a strategic role by becoming the catalyst that keeps our cloud-based ERP payroll and CRM experiences polished, performant, and release-ready. You’ll blend deep technical testing chops with storytelling: translating complex defect narratives into actionable insights, shaping automation strategies that accelerate deployments, and partnering across product, engineering, and DevOps to elevate quality from a gate to a shared value. If you thrive on crafting coverage blueprints, evolving high-impact regression suites, and championing continuous improvement, you’ll find this role both challenging and energizing.
+
+
+Key Responsibilities:
+
+
+Review requirements and user stories to identify ambiguities, risks, and testability gaps. 
+Design and maintain test plans, test cases, checklists, and traceability to requirements and create reusable test data aligned to functional needs
+Perform manual testing of new features including functional, smoke, regression, exploratory testing, and UAT
+Conduct test coverage analysis, identify gaps, prioritize risks, and expand test coverage through manual and automated testing to improve release confidence
+Develop, refactor, and maintain Selenium WebDriver frameworks in C# for smoke, functional, and end to end coverage suites. 
+Execute automated regression packs, analyze results, troubleshoot failures, and collaborate with development to isolate root causes. 
+Report, triage, verify, and track defects in JIRA with clear reproduction steps, logs, screenshots or videos, and impact assessment
+Contribute to QA best practices, tooling standards, documentation, and process improvement initiatives with Development and DevOps
+
+Qualifications
+
+Education
+
+
+Bachelor’s or master’s degree in computer science, software engineering, information systems or equivalent qualifications
+Experience 
+
+
+4+ years of QA experience across manual and automation testing, ideally supporting cloud-based enterprise SaaS software
+Strong analytical and problem-solving skills. 
+Proven experience automating web application tests using C# or Java or Python, with strong test documentation practices
+Solid understanding of QA processes, best practices, and test methodologies including risk based testing and Agile aligned delivery
+Ability to work independently with minimal supervision, showing high ownership, self-motivation, and fast learning capability
+Excellent written and verbal communication skills with effective collaboration across teams
+Passion for quality and continuous improvement through process, tooling, and automation enhancements
+Domain knowledge & experience in ERP or other enterprise platforms such as finance, payroll, supply chain, CRM, or e-commerce is highly desirable
+Technical Skills
+
+
+Test Automation: Selenium WebDriver, С#, Hyper-V, Python
+Source Control system: GIT/STASH/BAMBOO
+Defect tracking, triage coordination, and reporting: JIRA
+Database Management: MS SQL, MySQL, PostgreSQL
+
+Additional Information
+
+Industry competitive salary
+Comprehensive Health & Life insurances  
+Hybrid working
+Office lunch
+Exposure to working with distributed global teams
+Paid paternity leave
+Acumatica is an Affirmative Action and Equal Opportunity Employer/Veterans/Disabled. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, or protected veteran status and will not be discriminated against on the basis of disability.
+
+
+
+If you have a disability and you believe you need a reasonable accommodation in order to search for a job opening or to submit an online application, please e-mail HR@acumatica.com.
+
+============================================================
+
+Key Responsibilities
+
+Review requirements, specifications and technical design documents to provide timely and meaningful feedback
+Create detailed, comprehensive and well-structured test plans and test cases
+Estimate, prioritize, plan and coordinate testing activities
+Identify, record, document thoroughly and track defects
+Perform thorough regression testing when defects are resolved
+Develop and apply testing processes for new and existing products to meet client needs
+Liaise with internal teams (e.g. developers and product managers) to identify system requirements
+Investigate the causes of non-conforming software and train users to implement solutions
+Track quality assurance metrics, like defect densities and open defect counts
+Stay up-to-date with new testing tools and test strategies
+Lead the QA team , assign work , track progress
+Reporting and communication with client stakeholders and project leadership
+
+Required Skills & Qualifications
+
+Proven work experience in software development
+Proven work experience in software quality assurance
+Strong knowledge of software QA methodologies, tools and processes
+Experience in writing clear, concise and comprehensive test plans and test cases
+Hands-on experience in functional testing
+Hands-on experience in JIRA / Confluence is a plus
+Hands-on experience with API testing (Postman/SoapUI)
+Experience working in an Agile/Scrum development process
+Experience with GIT is a plus
+Hand-on experience with mobile device testing is a plus
+
+============================================================
+A fast-growing, innovation-driven technology organization specializing in digital transformation, AI, and advanced data solutions is seeking a Senior Software Quality Assurance Engineer. This role goes beyond traditional QA - you’ll be responsible for building scalable quality frameworks, ensuring data integrity, and embedding quality across the entire engineering lifecycle.
+
+If you’re strong in Python-based automation, performance testing, and data validation in high-compliance environments, this is a high-impact opportunity.
+
+Key Responsibilities
+
+End-to-End Data Validation Design and execute test strategies covering complex data pipelines - from data ingestion to end-user insights.
+Automation Framework Development Build and scale automation frameworks using Playwright (Web) and Appium (Mobile) with Python.
+Compliance & Safety Assurance Ensure outputs meet strict safety and regulatory standards, including validation of system-generated insights and labeling accuracy.
+Data Privacy & Governance Validate consent mechanisms, access controls, and data handling practices, including user rights such as data withdrawal.
+Performance & Resilience Testing Conduct load testing using JMeter and support chaos engineering initiatives to ensure system reliability under failure scenarios.
+Regression & Data Integrity Testing Perform targeted regression testing to maintain consistency and accuracy across evolving data pipelines.
+
+
+Requirements
+
+Strong Python & SQL Expertise Hands-on experience in Python automation and deep data validation using SQL.
+Relevant Experience 5–7 years in QA/QE roles, ideally within high-compliance or data-sensitive environments (e.g., health-tech, fintech, or similar domains).
+Automation Skills Proven experience building frameworks using Playwright and Appium.
+System & Data Understanding Familiarity with data pipelines, sensor data, or distributed systems is a strong advantage.
+Security Awareness Working knowledge of OWASP Top 10 and data privacy principles.
+Tooling Experience Experience with QMetry (test management) and JMeter (performance testing).
+Attention to Detail Strong analytical mindset with a focus on accuracy, reliability, and quality.
+Collaboration Ability to work closely with engineering and DevOps teams to integrate QA into CI/CD pipelines.
+============================================================
+Key Responsibilities
+
+Prior experience as a Test Automation Engineer.
+Hands-on experience with any automation tool (e.g., Espresso)
+Understand requirements, specifications and technical design documents to provide timely and meaningful feedback
+Designing and developing test automation scripts Using test automation guidelines
+Contribute to create detailed, comprehensive and well-structured test plans and test cases
+Estimate, prioritize, plan and coordinate testing activities
+Identify, record, document thoroughly and track defects
+Perform thorough regression testing when defects are resolved
+Develop and apply testing processes for new and existing products to meet client needs
+Liaise with internal teams (e.g. developers and product managers) to identify system requirements
+Investigate the causes of non-conforming software and train users to implement solutions
+Track quality assurance metrics, like defect densities and open defect counts
+Stay up-to-date with new testing tools and test strategies
+
+Required Skills & Qualifications
+
+Proven work experience in software quality assurance
+Strong knowledge of software QA methodologies, tools and processes
+Experience in writing clear, concise and comprehensive test plans and test cases
+Hands-on experience in functional testing
+Hands-on experience in JIRA / Confluence is a plus
+Hands-on experience with API testing (Postman/SoapUI)
+Experience working in an Agile/Scrum development process
+Experience with GIT is a plus
+Hand-on experience with mobile device testing is a plus
+
+============================================================
+JOB SPECIFIC DUTIES AND RESPONSIBILITIES
+• Strong knowledge in writing complex SQL/Oracle queries & executing them
+• Analyzing users stories/Use Cases/Requirements for validity and feasibility and prepare test scenarios/cases
+• Executing tests on software usability, data correctness and data validation
+• Analyzing test results on database impacts, data correction, errors or bugs, and usability
+• Communicate, prioritize, track test execution, defects and issues appropriately and recommend corrective action whenever required
+• Experience working in Hadoop platform and data conversion projects
+• Experience in HPALM, Jira and Rally
+• Should have knowledge to run the jobs in Tidal scheduler
+• Preparing reports on all aspects related to the software testing carried out
+• Participating in design reviews and providing input on requirements, product design, and potential problems
+• Collaborate with the Development/Business teams to understand the requirements and develop/manage the test scenarios/ testcases
+• Work with QA team to do functional test, regression test, UI test and data comparison test for all the new features
+• Must be able to handle multiple testing assignments at the same time
+• Strong communication, interpersonal, and presentation skills
+• Automation tool experience in Selenium/QTP(preferable to have)
+• Experience working in any cloud projects(nice to have)
+
+REQUIRED COMPETENCIES AND SKILLS
+• Thorough knowledge and skills in software quality assurance process
+• Sound knowledge on Quality Engineering practices
+• Hands on experience in BDD/BDT testing tools like Cucmber, Jbehave
+• Having strong analytical and problem solving skills
+• Ability of programing is a must. Preferable languages are Java, .Net, PHP, C++
+• 4 years’ experience in software quality assurance
+• Bachelor’s degree in Software Engineering/Computer Science/IT
+• Team player
+• Ability to communicate effectively with different project stakeholders
+• Having A/L Mathematics/Bio Science background with A or B grade for Physics/Combined Maths will be preferable
+
+============================================================
+IFS is a billion-dollar revenue company with 7000+ employees on all continents. Our leading AI technology is the backbone of our award-winning enterprise software solutions, enabling our customers to be their best when it really matters–at the Moment of Service™. Our commitment to internal AI adoption has allowed us to stay at the forefront of technological advancements, ensuring our colleagues can unlock their creativity and productivity, and our solutions are always cutting-edge.
+
+At IFS, we’re flexible, we’re innovative, and we’re focused not only on how we can engage with our customers but on how we can make a real change and have a worldwide impact. We help solve some of society’s greatest challenges, fostering a better future through our agility, collaboration, and trust.
+
+We celebrate diversity and understand our responsibility to reflect the diverse world we work in. We are committed to promoting an inclusive workforce that fully represents the many different cultures, backgrounds, and viewpoints of our customers, our partners, and our communities. As a truly international company serving people from around the globe, we realize that our success is tantamount to the respect we have for those different points of view.
+
+By joining our team, you will have the opportunity to be part of a global, diverse environment; you will be joining a winning team with a commitment to sustainability; and a company where we get things done so that you can make a positive impact on the world.
+
+We’re looking for innovative and original thinkers to work in an environment where you can #MakeYourMoment so that we can help others make theirs. With the power of our AI-driven solutions, we empower our team to change the status quo and make a real difference.
+
+If you want to change the status quo, we’ll help you make your moment. Join Team Purple. Join IFS.
+
+Job Description
+
+IFS Ultimo, an IFS company based in the Netherlands with more than 2000 global customers, is a leading Enterprise Asset Management software provider with a strong reputation for the completeness, flexibility, and configurability of its SaaS EAM solutions.
+
+In the world of Ultimo, asset management processes and the software they require take center stage. At IFS Ultimo we develop easy-to-use EAM software for confident asset owners, enabling them to optimize productivity, maximize asset availability, and secure health and safety. We supply out-of-the-box, though supremely flexible software with an unmatched ROI through short implementations, seamless integrations, and self-service application management.
+
+The Ultimo application consists of various services developed in C#. Together, these make up the back end. The front end is written in JavaScript. Here, we use a proprietary web framework. The current generation of the application runs on Azure Kubernetes. We use various cloud-native techniques to offer a stable and scalable platform. Customers on our Azure platform are automatically provided with fixes and new features bi-weekly.
+
+We set high-quality standards for the work delivered and have high coverage with various types of automated testing. We work with .NET 8 (C#), Xamarin/MAUI, Azure, Kubernetes, Azure SQL, and JavaScript/TypeScript.
+
+We seek dynamic individuals with experience as in Quality Assurance, eager to embrace the challenge of exploring in a pioneer team.
+
+The Senior/Quality Assurance Engineer is a member of a Scrum team and test changes made by colleagues against the acceptance criteria. Is also responsible for expanding, improving and maintaining the Ultimo software by implementing configuration changes.
+
+You will be responsible for:
+• Noticing and contributing to possible improvements in the functionality
+• Drawing up specifications and acceptance criteria to test the change
+• Configuring user interface, reports, etc.
+• Setting up and performing automated and manual tests
+• Reporting test cases and test data
+• Approving implemented changes prior to release/merge
+• Using Ultimo as a development tool
+
+Qualifications
+• Bachelor’s degree in or comparable to Software Engineering, Information Technology or Computer Science
+• Experience with Software Testing, preferably in Manual and Automation Testing
+• Technical knowledge of XML, SQL, etc.
+• Experience with software development lifecycle
+• Affinity with business processes
+• Command of both spoken and written English
+• Familiar with the Agile / Scrum way of working
+
+Additional Information
+
+We embrace flexibility and hybrid work opportunities to support diverse needs and lifestyles, while also valuing inclusive workplace experiences. By fostering a sense of community, we drive innovation, strengthen connections, and nurture belonging. Our commitment ensures you can work in a way that suits you best, while also engaging with colleagues to share ideas and build meaningful relationships.
+
+============================================================

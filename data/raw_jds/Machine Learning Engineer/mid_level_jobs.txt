@@ -1,0 +1,815 @@
+MID-LEVEL / ASSOCIATE JOB DESCRIPTIONS
+============================================================ 
+We are an organization that celebrates the diversity of our teams, where everyone can be themselves and are empowered to do their best work. Our purpose is to build an empowered community with empathy and a growth mindset to build innovative solutions to achieve remarkable results. We foster a safe space for everyone to learn, grow, and have fun. This is why our people can’t believe that their work here is actually a job. That’s because innovation is at the heart of everything we do. Every day our people get to imagine new possibilities, take magnificent risks, fail spectacularly, and succeed in spaces no one has dared to venture into before.
+
+What’s in it for you:
+
+Here at Tech One, you’ll have the opportunity to make an impact by contributing to our global projects and working with diverse talented individuals across our offices. We promote an always-learning culture and provide our people with vast opportunities for growth. Got any suggestions to make Tech One an even better place to work at? We have a team who listens; share your thoughts and contribute to the changes. Got the skills and right qualities to be part of our awesome team? Competitive remuneration awaits you!
+
+The role in a nutshell:
+
+AI Engineer will play a crucial role in designing, building , developing and implementing artificial intelligence solutions using Microsoft technologies, including Azure Cognitive Services, Azure Machine Learning, and other relevant tools. and deploying AI models to solve complex business problems.
+
+What you will do in this role:
+• Collaborate with stakeholders to understand business requirements and identify opportunities for AI solutions.
+• Design end-to-end AI solutions using Microsoft Azure Cognitive Services and Azure Machine Learning.
+• Develop and implement machine learning models and algorithms for various AI applications.
+• Utilize Microsoft tools and frameworks to create robust and scalable AI solutions.
+• Implement NLP techniques and technologies for applications such as chatbots, sentiment analysis, and language translation.
+• Fine-tune pre-trained language models to meet specific business needs.
+• Develop computer vision models for image and video analysis using Azure Computer Vision and custom models.
+• Implement object detection, image classification, and other computer vision tasks.
+• Deploy AI models to production environments, ensuring scalability, reliability, and performance.
+• Integrate AI solutions into existing applications and workflows.
+• Monitor the performance of deployed AI models and optimize for accuracy and efficiency.
+• Implement continuous improvement measures based on feedback and evolving business requirements.
+• Collaborate with cross-functional teams, including data scientists, software developers, and business analysts, to integrate AI solutions seamlessly.
+• Communicate technical concepts and findings to non-technical stakeholders.
+• Document the AI development process, including model architecture, parameters, and deployment procedures.
+• Create clear and comprehensive documentation for knowledge sharing and future reference.
+
+Qualifications & Experience:
+• Bachelor’s or master’s degree in computer science, Information Systems, or a related field
+• Certifications in Microsoft Azure and AI technologies.
+• At least 2 years of experience in AI Engineering using Microsoft products and services.
+• Proficiency in using Azure Cognitive Services, Azure Machine Learning, and other Microsoft AI tools.
+• Strong programming skills, particularly in languages such as Python.
+• Experience with reinforcement learning and other advanced AI techniques.
+• Familiarity with ethical AI principles and responsible AI practices.
+
+How to get in touch with us:
+
+Address: Tech One Global Lanka (Pvt) Ltd, No:185/4, Havelock Road, Colombo 05
+============================================================
+We’re building something meaningful at Lucido Systems - real software, real AI, built for real-world impact.
+
+What We're Looking For
+• Experience with AI/ML tools (Claude, Python, APIs, etc.) Strong problem-solving mindset
+• Ability to build, test, and improve fast
+• Bonus: Experience with real product deployments
+
+What You'll Do
+• Build Al-powered features and workflows
+• Work with LLMs, APIs, and automation systems
+• Turn ideas into real, usable products
+• Collaborate with design + dev to ship fast
+
+If you’re someone who loves turning ideas into intelligent systems and wants to grow with a fast-moving team, we’d love to hear from you.
+
+Lucido Systems. Built to run. Designed to think.
+
+============================================================
+
+Engineer (AI And Data Science) – SLT Mobitel Engineer – AI & Data Science Job Vacancy 2026 | SLT Mobitel Careers Sri Lanka 🏢 Job Overview SLT Mobitel is seeking talented professionals for the role of Engineer – AI & Data Science 📊🤖 This is a high-demand tech role focused on Artificial Intelligence, Machine Learning, and Big Data, ideal for candidates passionate about building data-driven solutions in the telecom industry 📡 📌 Job Details Job Title: Engineer – AI & Data Science Company: SLT Mobitel Job Type: Full-Time Industry: Telecommunications / Data Science / AI Location: Sri Lanka 🎯 Job Responsibilities Design and develop AI & Data Science applications 🤖 Analyze and interpret large datasets for insights 📊 Build statistical and predictive AI/ML models Work on Big Data platforms and systems Support strategic decisions through data-driven solutions Develop LLM-powered applications for telecom use cases Research and innovate in AI, Machine Learning & Deep Learning 🎓 Requirements Bachelor’s degree in: Computer Science Data Science Statistics Computer Engineering 🎓 Minimum 2+ years experience in AI / ML / Data Science Experience with Big Data technologies (Hadoop, Spark, Hive, Impala) Strong understanding of Machine Learning & AI concepts 💡 Technical Skills Required Machine Learning Libraries: Scikit-learn TensorFlow PyTorch Deep Learning & AI frameworks Big Data tools and processing ⚙️ Knowledge of: LLMs (Large Language Models) RAG Pipelines AI deployment strategies Familiarity with development tools: Git Docker 🌟 Key Competencies Analytical & problem-solving mindset 🧠 Strong research and innovation skills Ability to work on real-world telecom AI applications Collaboration & communication skills 🚀 Why Join SLT Mobitel? Work on cutting-edge AI & Data Science projects 🤖 Be part of Sri Lanka’s leading telecom innovation hub 📡 Opportunity to build solutions with LLM & Big Data technologies Career growth in advanced tech fields 📩 How to Apply 📧 Send your CV to:careers@mobitel.lk
+
+============================================================
+NexgenLink (formerly Astro Sirens) is seeking a highly skilled AI/ML Engineer to design, develop, and deploy machine learning and artificial intelligence solutions that drive product innovation and business impact. This role will work closely with engineering, data, product, and business teams to build scalable models, production-grade ML systems, and intelligent applications that solve real-world problems.
+
+Requirements
+• Bachelor’s or Master’s degree in Computer Science, Machine Learning, Data Science, Statistics, Mathematics, or a related quantitative field
+• Minimum 5 years of professional experience in machine learning, artificial intelligence, or software engineering roles with a strong machine learning focus
+• Strong proficiency in Python and hands-on experience with machine learning libraries and frameworks such as scikit-learn, TensorFlow, PyTorch, Pandas, and NumPy
+• Proven experience building, evaluating, deploying, and supporting machine learning models in production environments
+• Strong understanding of supervised and unsupervised learning, feature engineering, model evaluation, and statistical analysis
+• Experience designing and maintaining data pipelines and machine learning workflows in cloud environments such as AWS, Microsoft Azure, or Google Cloud Platform
+• Familiarity with APIs, microservices, and backend engineering concepts for integrating machine learning solutions into production systems
+• Strong SQL skills and experience working with large-scale structured and unstructured datasets
+• Strong written and verbal communication skills in English, with the ability to explain complex technical concepts clearly to technical and non-technical stakeholders
+• Demonstrated ability to work effectively in a remote environment while aligned with U.S. time zones
+
+Preferred Qualifications
+• Preferred experience with MLOps tools and practices such as MLflow, Kubeflow, SageMaker, Vertex AI, Azure ML, model monitoring, CI/CD, and lifecycle management
+• Preferred experience with natural language processing, computer vision, recommender systems, or time-series forecasting
+• Preferred familiarity with distributed processing technologies such as Spark, Hadoop, or Ray
+• Preferred experience with vector databases, embeddings, retrieval pipelines, and large language model integrations
+• Preferred exposure to generative AI frameworks and tools such as LangChain, LangGraph, Hugging Face, and OpenAI APIs
+• Preferred experience building scalable inference services using Docker, Kubernetes, and cloud-native deployment patterns
+• Preferred knowledge of data governance, model explainability, responsible AI practices, and model risk management
+• Preferred experience working in fast-paced, cross-functional product or platform teams
+
+Benefits
+• Competitive compensation
+• Flexible remote work aligned with U.S. time zones
+• Opportunity to work on innovative AI and machine learning initiatives with meaningful business impact
+• Collaborative, technically strong, and forward-looking engineering environment
+• Long-term career growth and professional development opportunities
+============================================================
+
+We're looking for an AI/ML Engineer who enjoys building production-grade, scalable AI/ML systems and solving complex problems in collaborative teams.
+
+What You'll Bring:
+
+Experience: at least 2-3 years in a AI/ML Engineer role or a similar capacity;
+Proven experience deploying ML/DL models in production (anomaly detection, classification, prediction);
+Strong Python skills with PyTorch, TensorFlow, scikit-learn, XGBoost / LightGBM;
+Experience building AI/ML-powered APIs (FastAPI) and integrating with dashboards and services;
+Solid understanding of data pipelines, feature engineering, and model lifecycle management;
+Hands-on experience with LLMs, NLP, and intelligent search (LangChain, OpenAI APIs, RAG, vector search, knowledge graphs);
+Experience with clustering and anomaly detection techniques (Isolation Forest, KMeans, DBSCAN);
+Working knowledge of AWS (SageMaker, S3), Docker, and MLOps;
+Strong analytical thinking, problem-solving, and communication skills, with experience working in Agile/Scrum teams.
+What You'll Do
+
+Design, build, and deploy production-grade AlI/ML models for large-scale temporal data;
+Develop and maintain AI/ML-driven backend services and APIs;
+Build LLM-powered explain ability systems using RAG and vector databases;
+Collaborate closely with Product Managers, Data Engineers, and frontend teams to deliver end-to-end solutions;
+Optimize solutions for performance, scalability, reliability, and cost;
+Monitor, evaluate, and continuously improve models in production;
+Contribute to code reviews, architectural discussions, and team decision-making;
+
+============================================================
+
+IYKONS is looking for a passionate AI/ML Engineer to join our team and build intelligent, scalable machine learning solutions. You will work closely with data scientists and engineers to develop and deploy models into production.
+
+Role Overview
+
+As an AI/ML Engineer, you will be responsible for designing, developing, and deploying machine learning models while ensuring they are efficient, scalable, and production-ready.
+
+Key Responsibilities
+
+Design and develop machine learning models for real-world applications
+Build and maintain end-to-end ML pipelines (data → training → deployment)
+Support MLOps practices including model training, testing, and deployment
+Optimize model performance (latency, accuracy, scalability)
+Work with datasets: preprocessing, feature engineering, and validation
+Collaborate with product and engineering teams to deliver AI-driven solutions
+Assist in monitoring model performance and handling model drift
+Experience & Technical Requirements
+
+2–4 years of experience in Software Engineering or Machine Learning
+Strong programming skills in Python
+Experience with ML frameworks such as PyTorch or TensorFlow
+Hands-on experience in building and deploying ML models
+Understanding of REST APIs and integration of ML services
+Familiarity with Docker (basic level)
+Experience with cloud platforms (AWS / Azure / GCP – any one)
+Knowledge of data handling, feature engineering, and model evaluation
+Basic understanding of CI/CD pipelines
+Nice-to-Have
+
+Experience with Kubernetes
+Familiarity with MLOps tools (MLflow, Airflow, etc.)
+Exposure to Large Language Models (LLMs) or RAG systems
+Knowledge of monitoring tools (Prometheus, Grafana)
+Understanding of data privacy and AI ethics
+What We Expect
+
+Strong problem-solving mindset
+Willingness to learn and adapt to new AI technologies
+Good communication and teamwork skills
+Join us and be part of building next-generation AI solutions 
+============================================================
+Jolera stands as a distinguished multinational Global Systems Integrator (GSI), a vanguard in delivering comprehensive and bespoke IT solutions to a diverse clientele, encompassing both direct customers and channel partners across the globe. We are driven by a commitment to excellence, leveraging a team of over 550 highly skilled professionals to design, implement, and manage technology systems that are not only effective and competitive but also scalable and value driven. Our comprehensive suite of services includes the creation of customized technology solutions tailored to specific business needs, in-depth IT assessments and strategic planning, meticulous IT device and infrastructure management, robust data backup and recovery solutions, seamless cloud and on-premise migrations, enterprise-grade security services, and round-the-clock, 24/7/365 quad-lingual end-user support. At Jolera, we believe in empowering organizations worldwide with innovative and reliable IT solutions, and we invite you to join us in this mission.
+
+Who You Are: 
+
+We are seeking a highly practical AI Engineer to design, build, and deploy production-grade AI systems. This is a hands-on engineering role focused on turning real business problems into scalable AI solutions - not academic research. You will work directly with the CTO and product leaders to deliver high-impact AI capabilities across products, operations, and internal platforms. This role is ideal for an engineer who enjoys owning systems end-to-end: from data ingestion and model integration, to APIs, evaluation, and real-world deployment.
+
+What You’ll Do: 
+
+  Build LLM-powered systems (RAG, agents, copilots, automation tools)
+ Design data pipelines for structured and unstructured data (PDFs, APIs, databases)
+ Implement retrieval systems (vector DBs, embeddings, semantic search)
+ Integrate and evaluate models (OpenAI, Claude, Gemini, open-source)
+ Ship APIs and microservices (FastAPI / Flask / Node)
+ Implement prompt engineering, evaluation, and guardrails
+ Deploy on cloud (AWS / GCP / Azure / IBM)
+ Monitor accuracy, latency, cost, and failure modes
+ Work directly with stakeholders to turn fuzzy needs into shipped systems
+
+
+Qualifications:
+
+Must Have:
+
+  Strong Python (and Typescript/Node)
+ Experience with LLMs and modern AI stacks
+ RAG systems and vector databases (Pinecone, Weaviate, FAISS, Milvus)
+ API development (FastAPI / Flask / Express)
+ SQL + intermediate data engineering
+ Cloud fundamentals (Docker, CI/CD, basic infra)
+
+
+Nice to Have (High ROI Skills):
+
+  IBM Watsonx (all components)
+ LangChain / LlamaIndex
+ HuggingFace models & pipelines
+ Open-source LLMs (LLaMA, Mistral, Mixtral)
+ Basic ML evaluation techniques
+ Prompt testing frameworks
+ Kubernetes (bonus)
+ Knowledge graphs / embeddings tuning
+
+
+We’re looking for someone who:
+
+  Thinks like a builder, not a researcher
+ Can ship MVPs in days, not months
+ Understand tradeoffs (accuracy vs cost vs latency)
+ Is comfortable with ambiguity
+ Can operate without heavy product management
+ Enjoys being close to real users and business problems
+
+
+What Success Looks Like (First 90 Days)
+
+  Shipped at least 2 production AI features
+ Built one full RAG system end-to-end
+ Set up evaluation metrics and monitoring
+ Become the CTO’s go-to execution partner for AI
+
+
+What We Offer:
+
+  Direct access to leadership
+ Real ownership of systems
+ Exposure to real business problems
+ Freedom to choose tools and architectures
+ Ability to shape the company’s AI strategy in practice
+
+
+At Jolera, we are committed to creating a diverse, equal and inclusive. Our goal is to attract and retain the best talent while embracing diversity in all its forms. We value and respect differences in ethnic background, gender, age, religion, identity, disability, or any other characteristic protected by applicable law.
+============================================================
+Founded in 2012, H2O.ai is on a mission to democratize AI. As the world’s leading agentic AI company, H2O.ai converges Generative and Predictive AI to help enterprises and public sector agencies develop purpose-built GenAI applications on their private data. With a focus on Sovereign AI—secure, compliant, and infrastructure-flexible deployments—H2O.ai delivers solutions that align with the highest standards of data privacy and control.
+
+Our open-source technology is trusted by over 20,000 organizations worldwide, including more than half of the Fortune 500. H2O.ai powers AI transformation for companies like AT&T, Commonwealth Bank of Australia, Chipotle, Workday, Progressive Insurance, and NIH.
+
+H2O.ai partners include NVIDIA, Dell Technologies, Deloitte, Ernst & Young (EY), Snowflake, AWS, Google Cloud Platform (GCP), VAST Data and MinIO. H2O.ai’s AI for Good program supports nonprofit groups, foundations, and communities in advancing education, healthcare, and environmental conservation. With a vibrant community of 2 million data scientists worldwide, H2O.ai aims to co-create valuable AI applications for all users.
+
+H2O.ai has raised 256 million from investors, including Commonwealth Bank, NVIDIA, Goldman Sachs, Wells Fargo, Capital One, Nexus Ventures and New York Life.
+
+For more information, visit www.h2o.ai.
+
+About This Opportunity
+
+H2O.ai is at the forefront of the rapidly evolving Generative & Predictive landscape. We're leveraging MLOps to transform machine learning models from isolated, engineer-specific tools into robust, cloud-native services that are scalable and consistently available. Our approach is firmly rooted in Kubernetes, positioning our team at the cutting edge of cloud solutions.
+
+As a Machine Learning Engineer within the H2O.ai Professional Services team, the role necessitates close collaboration with the client's technical teams and internal stakeholders, encompassing Customer Success, Enterprise Support, and Product Engineering departments.
+
+This position is based in Sri Lanka.
+
+What You Will Do
+
+Deliver data science and/or machine learning professional services to the customer. 
+Develop and implement end-to-end machine learning workflows, from data ingestion to model deployment and monitoring
+Build and optimize Generative AI applications leveraging Large Language Models (LLMs) and other foundation models
+Create agentic AI systems for workflow automation and complex task execution
+Collaborate with cross-functional teams to integrate ML solutions into customer environments
+You will also be responsible for working closely with customer/H2O solution engineers/architects to implement end to end AI solutions with the ultimate goal of deploying the model to production. Your focus would be on the data science/modelling part of the solution.
+Demonstrate machine learning solutions with engaging storytelling and technical accuracy. 
+Architect, design, and deliver Machine Learning and Data Science solutions. 
+Present at meetups and webinars in the Data Science community, and be an integral part of the Maker culture of creating the best products and solutions. 
+
+What We Are Looking For
+
+Bachelor’s or Master’s degree in Computer Science Engineering (CSE) is mandatory.
+Minimum 2 years of full-time experience specifically in AI product development, data science and machine learning (standard software engineering without AI exposure will not be considered).
+Experience with Generative AI applications, including working with LLMs, prompt engineering, and fine-tuning including deployment of end to end ML pipelines
+Practical knowledge of Retrieval Augmented Generation (RAG) and vector databases.
+Experience developing agentic AI systems for workflow automation.
+Familiarity with model monitoring, observability, and performance optimization.
+Strong understanding of software engineering best practices and system design.
+Strong problem-solving skills and the ability to work independently and as part of a team.
+Excellent communication and presentation skills, with the ability to convey complex technical concepts to non-technical stakeholders.
+
+How to Stand Out From the Crowd
+
+Experience with H2O.ai products (H2O MLOps, Driverless AI, h2oGPT)
+Experience with cloud platforms (AWS, GCP, Azure) and their ML services
+Contributions to open-source ML/AI projects
+Experience with model governance, responsible AI, and implementing guardrails for LLMs.
+
+Why H2O.ai?
+
+Market leader in total rewards
+Remote-friendly culture
+Flexible working environment
+Be part of a world-class team
+Career growth
+
+H2O.ai is committed to creating a diverse and inclusive culture. All qualified applicants will receive consideration for employment without regard to their race, ethnicity, religion, gender, sexual orientation, age, disability status or any other legally protected basis.
+
+H2O.ai is an innovative AI cloud platform company, leading the mission to democratize AI for everyone. Thousands of organizations from all over the world have used our cutting-edge technology across a variety of industries. We’ve made it easy for people at all levels to generate breakthrough solutions to complex business problems and advance the discovery of new ideas and revenue streams. We push the boundaries of what is possible with artificial intelligence.
+
+H2O.ai employs the world’s top Kaggle Grandmasters, the community of best-in-the-world machine learning practitioners and data scientists. A strong AI for Good ethos and responsible AI drive the company’s purpose.
+============================================================
+We are hiring a highly capable AI Engineer to join our growing team and work directly with our current AI lead to rapidly scale internal AI systems, automation workflows, and product integrations.
+
+This role is critical because we need someone who can quickly absorb technical knowledge, contribute independently, and help remove operational bottlenecks across ongoing AI initiatives.
+
+We are specifically looking for engineers who are strong builders, comfortable working in fast-moving environments, and already have hands-on experience with modern automation and AI infrastructure.
+
+Role Overview
+
+You will work on:
+
+AI-powered workflow automation
+Backend integrations
+Agentic systems and orchestration
+Internal AI tooling
+API integrations
+Cloud infrastructure and data workflows
+
+You'll collaborate closely with technical leadership and will be expected to take ownership of systems quickly.
+
+This is an execution-heavy role suited for someone who enjoys solving practical engineering problems and shipping production-ready solutions fast.
+
+Responsibilities
+
+Build and maintain AI automations and workflows
+Develop backend services and API integrations
+Work with cloud-based AI/data infrastructure
+Maintain and improve n8n workflows
+Support knowledge transfer from the current AI engineering lead
+Help document and stabilize internal systems
+Collaborate with product and engineering teams to rapidly ship features
+
+Work Arrangement
+
+Open to both Part-Time and Full-Time candidates
+Part-time commitment can be approximately 4 hours per day
+Candidate should be available to work from the office regularly
+Flexible hybrid setup with 1 work-from-home day per week
+Competitive compensation based on skills and experience
+
+Ideal Candidate
+
+We're looking for someone who:
+
+Loves building and experimenting
+Learns quickly
+Can move fast without constant guidance
+Has real-world automation and AI systems experience
+Wants exposure to cutting-edge AI implementation work
+
+Requirements
+
+Currently pursuing or completed a Masters degree (preferably from University of Moratuwa)
+Experience with:
+LLMs and AI agents
+LangChain / agent frameworks
+AI workflow orchestration
+Prompt engineering
+Vector databases
+Automation pipelines
+Docker / containerized deployments
+Mandatory Requirements
+
+Strong experience in:
+
+Python
+n8n (previous hands-on production experience is mandatory)
+REST APIs & integrations
+Google Cloud Platform (GCP)
+BigQuery
+MCP servers / AI infrastructure
+Git/version control workflows
+
+You should also:
+
+Be comfortable debugging and improving existing systems
+Be able to work independently with minimal supervision
+Have strong problem-solving ability
+Be eager to learn quickly and take ownership
+
+Benefits
+
+Role to be paid in GBP
+We're open to discussing salaries outside this range for candidates with exceptional skills or those with less experience who show great potential
+Opportunities for professional development and career progression
+Supportive work environment with a focus on work-life balance
+UK work hours apply
+============================================================
+
+We are HCLTech, one of the fastest growing large tech companies in the world and home to 219,000+ people across 60 countries, supercharging progress through industry-leading capabilities centered around Digital, Engineering and Cloud.
+
+We are looking for a highly skilled and passionate Senior Data Scientist to join our growing team. In this role, you will play a vital part in transforming complex, unstructured data into meaningful insights that drive business decisions and innovation. You’ll work with advanced machine learning techniques and cutting-edge tools to enhance client solutions and optimize products.
+
+Key Responsibilities:
+
+Design and implement advanced machine learning models using TensorFlow and PyTorch to extract insights from large-scale datasets and deliver tailored analytical solutions.
+Utilize Python and SQL to develop, optimize, and maintain robust data models that solve real business challenges.
+Analyze vast datasets to uncover patterns, trends, and opportunities, translating findings into actionable recommendations.
+Partner with cross-functional teams to identify data-driven opportunities and contribute to strategic business decisions.
+Create impactful dashboards and visual reports to communicate complex insights clearly to stakeholders and clients.
+
+Job Requirements:
+
+6 - 8 years of hands‑on industrial experience in AI/ML engineering and Data Science.
+Strong expertise in Machine Learning algorithms and frameworks such as TensorFlow and PyTorch.
+Advanced proficiency in Python for data analysis and model development.
+Solid experience with SQL for querying and managing large datasets.
+Deep understanding of data analytics techniques and tools.
+Excellent communication and collaboration skills to work effectively with diverse teams.
+
+Why Join Us?
+
+Be part of a global tech leader.
+Work in a diverse and inclusive environment.
+Grow your career with comprehensive learning and development programs.
+Enjoy a competitive benefits package and flexible work culture.
+============================================================
+
+
+We are seeking an experienced AI/ML Engineer to design, develop, and integrate advanced machine learning models into our platform. The ideal candidate is proficient in leveraging Large Language Models (LLMs) and has experience in creating robust APIs for AI-driven functionalities. You will play a key role in building scalable AI solutions that enhance user workflows and platform capabilities.
+
+Responsibilities
+
+Design, develop, and deploy machine learning models with a focus on natural language processing (NLP) capabilities.
+Optimize and fine-tune existing AI models for specific platform and user requirements.
+Develop and maintain APIs to expose AI/ML functionalities seamlessly within the platform.
+Research and implement cutting-edge AI/ML techniques and frameworks to ensure the platform remains innovative and competitive.
+Monitor model performance and reliability, implementing improvements and retraining models as needed.
+Collaborate with cross-functional teams to align AI/ML integration with overall platform goals.
+Required Skills
+
+Advanced proficiency in Python and machine learning frameworks such as TensorFlow, PyTorch, or Hugging Face Transformers.
+Demonstrated experience with Large Language Models (LLMs) such as GPT, BERT, or similar architectures.
+Expertise in deploying and managing AI models in production environments using Docker, Kubernetes, or similar tools.
+Strong understanding of NLP techniques, tools, and libraries, including spaCy and NLTK.
+Proven experience in API development and integration, with a focus on exposing ML functionalities via RESTful APIs.
+Familiarity with version control systems like Git and experience in collaborative development environments.
+Qualifications
+
+Bachelor’s or Master’s degree in Computer Science, Artificial Intelligence, Machine Learning, or related fields.
+2+ years of hands-on experience in developing, deploying, and maintaining ML models in production.
+Strong foundation in mathematics and statistics, including linear algebra and probability.
+Experience with cloud platforms such as AWS, Google Cloud, or Azure for ML model deployment and scaling.
+Knowledge of performance monitoring and optimization techniques for deployed models.
+Excellent problem-solving skills, with an emphasis on innovation and user-centric solutions.
+Why You’ll Love Working Here:
+
+Opportunity to work at the intersection of cutting-edge technology and client engagement.
+Flexible, collaborative work environment with a dynamic and driven team.
+Competitive salary and performance-based incentives.
+
+============================================================
+
+Agentic AI pipelines using LangChain / LangGraph / CrewAI for automated analytical tasks
+level classification, anomaly detection, and report generation RAG
+based systems that make Coalition Greenwichs proprietary taxonomy, methodology, and historical benchmarking data queryable by AI
+Entity resolution and fuzzy matching pipelines to map ~100,000 subsidiary bank names to a clean master entity hierarchy
+A three
+dimensional revenue allocation engine (entity x product/wallet x region) that disaggregates incoming data across granularity levels LLM
+powered audit narrative generation
+turning structured data outputs into explainable, client
+ready commentary
+Evaluation frameworks and observability tooling so deployed agents are traceable, auditable, and reliable WHAT WE ARE LOOKING FOR Must Have
+4+ years of hands
+on engineering experience; at least 6 months working with LLMs in a production or near
+production context
+Solid Python
+you write clean, modular, well
+documented code that others can build on
+Practical experience with LangChain, LlamaIndex, or equivalent agentic frameworks
+Working knowledge of RAG architectures
+Ability to integrate LLM outputs into structured downstream pipelines
+not just chatbots Good to Have
+Exposure to financial markets, banking data, MIS, or analytics operations workflows
+Experience with at least one vector database
+Experience with LangGraph, CrewAI, or multi
+agent orchestration patterns
+MLOps fundamentals
+experiment tracking, model versioning, basic deployment (FastAPI, Docker)
+Familiarity with fuzzy matching or NLP
+based entity resolution (Jaro
+Winkler, BM25, embeddings based)
+Understanding of structured data disaggregation or hierarchical allocation problems
+
+
+Disclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.
+
+============================================================
+We’re seeking a Machine Learning Engineer with deep experience fine-tuning large language models (LLMs) to join a fast-moving product team building an intelligent automation system.
+
+What You Bring
+Strong experience in LLM fine-tuning (instruction tuning, LoRA, QLoRA, PEFT, etc.)
+Fluency in Python and libraries like Transformers (HuggingFace), PyTorch, LangChain, or LangGraph
+Experience working with open-source models and task-specific datasets
+Familiarity with prompt tuning, few-shot learning, and agentic reasoning frameworks
+Bonus: Familiarity with agent systems like LangGraph, AutoGen, or custom tools for agent control flow
+Comfort working in early-stage or research-heavy environments where iteration is fast and data is messy
+Nice to Have
+Experience working with multimodal models (text + screen, vision-language)
+Familiarity with reinforcement learning from human feedback (RLHF) or gamified feedback loops
+Knowledge of toolformer-like architectures or LLMs that trigger external actions
+Previous contributions to open-source ML tools or models
+Interest in building product-grade systems from ML experiments
+What You’ll Get
+A central role in shaping how real AI agents understand and execute tasks
+Freedom to experiment with new model architectures and training techniques
+A collaborative, high-velocity team that values both research and shipping a product
+Competitive contract-based compensation with the potential for long-term equity or a leadership role
+
+============================================================
+Key Requirements
+
+1 to 2 years of experience in AI including hands-on experience with exploratory data analysis, building data pipelines, model development, and model evaluation.
+A sound knowledge of the theoretical and practical use of Machine Learning.
+Hands-on experience in developing deep learning models, preferably for Natural Language Processing applications.
+Experience in using Generative AI including advanced prompting techniques and preferably fine-tuning models.
+Experience in building pipelines for the use of externally hosted LLMs and preferably locally hosted LLMs.
+Comprehensive experience and detailed knowledge in implementing, enhancing, and evaluating RAG implementations/pipelines.
+Use of orchestration layers such as LangChain for efficient use of LLMs.
+Experience around evaluation frameworks for Generative AI, in the context of text generation. Eg RAGAs and TruLens.
+
+============================================================
+Are you passionate about leveraging cutting-edge technologies to drive innovation? Do you thrive in collaborative environments expending your expertise in Artificial Intelligence and Machine Learning? If so, we have an exciting opportunity for you!
+
+As a Software Engineer specializing in Artificial Intelligence and Machine Learning, you will play a pivotal role in,
+
+· Develop and implement machine learning models to address diverse enterprise use cases
+
+· Collaborate with cross-functional teams to program solutions using Python, AutoML, and PyTorch
+
+· Design and construct robust data pipelines utilizing tools such as Apache Kafka and Spark
+
+· Write clean, maintainable, and extensible code following industry best algorithms and practices
+
+· Conduct rigorous component testing to ensure the technical quality and reliability of solutions
+
+· Apply knowledge of concepts like Locking, Transaction Handling, and Concurrency Control to optimize application performance
+
+Skills and qualifications
+
+· Bachelor’s degree in computer science, Engineering, or related field
+
+· 1+ years of experience in Machine Learning with a focus on Enterprise Usecase development, including a track record of at least 5 Usecases as an Associate ML Engineer
+
+· Programming in Python, AutoML, and PyTorch, create data pipelines using different tools like Apache Kafka/Spark and/or other tools
+
+· Competence in building software based on multi-tier architectures and the associated enabling platforms and frameworks
+
+· Good understanding of OO concepts and techniques
+
+· Competent in at least one related suite of technologies
+
+· Good awareness of software vendors, available frameworks, and platforms within this technology domain with awareness of at least one other major technology domain
+
+Join us and be part of a dynamic team driving innovation and shaping the future with Artificial Intelligence and Machine Learning.
+
+============================================================
+
+We are seeking a specialized AI/Machine Learning Engineer to lead the automation of AI system. You will be responsible for processing and analyzing high-volume image data captured from thousands of network cameras. The core of this role involves building automated data-cleaning pipelines and fine-tuning Vision Large Language Models (VLLMs) to analyze complex parking scenarios, seamlessly integrating these insights with our existing third-party OCR systems.
+
+Key Responsibilities:
+
+Data Pipeline & Automation: Design and deploy automated pipelines to ingest, filter, and clean interval-based image data. Implement pre-processing models (e.g., YOLO, SSD, or custom classifiers) to automatically identify and discard low-quality, redundant, or irrelevant images before they reach the main analysis engine.
+
+VLLM Implementation: Select, fine-tune, and deploy open-source Vision Large Language Models (e.g., LLaVA, Qwen-VL) to evaluate complex scenarios without human intervention.
+
+Model Optimization: Optimize the AI models for fast inference and scalability to handle thousands of concurrent image streams efficiently.
+
+Collaboration: Work closely with backend developers and systems engineers to ensure smooth API integration and deployment into the existing production infrastructure.
+
+Required Qualifications:
+• Experience: 3+ years in Machine Learning, AI Engineering, or a heavily focused Computer Vision role.
+• Technical Skills: Strong proficiency in Python and deep learning frameworks (PyTorch, TensorFlow).
+• Hands-on experience with Vision-Language Models (VLLMs) or Large Multimodal Models (LMMs).
+• Proven experience with traditional Computer Vision techniques and object detection models (YOLO, ResNet, etc.) for image classification and filtering.
+• Data Handling: Experience managing and cleaning large-scale, unstructured image datasets.
+• System Architecture: Understanding of how to build and deploy ML models into production environments (Docker, FastAPI, cloud or edge deployments).
+
+Nice to Have:
+• Previous experience working with traffic monitoring, smart city infrastructure, or parking management systems.
+• Familiarity with handling time-series image data or edge-computing environments.
+
+============================================================
+
+Join a fast-growing, technology-driven organization delivering advanced AI platforms and intelligent digital solutions across the life insurance and digital health sectors.
+
+We are looking for an
+AI / ML Engineer
+with strong hands-on experience in MLOps and LLM-based systems to support the development, evaluation, and monitoring of production-grade AI solutions.
+
+This role is ideal for a highly technical engineer who can build, review, and optimize AI pipelines while ensuring model performance, reliability, and scalability across real-world deployments.
+
+You will work closely with AI leads, architects, and engineering teams to support AI lifecycle management, from experimentation to deployment and continuous improvement.
+
+This is a
+freelance / contract, onsite role based in Dubai
+, with an urgent hiring timeline, supporting high-impact AI initiatives in regulated environments.
+
+Key Responsibilities
+• Design, build, and maintain AI/ML pipelines for LLMs, RAG systems, and multi-modal models.
+• Review and optimize model pipelines, ensuring performance, scalability, and reliability.
+• Implement MLOps practices including model versioning, deployment, monitoring, and rollback strategies.
+• Develop and maintain evaluation frameworks for AI models (accuracy, latency, bias, cost, performance).
+• Monitor production AI systems and identify opportunities for optimization and improvement.
+• Support testing and validation of voice, text, and vision models.
+• Implement and support AI observability tools for tracking system performance and behavior.
+• Collaborate with cross-functional teams to ensure production readiness and deployment success.
+• Contribute to continuous improvement of AI systems through feedback loops and evaluation strategies.
+
+Required Skills & Experience
+• 3–5+ years of experience in AI/ML engineering, MLOps, or LLM-based systems.
+• Strong hands-on experience with
+Python
+and AI frameworks.
+• Experience working with
+LLMs, RAG pipelines, and AI model evaluation
+.
+• Strong understanding of
+MLOps practices
+(deployment, monitoring, versioning, rollback).
+• Experience reviewing and optimizing AI pipelines.
+• Familiarity with
+voice and text models
+.
+• Experience with performance monitoring and model evaluation frameworks.
+• Strong problem-solving and analytical skills.
+• Ability to work independently in a fast-paced contract environment.
+
+Preferred / Nice to Have
+• Experience with RLHF (Reinforcement Learning from Human Feedback).
+• Familiarity with vision-language models (VLMs).
+• Experience with AI observability tools (e.g., Langfuse, LangSmith).
+• Experience in regulated industries (banking, insurance, healthcare, government).
+• Experience working with distributed or enterprise-scale systems.
+============================================================
+Responsibilities:
+• Design, develop, and optimise AI infrastructure for scalable machine learning model deployment.
+• Implement MLOps methodologies to streamline the entire AI model lifecycle.
+• Drive automation of AI workflows, enhancing efficiency in data pipelines and AI-driven insights.
+• Architect and deploy cloud-based AI solutions, ensuring optimal scalability and efficiency.
+• Develop APIs and microservices to seamlessly integrate AI models with enterprise applications.
+• Optimise AI models for peak performance, minimising computational overhead and maximising inference speed.
+• Implement MLOps best practices for smooth AI model deployment, monitoring, and governance.
+
+Job Offer:
+• Competitive salary package and comprehensive benefits.
+• Be at the forefront of AI innovation, shaping the future of government workforce analytics.
+
+Requirements:
+• Bachelor's or Master's degree in AI, Computer Science, or a related field.
+• 7 years of hands-on experience in AI/ML engineering, model deployment, and automation.
+• Proven expertise in Kubernetes, Docker, CI/CD pipelines for AI, and cloud platforms (Azure, AWS, GCP).
+• Strong proficiency in Python, TensorFlow, PyTorch, and advanced AI model optimisation techniques.
+============================================================
+Vision Tact is seeking a highly skilled AI / Machine Learning Engineer to join our core Data Science and AI department. The selected candidate will play a pivotal role in developing, training, and deploying scalable AI systems that power our automation, computer vision, and predictive analytics solutions.
+
+You will work alongside a multidisciplinary team of data scientists, automation engineers, GIS specialists, and business strategists to translate real‑world challenges into intelligent, data‑driven solutions.
+
+From data exploration and feature engineering to model optimization and API deployment, this role offers the opportunity to work across the entire AI development lifecycle
+
+—from research to production.
+
+Key Responsibilities
+
+• Design, train, and optimize machine learning and deep learning models for diverse applications, including computer vision, NLP, predictive analytics, and automation
+
+.
+
+• Collaborate with data scientists and software developers to build AI‑driven features into production‑grade systems.
+
+• Develop and manage data pipelines for model training and inference using modern ETL tools and frameworks.
+
+• Implement and maintain MLOps practices to automate model training, validation, and deployment workflows.
+
+• Work with large, structured and unstructured datasets from multiple sources (databases, APIs, geospatial feeds).
+
+• Develop RESTful APIs or microservices to integrate AI models into applications and automation systems.
+
+• Evaluate model performance and tune hyperparameters for optimal accuracy, precision, and scalability.
+
+• Collaborate with business teams to define problem statements, success metrics, and AI solution roadmaps.
+
+• Document models, datasets, and experiments thoroughly for reproducibility and collaboration.
+
+• Stay updated on the latest AI research, frameworks, and technologies to incorporate innovation into Vision Tact projects.
+
+Required Skills & Tools
+
+• Programming
+
+Languages:
+
+Python (primary), R (optional), and familiarity with JavaScript/Type Script for API integration.
+
+• Frameworks & Libraries: Tensor Flow, PyTorch, Scikit‑learn, OpenCV, Transformers, Hugging Face.
+
+• Data Handling: Pandas, Num Py, SQL/No
+
+SQL databases, and data preprocessing for ML workflows.
+
+• MLOps / Deployment: Docker, MLflow, FastAPI, Kubernetes, or AWS Sage Maker.
+
+• Version Control: Git/Git Hub for collaborative development.
+
+• Visualization Tools: Matplotlib, Seaborn, Plotly, or Dash.
+
+• Optional Exposure: Lang Chain, LLM fine‑tuning, and vector database integrations (e.g., Pinecone, FAISS).
+
+• Soft Skills: Analytical mindset, problem‑solving ability, and cross‑functional communication.
+
+Qualifications
+
+• Bachelor’s or Master’s degree in Computer Science, Artificial Intelligence, Data Science, or a related field.
+
+• Minimum 3 years of applied experience in AI or machine learning model development.
+
+• Proven portfolio or Git Hub repository demonstrating ML/AI projects (required).
+
+• Certifications such as Tensor Flow Developer
+
+, AWS AI Engineer
+
+, or Deep Learning Specialization are a plus.
+
+• Prior experience in deploying models to production environments (API, microservice, or edge AI) preferred.
+
+============================================================
+Qualcomm is enabling a world where everyone and everything can be intelligently connected. You interact with products and technologies made possible by Qualcomm every day, including 5G-enabled smartphones that double as pro-level cameras and gaming devices, smarter vehicles and cities, and the technology behind the smart, connected factories that manufacture your latest purchase. Qualcomm 5G and AI innovations are the power behind the connected intelligent edge. You’ll find our technologies behind and inside the innovations that deliver significant value across multiple industries and to billions of people every day.
+
+Qualcomm is growing its presence in Riyadh and is hiring Data Centre Engineers to support our expanding infrastructure across the region. As Saudi Arabia accelerates its digital transformation under Vision 2030, Qualcomm is investing in world‑class computing and data centre capabilities to power AI, cloud, and advanced connectivity at scale. This is a unique opportunity to work in a fast‑growing technology hub, supporting critical environments and helping shape the future of data centre operations in the Kingdom and beyond.
+About the Role
+
+We are seeking a Full‑Stack Machine Learning Engineer to join our team, bridging AI solutions development with AI platform engineering for Qualcomm’s AI Inference Suite and rack‑scale data center deployments. This role involves designing, delivering, and supporting end‑to‑end AI services, agentic workflows, and fine‑tuning pipelines, while enabling lifecycle automation, orchestration, and observability for large‑scale data center environments. You will bring a strong combination of full‑stack engineering expertise, machine learning proficiency, and infrastructure knowledge to build robust, scalable AI systems.
+Key Responsibilities
+• API Development & Optimization: Build and optimize API serving layers for AI inference workloads, ensuring model and hardware efficiency.
+• Agentic Workflows & RAG Pipelines: Develop intelligent agents and retrieval‑augmented generation workflows using frameworks such as LangChain and crew.ai.
+• Model Lifecycle Management: Implement production‑grade bring‑your‑own‑model and fine‑tuning flows, including dataset ingestion, orchestration, evaluation, and deployment.
+• LLM Runtime Integration: Work with various LLM runtimes (e.g., vLLM, Dynamo, llm‑d) and leverage inference optimization techniques.
+• SDK & Tooling Contributions: Contribute to AI Inference Suite SDKs (Python/TypeScript/Java/Rust), CLI tools, and reference applications.
+• Cluster Management: Design and maintain AI cluster management software for provisioning, orchestration, and monitoring.
+• Telemetry & Observability: Integrate out‑of‑band management via Redfish/IPMI and in‑band telemetry using Prometheus/OpenTelemetry.
+• Infrastructure‑as‑Code: Develop workflows using MAAS, Terraform, and Ansible for bare‑metal and containerized deployments.
+• Kubernetes Orchestration: Enable Kubernetes/Helm‑based orchestration for inference clusters and multi‑tenancy.
+• Monitoring & Dashboards: Build dashboards for rack health, inventory, and SLA compliance.
+• Continuous Innovation: Stay current with GenAI trends, rack‑scale AI orchestration, and data center best practices.
+Minimum Qualifications
+• Bachelor’s degree in Computer Science, Engineering, or related field.
+• 5+ years of software engineering experience; 3+ years in ML or HPC environments.
+• Strong programming skills in Python, Rust/Go, and TypeScript, with solid software development fundamentals.
+• Deep understanding of data structures and algorithms in distributed systems and high‑performance computing contexts.
+• Hands‑on experience with Kubernetes, Helm, Prometheus/OpenTelemetry, and Ansible/Terraform.
+• Practical experience with LLM runtimes, agent frameworks, and rack‑scale orchestration.
+• Minimum 2+ years of academic or work experience with programming languages such as C, C++, Java, Python, etc.
+• References to a particular number of years experience are for indicative purposes only. Applications from candidates with equivalent experience will be considered, provided that the candidate can demonstrate an ability to fulfill the principal duties of the role and possesses the required competencies.
+Preferred Qualifications
+• Master’s degree in Computer Science, Machine Learning, or related field.
+• Experience building inference and fine‑tuning pipelines, as well as agentic workflows.
+• Knowledge of data centre resource lifecycle management, out‑of‑band protocols (Redfish/IPMI), and MAAS/OpenStack.
+• Exposure to scale‑up data centre networking technologies (RoCE/RDMA/NVLink).
+• Contributions to inference and GenAI model performance optimization.
+What’s on Offer
+• Salary including housing & transport allowance
+• Stock (RSU's) and performance related bonus
+• 16 weeks fully paid Maternity Leave
+• 6 weeks fully paid Paternity Leave
+• Employee stock purchase scheme
+• Child Education Allowance
+• Relocation and immigration support (if needed)
+• Life and Medical Insurance
+• Live+ Well Reimbursement for health and recreational membership fees
+Equal Opportunity & Accommodations
+
+Qualcomm is an equal opportunity employer. If you are an individual with a disability and need an accommodation during the application/hiring process, rest assured that Qualcomm is committed to providing an accessible process. You may e‑mail disability‑View email address on click.appcast.io or call Qualcomm’s toll‑free number found here. Upon request, Qualcomm will provide reasonable accommodations to support individuals with disabilities to be able participate in the hiring process. Qualcomm is also committed to making our workplace accessible for individuals with disabilities. (Keep in mind that this email address is used to provide reasonable accommodations for individuals with disabilities. We will not respond here to requests for updates on applications or resume inquiries).
+============================================================
+Aramco occupies a special position in the global energy industry. We are one of the world’s largest producers of hydrocarbon energy and chemicals, with among the lowest Upstream carbon intensities of any major producer.
+
+With our significant investment in technology and infrastructure, we strive to maximize the value of the energy we produce for the world along with a commitment to enhance Aramco’s value to society.
+
+Headquartered in the Kingdom of Saudi Arabia, and with offices around the world, we combine market discipline with a generations’ spanning view of the future, born of our nine decades experience as responsible stewards of the Kingdom’s vast hydrocarbon resources. This responsibility has driven us to deliver significant societal and economic benefits to not just the Kingdom, but also to a vast number of communities, economies, and countries that rely on the vital and reliable energy that we supply.
+
+We are one of the most profitable companies in the world, as well as amongst the top five global companies by market capitalization.
+
+Overview
+
+We are seeking an AI/ML/LLM Systems Engineer to join our Digital & AI Center of Excellence and contribute to the development of enterprise-scale AI platforms that support advanced machine learning and language model inference across Saudi Aramco’s operations.
+
+The Digital & AI Center of Excellence is responsible for delivering scalable, secure, and high-performance AI/ML/LLM systems that drive innovation and operational efficiency.
+
+In this role, you will design and maintain infrastructure for deploying and optimizing large language models (LLMs) and vision models, hosted on NVIDIA SuperPods/ Cloud and containerized environments.
+
+Your primary role is to ensure the efficient and scalable operation of AI models within enterprise platforms. You will be responsible for deploying, monitoring, and optimizing inference workloads, integrating vector and relational databases, and implementing orchestration and DevOps pipelines to support continuous model improvement and delivery.
+
+Duties & Responsibilities
+
+As the successful candidate, you will be required to perform the following:
+• Deploy and manage LLMs and vision models on NVIDIA SuperPods, Cloud, ensuring high performance and efficient use of GPU resources.
+• Build and maintain scalable inference pipelines using Kubernetes (K8s), Docker, and OpenShift for enterprise AI platforms.
+• Optimize inference performance through multiple techniques.
+• Benchmark and evaluate LLMs for performance, accuracy, latency, and resource utilization across different hardware and software configurations.
+• Implement and support LLMOps frameworks with full observability, including logging, tracing, and model performance tracking.
+• Integrate and manage vector databases (Elasticsearch) and relational databases (PostgreSQL) for efficient data retrieval and user interaction history tracking.
+• Implement and maintain CI/CD (Continuous Integration/Continuous Delivery) pipelines for model and platform updates using Git, Bitbucket, Jenkins, and ArgoCD.
+• Ensure high availability and reliability of AI application workflows using frameworks like Haystack.
+• Collaborate with infrastructure teams on GPU provisioning and resource allocation for AI workloads.
+• Develop and maintain monitoring, alerting, and dashboarding systems for AI/ML workloads to ensure SLA/SLO compliance.
+
+Minimum Requirements
+
+As a successful candidate you will:
+• Hold a Master’s degree in Computer Science, Software Engineering, or a related field
+• Have 8 years of experience in AI/ML systems or cloud-native infrastructure, including at least 4 years in LLM deployment and optimization.
+• Proficiency in Python and SQL is required, with experience in building and optimizing AI/ML applications.
+• Ability to work with Kubernetes (K8s), Docker, and OpenShift in production environments.
+• Experience deploying and optimizing LLMs and vision models on NVIDIA GPU clusters and high-performance computing (HPC) environments and Cloud environment.
+• Ability to demonstrate proficiency in inference scaling, distributed computing, and SLA/SLO planning for AI workloads.
+• Strong knowledge in Elasticsearch, PostgreSQL, and workflow frameworks like Haystack for AI application development.
+• Ability to implement CI/CD pipelines using tools like Git, Bitbucket, Jenkins, and ArgoCD.
+• Experience in benchmarking and evaluating LLMs for performance, accuracy, and efficiency is required.
+• Monitoring and dashboarding for AI/ML systems is also necessary.

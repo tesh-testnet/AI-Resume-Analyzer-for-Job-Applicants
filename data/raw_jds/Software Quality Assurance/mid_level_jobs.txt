@@ -1,0 +1,550 @@
+MID-LEVEL / ASSOCIATE JOB DESCRIPTIONS
+============================================================ 
+We are looking for a QA Engineer to join our team and ensure the quality and reliability of our software products. If you’re detail-oriented, organized, and a good communicator, we’d love to hear from you.
+
+Key Responsibilities
+• Create and execute test cases based on requirements
+• Perform functional and regression testing
+• Identify, document, and track bugs clearly
+• Validate features before release to ensure quality
+• Work closely with developers to resolve issues
+• Provide end-of-day progress reports to the Project Manager
+• Share updates during daily morning stand-up meetings
+
+Required Skills & Qualifications
+• Good English communication skills (spoken & written)
+• Strong attention to detail and organization
+• Basic understanding of QA / software testing processes
+• Ability to clearly document issues and test scenarios
+• Responsible, proactive, and self-managed
+• Comfortable working in a hybrid environment
+
+Preferred (Not Mandatory)
+• Exposure to Business Analysis tasks
+• Familiarity with Jira, ClickUp, Trello, or similar tools
+• Understanding of Agile / Scrum
+
+============================================================
+At MO Marketplace, we are scaling a high-frequency digital ecosystem. We are looking for a QA Engineer to act as our "Release Guard." You will be responsible for ensuring that every update to our mobile and web platforms is seamless, bug-free, and optimized for a world-class user experience.
+
+This is a high-impact role where you will work directly with the product and engineering teams to maintain the stability of Sri Lanka’s fastest-growing circular economy platform.
+
+Key Responsibilities
+
+Release Validation: Perform rigorous testing of mobile and web flows before every deployment.
+Test Strategy: Develop and maintain comprehensive regression checklists and test suites.
+API Testing: Conduct thorough API testing to ensure backend-to-frontend integrity.
+Bug Lifecycle Management: Identify, document, and track bugs through to resolution, collaborating closely with developers.
+Performance Monitoring: Maintain detailed release logs and track monthly regression trends to drive continuous improvement.
+UAT Support: Facilitate User Acceptance Testing (UAT) to align platform functionality with customer needs.
+Technical Requirements
+
+Experience: 1–3 years in Software Quality Assurance (Web & Mobile).
+Tools: Proficiency in Postman (or similar API testing tools) and bug-tracking software.
+Testing Types: Strong experience in Functional, Smoke, Regression, and Integration testing.
+Documentation: Exceptional ability to write clear, concise test cases and bug reports.
+Methodology: Familiarity with Agile/Scrum development cycles.
+Preferred Mindset
+
+Extreme Attention to Detail: You take pride in finding the bugs that others miss.
+Reliability-First: You understand that quality is the foundation of user trust.
+Adaptability: Comfortable working in a fast-paced, evolving startup environment.
+
+============================================================
+
+We’re Hiring: QA Engineer
+
+Rightmo Web Solution is looking for a passionate QA Engineer to join our team!
+
+Qualifications & Requirements:
+
+Bachelor’s degree in Computer Science, IT, Engineering, or related field
+3+ years of experience in software testing and automation
+Hands-on experience with automated testing tools
+Strong knowledge of software development methodologies
+Familiarity with Agile methodologies
+Experience with Bug Tracking Tools
+Strong analytical and problem-solving skills with keen attention to detail
+Excellent communication and teamwork skills
+
+If you’re detail oriented and ready to ensure top-notch quality in every project, we’d love to hear from you!
+
+Apply now by sending your CV to hro@rightmo.lk
+
+============================================================
+We are seeking a hands-on QE Engineer to validate API-driven middleware systems that enable integration between multiple platforms. This role is focused on API testing, integration validation, and automation, ensuring system reliability, accuracy, and performance in a fast-paced delivery environment.
+
+Key Responsibilities :-
+
+Design, develop, and execute manual and automated API test cases
+Validate RESTful APIs (and GraphQL/SOAP where applicable)
+Test request/response payloads, headers, status codes, and error handling
+Perform functional, regression, smoke, and integration testing for APIs
+Automate API tests using tools/frameworks (e.g., Postman, Playwright, REST Assured)
+Execute API tests in CI/CD pipelines
+Perform negative, boundary, and edge-case testing
+Perform basic performance testing (load, stress, latency) using tools like JMeter
+Log, track, and verify defects using Azure DevOps or JIRA
+Review API documentation (Swagger/OpenAPI)
+Ensure API security aspects such as authentication, authorization, and data privacy
+Maintain test reports and test coverage metrics
+Validate end-to-end integration across multiple systems
+
+============================================================
+
+Looking to build your career in Quality Assurance?
+
+Join SureCore and gain hands-on experience testing real products and working with real teams 
+
+What We’re Looking For
+
+Interest in Software Testing / Quality Assurance
+Basic understanding of manual testing concepts
+Knowledge of SDLC / STLC is a plus
+Strong attention to detail & problem-solving skills
+Good communication skills
+Eagerness to learn and grow
+What You’ll Do
+
+Perform manual testing on web applications
+Identify, report, and track bugs
+Work closely with developers and product teams
+Assist in writing test cases and documentation
+Support sprint testing and QA activities
+Great opportunity to gain real-world experience!
+
+Only candidates who can join immediately should apply.
+
+Please include your expected salary in your application.
+
+============================================================
+
+Core Responsibilities & Duties
+
+Work with Product QA and Development teams to design and script performance test scenarios based on the requirement specifications.
+Participate in regular team stand-ups, updates, weekly product platform and agile sessions when required.
+Involve in training platform Quality Engineers and junior Performance Engineers in Software Performance Testing.
+Qualifications & Experience
+
+B.Sc. in Computer Science or equivalent qualification.
+2+ years of industry experience in Software Performance Testing using JMeter/Gatling or any other standard performance testing.
+Solid practical understanding of Agile Software Quality Assurance.
+Strong understanding of Performance testing concepts and practical applicability of those concepts in Software development.
+Knowledge in performance scripting and load testing using JMeter.
+Strong understanding of HTTP protocols, web technologies, APIs and microservices.
+Programming skills in JavaScript or Groovy would be an added advantage.
+Familiarity with CI/CD pipelines and integrating tests with Jenkins would be an added advantage.
+Good understanding of manual testing concepts, test case design techniques, and defect lifecycle.
+Familiarity in issue management tools such as JIRA and Devops.
+Able to collaboratively work with a team.
+Able to communicate technical and analytical content with relevant stakeholders.
+Excellent analytical and problem-solving skills with keen attention to detail.
+ISTQB Performance Testing certification or equivalent would be an added advantage
+Desire to stay up to date with the latest trends, tools, technologies, and industry best practices in the domain of performance testing.
+
+============================================================
+Core Responsibilities & Duties
+
+Work with Product QA and Development teams to design and automate scenarios based on the requirement specifications.
+Participate in regular team stand-ups, updates, weekly product platform and agile sessions when required.
+Involve in training platform Quality Engineers and junior Test Automation Engineers in Automation Testing.
+Qualifications & Experience
+
+B.Sc. in Computer Science or equivalent qualification.
+2+ years of industry experience in Software Test Automation.
+Solid practical understanding of Agile Software Quality Assurance.
+Strong understanding of Software Engineering concepts and practical applicability of OOP concepts.
+Strong understanding of automation test concepts and how they are applied.
+Experience with TestNG/JUnit and Page Object Model (POM) design pattern.
+Experience in working with Selenium WebDriver.
+Strong programming skills in at least one language: Java (preferred), Java Script or C#.
+Experience with test frameworks (TestNG/JUnit/Mocha/Jest) and BDD (Cucumber/Gherkin).
+Experience in Playwright (with JS/TS) would be an added advantage.
+Good understanding of manual testing concepts, test case design techniques, and defect lifecycle.
+Familiarity with CI/CD pipelines and integrating tests with Jenkins.
+Familiar with version control (Git), issue tracking (Jira), and test management tools.
+Able to collaboratively work with a team.
+Able to communicate technical and analytical content with relevant stakeholders.
+Excellent analytical and problem-solving skills with keen attention to detail.
+Desire to stay up to date with the latest trends, tools, technologies, and industry best practices related to test automation.
+
+============================================================
+PacificKode is a software development and IT services and consulting company that specializes in robotic engineering, software development, cloud computing, mobile application development, IT consulting, application support and manage services. Our team of experienced engineers and consultants work together to create innovative solutions for our clients that meet their unique business needs.
+
+Key Responsibilities
+
+Collaborate with business analysts and product owners to analyze requirements, identify gaps, and clarify acceptance criteria.
+Design, develop, and maintain comprehensive test plans, test cases, and test scripts.
+Execute various types of testing: functional, integration, regression, system, and non-functional.
+Log, track, and manage defects using tools such as Azure DevOps, ensuring clear reproduction steps and context.
+Coordinate with developers to reproduce, communicate, and retest issues until resolution.
+Required Skills & Qualifications:
+
+Bachelor's, Master's degree or BE in Computer Science or MCA.
+Verify defect fixes and ensure they do not introduce regressions. Maintain and update test documentation, including test data sheets and traceability matrices.
+Performs tests at all levels of testing and shares the updates with stakeholders.
+Work closely with the QA Lead to understand feature implementations, discuss testing challenges, and propose improvements.
+Involved and helped other QA team members in their testing activities.
+Prepares a daily/weekly progress report for his manager.
+Key skill - Manual Testing, SQL, Strong Analytical and Problem-Solving skills, Leadership skills, Communication and interpersonal skills.
+2-4 years hands-on experience in Manual Testing and API Testing.
+Should have hands on experience on functional testing/Black box testing.
+Excellent knowledge on QA methodologies and automation tools.
+Should have hands on experience on writing test cases, test scenarios, test plans & test data. generation.
+Knowledge/experience in of automation testing, performance testing and experience in Azure test plan will be an added advantage.
+Excellent communication skills, being able to explain complex issues in a way that makes sense to everyone on the team.
+Communicate effectively with team members across all levels. (technical and non-technical)
+
+============================================================
+We are looking for a QA Engineer to join our team and ensure the quality and reliability of our software products. If you’re detail-oriented, organized, and a good communicator, we’d love to hear from you.
+
+Key Responsibilities 
+
+Create and execute test cases based on requirements
+Perform functional and regression testing
+Identify, document, and track bugs clearly
+Validate features before release to ensure quality
+Work closely with developers to resolve issues
+Provide end-of-day progress reports to the Project Manager
+Share updates during daily morning stand-up meetings
+Required Skills & Qualifications
+
+Good English communication skills (spoken & written)
+Strong attention to detail and organization
+Basic understanding of QA / software testing processes
+Ability to clearly document issues and test scenarios
+Responsible, proactive, and self-managed
+Comfortable working in a hybrid environment
+Preferred (Not Mandatory)
+
+Exposure to Business Analysis tasks
+Familiarity with Jira, ClickUp, Trello, or similar tools
+Understanding of Agile / Scrum
+
+============================================================
+
+QA Engineer - Manual + Automation
+
+What You'll Do
+
+Design detailed test cases & test plans
+Perform thorough manual testing
+Automate test scenarios using Selenium or Playwright
+Work closely with developers in Agile teams
+Must Have
+
+2-4 years QA experience
+Strong QA concepts (STLC, SDLC, regression, smoke, UAT)
+Manual testing expertise
+Automation experience (Selenium or Playwright)
+API testing knowledge (Postman)
+SQL basics
+Bonus
+
+Experience testing Al-driven features
+Performance testing exposure
+
+
+============================================================
+
+
+We are looking for a Quality Assurance Engineer with 2–3 years of experience to join our team and help ensure the quality and reliability of our software products.
+
+Key Responsibilities
+
+Review system requirements and design test cases
+Perform functional, system, integration, and regression testing
+Identify and track defects with the development team
+Participate in Agile processes and collaborate with cross-functional teams
+Support QA documentation, testing strategies, and security compliance initiatives
+Requirements
+
+Degree or qualification in Information Technology or related field
+Experience in Software Quality Assurance
+Familiarity with Agile frameworks and regression testing
+Strong analytical, communication, and problem-solving skills
+ISTQB certification or exposure to test automation tools will be an advantage
+
+============================================================
+
+Are you someone who notices the little details others miss? Do you enjoy making sure products work perfectly before they reach users? If yes, you might be the perfect fit for our QA team! 
+
+At DigitalBee Labs, we believe quality is not just a step in the process, it’s a mindset. As a Quality Assurance Engineer, you will play an important role in ensuring our products are reliable, stable, and ready for release.
+
+Key Responsibilities
+
+Review business requirements and user stories to understand testing needs
+Create and maintain clear test cases and QA documentation
+Perform functional, regression, integration, and exploratory testing
+Identify, document, and track defects using bug tracking tools
+Collaborate with developers to investigate and resolve issues
+Support API testing, database validation, and test automation efforts
+Participate in Agile activities such as sprint planning and daily stand-ups
+Contribute to release validation and CI/CD quality checks
+Why Join Digital Bee Labs?
+
+Friendly and collaborative team culture
+Opportunities to learn modern QA tools and practices
+Exposure to real-world projects and technologies
+A supportive environment where your ideas matter
+
+============================================================
+Predictiv AI Inc., a publicly listed technology company on the Canadian Securities Exchange (CSE), is looking for a Quality Engineer to join our growing team. We build AI-powered platforms for fleet management, logistics optimization, and intelligent operational systems.
+
+Key Responsibilities
+
+Define test strategies and develop test cases
+Build and maintain automation frameworks
+Perform React UI testing using Selenium
+Conduct API testing with Rest Assured
+Execute performance testing using JMeter
+Perform regression analysis using Jaeger distributed tracing
+Support CI/CD testing environments
+Requirements
+
+Degree in Computer Science / IT or related field
+Experience in QA automation and Agile testing
+Knowledge of Selenium, Playwright, JMeter, Rest Assured
+Understanding of AI/ML systems is an advantage
+
+============================================================
+We are looking for a detail-oriented and analytical Software QA Engineer to ensure the quality, reliability, and performance of our software products. You will work closely with developers, product managers, and DevOps teams to design test strategies, identify defects, and improve overall product quality.
+
+This role is ideal for someone who is passionate about delivering high-quality software and enjoys breaking systems (responsibly) to make them better.
+
+Key Responsibilities
+
+Design, develop, and execute test plans, test cases, and test scripts
+Perform manual and automated testing (functional, regression, integration, performance)
+Identify, document, and track bugs using issue tracking tools
+Work closely with developers to reproduce and resolve defects
+Participate in sprint planning, daily standups, and release cycles
+Conduct API testing using tools like Postman or similar
+Perform database validation testing (SQL queries)
+Ensure test coverage for new features and system enhancements
+Support CI/CD pipeline testing and release validation
+Maintain QA documentation and test reports
+Required Skills & Qualifications
+
+Bachelor’s degree in Computer Science / Software Engineering or related field
+1–3 years of experience in Software Testing / QA (Fresh graduates with strong fundamentals may apply)
+Strong understanding of:
+SDLC & STLC
+Manual testing techniques
+Regression & Integration testing
+Experience with:
+API testing (Postman / REST)
+SQL queries
+Git
+Agile/Scrum methodology
+Basic knowledge of automation tools (Selenium / Cypress / Playwright) is a plus
+Familiarity with CI/CD pipelines is an advantage
+Strong analytical and problem-solving skills
+Excellent written and verbal communication skills
+Nice to Have
+
+Experience testing Spring Boot / Java backend applications
+Experience testing React / Angular frontend applications
+Knowledge of Docker and containerized environments
+Experience with performance testing tools (JMeter, k6)
+What We Offer
+
+Competitive salary package
+Opportunity to work on scalable microservices architecture
+Career growth and learning opportunities
+Supportive and collaborative team culture
+Exposure to production-grade DevOps practices
+
+============================================================
+You will be responsible for manual testing of web applications, API validation, and ensuring that core business workflows function correctly before release. This role involves working on complex, real-world systems. You must be comfortable handling responsibility and continuous learning.
+
+Key Responsibilities
+
+Perform manual testing of web applications (Desktop & Mobile view)
+Write clear and structured test cases
+Test API endpoints using Postman
+Validate authentication and role-based access
+Test registration and payment flows
+Perform negative and edge case testing
+Report bugs clearly with reproduction steps
+Re-test and verify bug fixes
+Participate in regression testing before releases
+Required Skills
+
+Minimum 6 months experience in Software Testing
+Basic understanding of SDLC and STLC
+Experience with:
+
+Manual testing
+Writing test cases
+Postman (API testing)
+Understanding of:
+
+HTTP status codes
+Authentication (JWT/session-based login)
+Form validation testing
+Role-based access testing
+Basic knowledge of databases (MongoDB read queries is a plus)
+Good communication skills
+What We Expect
+
+Attention to detail
+Logical thinking
+Willingness to learn quickly
+Ability to work independently
+Strong sense of responsibility
+
+============================================================
+
+We are seeking a dedicated and detail-oriented QA Engineer to join our dynamic team. The ideal candidate will have a strong background in software testing and a passion for delivering high-quality products. You will play a crucial role in ensuring that our applications meet the highest standards of quality and performance. As a QA Engineer, you will collaborate closely with development teams to identify, document, and resolve issues, ultimately enhancing the user experience.
+
+Responsibilities
+
+Design and implement test plans, test cases, and test scripts for various applications and systems.
+Conduct functional, regression, integration, and performance testing to ensure software quality.
+Identify, document, and track defects using issue tracking tools; collaborate with development teams to prioritize and resolve issues.
+Participate in code reviews and provide feedback on development practices to ensure quality is built into the product from the outset.
+Automate testing processes to improve efficiency and effectiveness of testing.
+Assist in the development and maintenance of testing documentation and reports.
+Stay current with industry trends and best practices in software testing and quality assurance.
+Requirements
+
+Proven experience as a QA Engineer or in a similar role within software development.
+Strong understanding of software development life cycle (SDLC) and testing methodologies.
+Proficiency in writing clear, concise, and comprehensive test plans and test cases.
+Experience with automated testing tools and frameworks (e.g., Selenium, JUnit, TestNG).
+Familiarity with programming languages such as Java, Python, or JavaScript is a plus.
+Excellent analytical and problem-solving skills with a keen attention to detail.
+Strong communication skills, both verbal and written, with the ability to work collaboratively in a team environment.
+Qualifications
+
+Bachelor’s degree in Computer Science, Engineering, or a related field.
+2+ years of experience in software quality assurance or testing.
+Experience with performance and security testing is highly desirable.
+Relevant certifications (e.g., ISTQB, CSTE) are a plus.
+Join us in our mission to deliver exceptional software solutions. If you are passionate about quality and eager to make an impact, we encourage you to apply for this exciting opportunity!
+
+============================================================
+
+Variosystems is a global electronics services platform offering end-to-end solutions from product design to complete electronic assemblies and devices, including engineering services such as obsolescence risk management, design-to-cost, and design-for-testing services. We provide best-in-class customer support by understanding our customer's requirements and bringing their ideas to life with our globally harmonized manufacturing capabilities in printed circuit board assemblies, wire harness assemblies, and box-build assemblies.
+
+As a Quality Assurance Engineer, you are responsible to manage the assigned customer portfolio strategically and operationally focusing on quality and associated risks. They create risk-based quality plans for new products by defining inspection criteria & method and transfer the knowledge to QC. They regularly track performance, lead Customer assessments and in the event of Customer Complaints lead Corrective and Preventive activities within cross functional teams.
+
+Your tasks and responsibilities
+• Customer requirements & compliance: As a member of the Customer Organization, understands and captures Customer requirements through the supply chain and overall life-cycle management.
+• Quality planning & Risk management: Active participant in NPI projects (prototype, Zero series and Series). Understands Customer requirements, develops and deploys Quality plans to achieve them, while assuring risk mitigations are put in place.
+• Customer performance and improvement: Monitors product quality and Customer performance, creating weekly/monthly data reports, deep diving into the root causes that trigger the CAPA process.
+• Customer complaints: Initiates and coordinates corrective activities in the event of a Customer claim. Initiates and guides problem solving or corrective action reports (8D) / follows up on corrective and preventive actions together with cross functional teams.
+• Customer assessment: Leads and supports Customer assessment and audits, in collaboration with cross functional teams. Follows up internal corrective and preventive activities.
+
+Required qualifications, knowledge, skills, and abilities
+• Degree or Diploma in engineering subjects.
+• More than 3 years of experience in manufacturing quality sector. Experience in Electronic Assembly or Wire Harness manufacturing industry considered favorable.
+• Awareness in ISO9001, 14001, 13485, 45001 and IATF16949.
+• Knowledge on Total Quality Management (TQM), Six Sigma methodology and Problem-Solving Techniques.
+• Experience in generation of First Article Reports, PPAP reports, Control Plans and Risk Assessments Reports.
+• Should possess the art of people handling/ decision making/ data analyzing / problem solving/ controlling and coordinating.
+• Excellent verbal and written communication skills in English and the ability to interact professionally with a diverse group of partners, senior managers, and subject matter experts.
+
+What we offer
+• An attractive remuneration package with excellent company health benefits and flexible work time model for bridging days.
+• Generous range of training and development opportunities in a varied, challenging role within an internationally active and dynamic electronics organization.
+• Collaborative work culture with a passionate and collegial team.
+
+============================================================
+We at LAUGFS Holdings Limited are one of Sri Lanka's largest diversified business conglomerates and a trusted, well-loved home-grown enterprise. Founded in 1995, LAUGFS has grown to encompass 20 industries locally and internationally, establishing a strong presence as a leader and pioneer in the power and energy, retail, industrial, services, leisure, and logistics sectors. With a workforce of over 3,000 employees and an annual turnover exceeding USD 300 million, LAUGFS continues to expand and empower the nation as a trusted Sri Lankan brand.
+
+Key Responsibilities
+• Develop, review, and execute comprehensive test strategies, test plans, and test cases aligned with business and technical requirements, taking ownership of QA strategy across multiple projects or modules.
+• Perform functional, regression, integration, and system testing (manual and automated) to ensure software reliability and performance, with responsibility for defining test automation priorities and coverage metrics.
+• Identify, document, prioritize, and track defects while proactively assessing quality risks and recommending mitigation strategies, including risk-based test planning for critical business areas.
+• Drive continuous improvement of QA processes, standards, and automation frameworks to enhance efficiency and product quality, leading process improvement initiatives across the QA team.
+• Work closely with developers, business analysts, and stakeholders to clarify requirements, provide technical guidance, and influence design decisions from a quality perspective.
+• Mentor junior QA team members, conduct knowledge sharing sessions, and build QA capability across the organization.
+• Promote a culture of quality across the organization, setting QA best practices and driving adoption of metrics-driven quality improvements.
+
+Candidate Profile
+• Degree or professional qualification in IT/Software Engineering or related field
+• Hands-on experience or knowledge in test automation
+• Familiarity with QA methodologies, tools, and best practices
+• Strong analytical and problem-solving skills
+• Detail-oriented with strong organizational skills
+• Ability to handle pressure, conflicts, and urgent issues professionally
+• Excellent communication skills (verbal & written)
+• Self-motivated with a strong work ethic and willingness to learn
+
+============================================================
+we are a technological powerhouse, delivering a full stack of exclusive software development services to empower your transformation and leverage your success in the digital arena. We house a dynamic team of strategists, designers, developers, technologists, innovators and are the best partner to help kickstart your journey through technology.
+
+The ideal candidate will have the below qualities,
+• Self-taught/HND/Certifications/Fresh Graduate/Bachelor’s degree + tactical experience or related background preferred
+• Ability to estimate, prioritize, plan, and coordinate testing activities.
+• Ability to test and report software bugs and gaps in specifications.
+• Ability to create detailed, comprehensive, and well-structured test plans and test cases.
+• Ability to communicate and collaborate with other team members.
+• Review functional requirements to assess their impact on the software applications and formulate test cases from them.
+• Familiarity or experience with Agile and SCRUM methodologies.
+• Experience with automated testing tools is a plus.
+• Provide release support during production software deployment.
+• Proficient in English.
+
+Please note, at huex we believe in attitude over skills because skills can always be teachable and we provide opportunities to those who have a passion for technology!
+
+
+============================================================
+TransMedia is a Canadian innovation hub behind global utility platforms like FreeConvert.com, ImageResizer.com and PhotoJoiner.com. We are looking for a QA Engineer with an automation-first mindset. You aren't just a "tester"; you are the last line of defense for products used by millions.
+
+
+What We Offer
+
+Technical Growth: Implement automated preventative actions using modern tools.
+Forex-Linked Stability: Competitive USD & LKR split salary + two yearly Festival Bonuses (50% of salary each).
+Hybrid Flexibility: Start 100% Remote, with a planned transition to our hybrid hub in Sri Lanka.
+Culture: A growth-focused workplace where the best ideas win over bureaucracy.
+Impact: Ensure the accuracy of software before it hits a global production environment.
+
+
+Who Fits This Position
+
+Experience: 3+ years in QA (Agile projects) + 1+ year of hands-on Automation (Cypress/Playwright/Selenium).
+The Toolkit: Mastery of REST API testing (Postman/Jest), Chrome DevTools, and Log monitoring (Graylog/Sentry).
+Data Skills: Experience with NoSQL Database testing (MongoDB/DynamoDB).
+
+
+What You’ll Do
+
+Write and maintain a thorough manual and automated test cases.
+Identify tests that can be automated to increase team velocity.
+Collaborate within the agile team to provide input for the product backlog and sprint planning.
+
+============================================================
+Join our customer's team as an expert Quality Assurance Engineer and play a pivotal role in ensuring the highest quality standards for web and mobile applications, with a special focus on messaging platforms such as LINE. You will design, execute, and document comprehensive testing strategies to validate product functionality and deliver exceptional user experiences.
+
+
+Key Responsibilities:
+
+Create and maintain detailed test plans, test cases, and test documentation aligned with project requirements.
+Perform functional, regression, user acceptance, exploratory, and cross-browser testing for web and mobile applications, including the LINE app.
+Conduct thorough API testing and collaborate with developers to validate integrations.
+Identify, log, and track defects using industry-standard defect tracking tools, ensuring clear and actionable bug reports.
+Participate in Agile ceremonies, contribute to sprint planning, and ensure quality deliverables throughout the SDLC and STLC.
+Work closely with cross-functional teams to ensure requirements are understood and met, leveraging strong written and verbal communication skills.
+Champion quality assurance best practices to drive continuous improvement across testing processes within the customer's team.
+
+
+Required Skills and Qualifications:
+
+Minimum 4 years of hands-on experience in manual testing of web or mobile applications.
+Proficiency in designing and executing test cases, test plans, and test documentation.
+Strong experience in regression, functional, exploratory, and user acceptance testing.
+Demonstrated ability in bug reporting, defect tracking, and cross-browser testing.
+Solid understanding of SDLC, STLC, and Agile methodologies.
+Hands-on experience with API testing and mobile app testing.
+Exceptional attention to detail and excellent written and verbal communication skills.
+
+
+Preferred Qualifications:
+
+Experience testing messaging platforms, ideally the LINE app.
+Background in collaborating within Agile, cross-functional teams.
+Familiarity with industry-leading test management and defect tracking tools.

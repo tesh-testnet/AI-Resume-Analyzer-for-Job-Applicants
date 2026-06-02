@@ -1,0 +1,380 @@
+SENIOR-LEVEL JOB DESCRIPTIONS
+============================================================ 
+The Lead Data Scientist will work as a core member of advanced analytics project delivery teams within the analytics Center of Excellence. This person will be responsible for conducting complex statistical analyses using large datasets. They will be involved in building and re-iterating of advanced statistical and machine learning models. They will also work closely with an integrated analytics team including data engineers, translators and senior data scientists. They will be expected to familiarize themselves with a typical analytics project life cycle.
+
+Key responsibilities
+• Conducts advanced statistical analysis to provide actionable insights, identify trends, and measure performance.
+• Can build models using supervised/unsupervised learning techniques of varying complexity.
+• Understanding of data engineering techniques and concepts like pilot testing and execution is a good to have.
+• Collaborate with senior data scientists in building and delivering analytics models.
+• Communicate results to technical audience within an integrated analytics team.
+• Contribute to knowledge building and sharing by researching best practices, documenting solutions and continuously iterating on new ways to solve problems.
+
+Desired Skills / Competencies
+
+Education + Technical skills / experience
+• Bachelor's degree in Computer Science, Statistics, Math, Operations Research, Economics or a related field.
+• Theoretical knowledge of advanced analytics techniques.
+• At least 6 years of relevant analytics experience.
+• Experience in machine learning techniques.
+• Hands on experience in solving analytics problems in at least 1 industry.
+
+Managerial Skills
+• Ability to work well in agile environments in diverse teams with multiple stakeholders.
+• Strong drive to learn and good organizational skills.
+• Ability to effectively communicate complex analytical and technical content.
+
+Mindset & Behaviour
+• High energy and passionate individual who can work closely with other team members.
+• Excited about trying new solutions outside standard methodologies.
+• Willing to adopt an iterative approach; experimental mindset to drive innovation.
+
+Want to learn more about Octave? Check out https://www.keells.com/octave/
+============================================================
+
+Responsibilities:
+
+Your technical responsibilities:
+• Contribute to the design and implementation of state-of-the-art AI solutions.
+• Assist in the development and implementation of AI models and systems, leveraging techniques such as Language Models (LLMs) and generative AI.
+• Collaborate with stakeholders to identify business opportunities and define AI project goals.
+• Stay updated with the latest advancements in generative AI techniques, such as LLMs, and evaluate their potential applications in solving enterprise challenges.
+• Utilize generative AI techniques, such as LLMs, to develop innovative solutions for enterprise industry use cases.
+• Integrate with relevant APIs and libraries, such as Azure Open AI GPT models and Hugging Face Transformers, to leverage pre-trained models and enhance generative AI capabilities.
+• Implement and optimize end-to-end pipelines for generative AI projects, ensuring seamless data processing and model deployment.
+• Utilize vector databases, such as Redis, and NoSQL databases to efficiently handle large-scale generative AI datasets and outputs.
+• Implement similarity search algorithms and techniques to enable efficient and accurate retrieval of relevant information from generative AI outputs.
+• Collaborate with domain experts, stakeholders, and clients to understand specific business requirements and tailor generative AI solutions accordingly.
+• Conduct research and evaluation of advanced AI techniques, including transfer learning, domain adaptation, and model compression, to enhance performance and efficiency.
+• Establish evaluation metrics and methodologies to assess the quality, coherence, and relevance of generative AI outputs for enterprise industry use cases.
+• Ensure compliance with data privacy, security, and ethical considerations in AI applications.
+• Leverage data engineering skills to curate, clean, and preprocess large-scale datasets for generative AI applications.
+
+Requirements:
+• Bachelor's or Master's degree in Computer Science, Engineering, or a related field. A Ph.D. is a plus.
+• Minimum 3-7 years of experience in Data Science and Machine Learning. In-depth knowledge of machine learning, deep learning, and generative AI techniques.
+• Proficiency in programming languages such as Python, R, and frameworks like TensorFlow or PyTorch.
+• Strong understanding of NLP techniques and frameworks such as BERT, GPT, or Transformer models.
+• Familiarity with computer vision techniques for image recognition, object detection, or image generation.
+• Experience with cloud platforms such as Azure, AWS, or GCP and deploying AI solutions in a cloud environment.
+• Expertise in data engineering, including data curation, cleaning, and preprocessing.
+• Knowledge of trusted AI practices, ensuring fairness, transparency, and accountability in AI models and systems.
+• Strong collaboration with software engineering and operations teams to ensure seamless integration and deployment of AI models.
+• Excellent problem-solving and analytical skills, with the ability to translate business requirements into technical solutions.
+• Strong communication and interpersonal skills, with the ability to collaborate effectively with stakeholders at various levels.
+• Understanding of data privacy, security, and ethical considerations in AI applications.
+• Track record of driving innovation and staying updated with the latest AI research and advancements.
+
+Good to Have Skills:
+• Apply trusted AI practices to ensure fairness, transparency, and accountability in AI models and systems.
+• Utilize optimization tools and techniques, including MIP (Mixed Integer Programming).
+• Drive DevOps and MLOps practices, covering continuous integration, deployment, and monitoring of AI models.
+• Implement CI/CD pipelines for streamlined model deployment and scaling processes.
+• Utilize tools such as Docker, Kubernetes, and Git to build and manage AI pipelines.
+• Apply infrastructure as code (IaC) principles, employing tools like Terraform or CloudFormation.
+• Implement monitoring and logging tools to ensure AI model performance and reliability.
+• Collaborate seamlessly with software engineering and operations teams for efficient AI model integration and deployment.
+• Familiarity with DevOps and MLOps practices, including continuous integration, deployment, and monitoring of AI models.
+
+============================================================
+
+Role Purpose
+
+We are seeking an experienced Senior Marketing Data Scientist to join our offshore Marketing Effectiveness team based in Sri Lanka. This role will lead the delivery of data-driven insights to enhance campaign performance, customer segmentation, and ROI tracking, supporting marketing strategy and business growth., and a passion for driving results through data-driven insights.
+
+Key Responsibilities
+
+• Build and manage customer segmentation models to support targeted marketing and product strategies.
+
+• Develop predictive models to forecast customer churn, conversion, and lifetime value.
+
+• Conduct attribution modelling to understand marketing channel effectiveness.
+
+• Design dashboards and data visualisations for marketing KPIs and ROI reporting.
+
+• Support A/B testing, uplift modelling, and campaign measurement frameworks.
+
+• Collaborate with stakeholders across Marketing, Product, and Data teams in Australia.
+
+• Contribute to the evolution of AI-driven personalisation and lead scoring models.
+
+• Identify opportunities to optimise media budget allocation through data.
+
+Qualifications and Experience
+
+• Bachelor’s degree in statistics, mathematics, data science, computer science, or a related field.
+
+• 5–10 years of experience in marketing analytics or data science, ideally for telco, B2C, or subscription-based businesses.
+
+• Strong command of SQL, Python or R, and BI tools (e.g., Power BI, Tableau).
+
+• Familiarity with Google Analytics, Adobe Journey Optimiser / Target or /CDP, or similar marketing platforms.
+
+• Experience with predictive modelling, clustering, attribution models, and funnel analysis.
+
+• Comfortable working in cross-border teams with clear communication and project ownership.
+
+• Exposure to AI/ML, marketing automation, or personalisation technologies is a plus.
+
+At Superloop, we’re dedicated to creating a supportive and inclusive workplace where everyone feels safe, valued, and empowered to be who they are. We actively embrace diversity and celebrate the unique backgrounds, perspectives, and experiences of our team members. As an equal opportunity employer, we welcome applicants from all backgrounds to apply, regardless of gender, age, faith, ethnicity, nationality, sexuality, neurodiversity, or physical ability. We’re committed to ensuring that our hiring processes are accessible and inclusive for everyone interested in joining Superloop.
+
+============================================================
+
+Performance Testing Leadership
+
+Lead and own end-to-end performance testing for mobile and web applications, from requirements analysis through final sign-off
+Define performance test strategies aligned with business and customer experience expectations
+Act as the primary QA performance point-of-contact for stakeholders, including engineering, architecture, and product teams
+
+
+Customer Experience–Focused Testing
+
+Design and execute tests focused on customer experience KPIs, including Page load and response times, Rendering performance, Throughput and concurrency and Bandwidth simulation
+Translate business SLAs and UX expectations into measurable performance benchmarks
+
+
+Tooling & Execution
+
+Use LoadRunner (mandatory) or equivalent enterprise-grade performance testing tools to conduct web and mobile performance tests
+Perform realistic browser-based and mobile performance testing (not API-only or protocol-only testing)
+Create and maintain performance test scripts, scenarios, and workloads that reflect real user behavior
+
+
+Analysis & Optimization
+
+Conduct detailed bottleneck analysis
+Analyze test results and provide clear, actionable insights to development and infrastructure teams
+Work closely with developers to resolve performance issues, plan fixes, and lead retesting and validation cycles
+
+
+Planning & Data Preparation
+
+Plan test schedules, environments, and entry/exit criteria for performance testing cycles
+Prepare and manage test data required for realistic volume and workload simulations
+Ensure performance testing is embedded into the overall QA and release lifecycle
+
+
+Governance & Continuous Improvement
+
+Define and enforce performance quality standards and best practices
+Mentor QA engineers on performance testing approaches, tools, and result interpretation
+Continuously refine performance testing frameworks and methodologies
+
+
+Person Specifications
+
+8+ years of experience in QA, with strong specialization in performance testing
+Proven hands-on expertise in LoadRunner (or equivalent enterprise-grade tool)
+Deep experience in web and mobile performance testing, focusing on end-user experience rather than API-only testing
+Strong understanding of HTTP/HTTPS, browser rendering, and client-side performance and Network behavior, bandwidth simulation, and latency impact
+Demonstrated experience in performance analysis, tuning, retesting, and closure
+Strong ability to interpret performance results and identify root causes
+Experience working collaboratively with development, DevOps, and infrastructure teams to resolve issues
+Ability to convert non-technical business expectations into performance test metrics
+Proven experience leading performance test initiatives independently
+Strong communication skills to present findings to technical and non-technical stakeholders
+Able to influence quality outcomes and push performance improvements across teams
+
+
+Good to Have
+
+Experience in Banking applications or Fintech domain
+
+
+============================================================
+Key Result Responsibilities
+• Data Exploration and Preprocessing: Conduct exploratory data analysis to understand data characteristics and identify patterns.
+• Collaborate with data engineers to preprocess and clean data for machine learning applications.
+• Feature Engineering:Contribute to the development of feature engineering pipelines to extract relevant information from raw data.
+• Work with data scientists to identify and create features that enhance model performance.
+• Model Development and Deployment:Implement machine learning models, including training, validation, and testing phases.
+• Collaborate with software developers to deploy models into production environments.
+• Data Pipeline Development:Design and build robust data pipelines for efficient extraction, transformation, and loading (ETL) processes.
+• Ensure scalability and reliability of data pipelines to handle large volumes of data.
+• Programming and Software Development:Utilize programming languages such as Python or Java for data science and engineering tasks.
+• Collaborate with software engineering teams to integrate data science solutions into larger software systems.
+• Optimization and Performance Tuning:Optimize algorithms and models for performance, scalability, and efficiency.
+• Implement continuous monitoring and improvement processes for deployed models.
+• Collaboration:Work closely with cross-functional teams, including data scientists, analysts, and engineers, to understand business requirements and develop impactful solutions.
+• Participate in agile development processes and contribute to sprint planning and reviews.
+• Documentation:Document code, data pipelines, and model implementations for reproducibility and knowledge sharing.
+• Maintain clear documentation on system architecture and design.
+
+Key Result Responsibilities-Continued
+
+Qualifications (Academic, training, languages)
+
+Work Experience
+• Bachelor's or Master's degree in a relevant field such as Computer Science, Data Science, or a related discipline.
+• Strong programming skills in languages such as Python, Java, or similar.
+• Solid understanding of machine learning concepts, algorithms, and statistical modeling.
+• Experience with data processing frameworks (e.g., Apache Spark) and machine learning libraries (e.g., scikit-learn, TensorFlow, PyTorch).
+• Proficiency in designing and optimizing data pipelines.
+• Familiarity with version control systems (e.g., Git) and collaborative development practices.
+• Excellent problem-solving and analytical skills.
+• Effective communication skills for both technical and non-technical audiences.
+============================================================
+
+Strong programming skills in Python (including best practices for clean, maintainable code); familiarity with web frameworks (e.g., Flask, FastAPI, or Django).
+
+Proficiency in containerisation and orchestration tools.
+
+Familiarity with LLM fine-tuning, prompt engineering, agentic frameworks and solution deployment using modern frameworks (e.g., LangGraph, LangChain).
+
+Expertise in data processing and transformation using Pandas, NumPy, and SQL (ideally PySpark).
+
+Ability to translate business problems into scalable, production-grade solutions.
+
+Excellent communication and collaboration skills, with the ability to work effectively in an off-shore setting and maintain strong relationships with UK-based teams.
+
+Ability to work in a fast-paced environment and manage multiple projects simultaneously.
+
+Knowledge & Experience
+• Bachelor’s or Master’s degree in Computer Science, Data Science, Statistics, or a related field.
+• 3+ years of experience in software engineering, data science, machine learning, or AI engineering.
+• Hands-on experience in developing and deploying GenAI/LLM applications in production environments, including containerisation and CI/CD pipelines.
+• Exposure to cloud platforms (ideally Azure and Databricks).
+• Bonus: Experience working with large-scale datasets and distributed computing (Spark or similar).
+
+============================================================
+Key responsibilities
+• Has expertise in implementing complex statistical analyses for data processing, exploration, model building and implementation
+• Lead teams of 2-3 associate data scientists in the use case building and delivery process
+• Is able to communicate complex technical concepts to both technical and non technical audience
+• Plays a key role in driving ideation around the modeling process and developing models. Is able to conceptualize and drive re-iteration and fine tuning of models
+• Contribute to knowledge building and sharing by researching best practices, documenting solutions and continuously iterating on new ways to solve problems. Mentors junior team members to do the same
+
+Desired Skills / Competencies
+
+Education + Technical skills / experience
+• Master’s degree in Computer Science, Statistics, Math, Operations Research, Economics or a related field
+• Advanced level programming skills in at least 1 coding language (R/Python/Scala)
+• Practical experience of developing advanced statistical and machine learning models
+• At least 2 years of relevant analytics experience
+• Experience in using large database systems preferred
+• Has developed niche expertise in at least one functional domain
+
+Managerial Skills
+• Ability to work well in agile environments in diverse teams with multiple stakeholders
+• Experience of leading small teams
+• Able to problem solve complex problems and break them down into simpler parts
+• Ability to effectively communicate complex analytical and technical content
+
+Mindset & Behavior
+• High energy and passionate individual who can work closely with other team members
+• Strong entrepreneurial drive to test new out of the box techniques
+• Able to prioritize workstreams and adopt an agile approach
+• Willing to adopt an iterative approach; experimental mindset to drive innovation
+============================================================
+The Role
+• Strategic Impact: Drive analytics initiatives that directly fuel revenue growth, cost optimization, and EBITDA targets.
+• Lifecycle Leadership: Oversee the full AI solution lifecycle—from planning and architecture to deployment and long-term maintenance.
+• Stakeholder Management: Translate complex analytical insights into actionable intelligence for senior leadership.
+• Team Mentorship: Lead and develop a team of Data Analysts and Scientists, ensuring high-quality, timely delivery of models.
+• Operational Excellence: Manage resource onboarding, team capabilities, and the design of scalable AI/ML architectures.
+• Technical Execution: Build robust statistical and machine learning models (Supervised/Unsupervised) using R or Python for both POCs and production.
+• Integration & Scalability: Collaborate with app dev teams to integrate models into downstream systems and ensure performance at scale.
+• Optimization: Continuously monitor and refine model performance through active feedback loops.
+• Innovation & R&D: Conduct research into emerging technologies and lead R&D initiatives to keep the organization at the cutting edge.
+
+The Person
+• Educational Background: Bachelor’s Degree in Engineering, IT, Computer Science, Statistics, or a related field.
+• Core Expertise: Deep understanding of machine learning algorithms and hands-on proficiency in R/Python.
+• Data Fluency: Strong skills in data visualization, communication, and data engineering within Big Data or Cloud environments.
+• Experience: A minimum of 4+ years in Data Science.
+• Certifications: * Minimum score of 70% on the Data Scientist Entry Exam (for external candidates).
+• AFF Data Science (Basic) certification is a distinct advantage.
+• Mindset: A continuous learner with a passion for innovation and a drive for excellence
+
+============================================================
+Founded in 2014 and listed on the ASX since 2015, our purpose is to enable better internet for Australian homes and businesses, by enabling challenger retail brands to take a larger share of the market, leveraging our Infrastructure-on-Demand platform. Our company employs more than 900 team members and supports over 400,000 customers. With carrier-grade, metro fibre, plus fixed wireless networks across Australia, we provide high performance connectivity services for residential customers, small and medium-sized businesses, and some of Australia’s largest corporates. Since our very beginning, we’ve invested in our own network, recruited a stellar team, and focused on creating reliable and scalable products to ensure we genuinely are ‘super from the ground up’. We are Australia’s modern challenger telco and internet service provider that’s unleashing the unlimited possibilities of the internet. We are all about the experience - we're not just a utility - with a promise to be super from the ground up. We’re more tech than telco, and we deliver quality service across our consumer, business, and wholesale units.
+
+Business Unit Overview
+The Strategy and Transformation team develop strategies and implement tools, systems, and processes to drive long-lasting business value and performance. There are five key pillars to the Strategy and Transformation team including: data and analytics; strategy; transformation; PMO; and mergers and acquisitions. If you have a passion for making significant change and solving complex challenges in the telecommunications industry, come join our team.
+
+Role Purpose
+The Data and Analytics team is a fast-growing team and is currently seeking an experienced Data Scientist to join our dynamic team. In this role, you will play a pivotal role in leveraging your expertise to derive valuable insights from our data ecosystem. This role offers an exciting opportunity to contribute to the growth and success of our Data and Analytics team by applying your expertise in data science and analytics. If you are passionate about leveraging data to drive business decisions and thrive in a collaborative, innovative environment, we invite you to join our team.
+
+Accountabilities
+Take charge of developing the data science roadmap, build and productionise new models for business consumption as well as supporting the business with automation and insights. Act as a liaison between data analysts and system developers, fostering collaboration with cross-functional teams to comprehend data requirements and design effective data solutions.
+Develop and implement cutting-edge data science models to extract meaningful patterns and trends from complex datasets. Utilise machine learning techniques to create predictive models (e.g. churn propensity) and contribute to the development of innovative analytical solutions.
+Develop and implement automation solution using python and AWS services, including the establishment and execution of automation data flows through APIs.
+Work closely with the data engineering team to build and maintain data pipelines, ETL processes, and data ingestion workflows. Ensure the accuracy, completeness, and reliability of data by performing profiling, cleansing, and transformation processes.
+Monitor and enhance the performance of our data ecosystem, promptly addressing any issues or bottlenecks that may arise. Uphold data security, compliance, and governance standards, including encryption, access controls, and audit trails.
+Collaborate with data analysts to provide them with clean, well-structured data to support their analytical endeavours.
+Keep up-to-date with the latest advancements in data science and analytics, incorporating emerging technologies and best practices to continually improve our data science processes.
+Key Deliverables
+Conduct data profiling, cleansing, and transformation to ensure data accuracy and reliability.
+Create predictive models using machine learning techniques to support decision-making.
+Optimize and monitor the performance of the data ecosystem, addressing issues promptly.
+Collaborate with data engineers to design and implement scalable data solutions.
+Provide clean and well-structured data to support the analytical needs of data analysts.
+Lead the development of the data science roadmap, execution timeline, and system strategy.
+Act as a conduit between data analysts and system developers, ensuring effective collaboration.
+Stay abreast of advancements in data science and analytics to continuously improve processes.
+Contribute to the growth and success of the Data and Analytics team by applying expertise in data science.
+Qualifications and Experience
+Bachelor’s degree in computer science, software engineering, Information Technology, or a related field (or equivalent work experience).
+Proven experience as a Data Scientist, with a strong focus on machine learning and productionising models on cloud infrastructure.
+Proficiency in AWS services including Redshift, SageMaker, Lambda, S3 and SQS.
+Strong SQL skills for data querying, manipulation, and optimization.
+Proficiency in Python for scripting and automation of data processes and experience with distributed computing frameworks such as Apache Spark/Hadoop (Proficiency in Scala is a plus point).
+General DevOps related knowledge and Knowledge of containerization technologies such as Docker and basic Network Engineering skills. Experience with Kubernetes is a plus.
+Experience working with large volumes of data and complex data models.
+Knowledge of Data Governance strategies, frameworks, and tooling.
+Proficiency with Data orchestration tools such as Apache Airflow, Dagster, Prefect, Luigi, etc.
+Experience with Git and coding in collaborative environments
+Excellent problem-solving skills and attention to detail.
+Strong communication and collaboration skills to work effectively with cross-functional teams.
+Experience with Telecom industry preferred.
+============================================================
+We are looking for experienced Senior Data Scientists for our clients in the Middle East, Europe & North America to work from Sri Lanka.
+
+Salary:  Negotiable
+
+Experience: 7 to 10 years of implementation experience is a must.
+
+Identify valuable data sources and automate collection processes
+
+• Undertake to preprocess of structured and unstructured data
+
+• Analyze large amounts of information to discover trends and patterns
+
+• Build predictive models and machine-learning algorithms
+
+• Combine models through ensemble modeling
+
+• Present information using data visualization techniques
+
+• Propose solutions and strategies to business challenges
+
+• Collaborate with engineering and product development teams
+
+• Proven experience as a Data Scientist or Data Analyst
+
+• Experience in data mining
+
+• Understanding of machine learning and operations research
+
+• Knowledge of R, SQL and Python; familiarity with Scala, Java or C++ is an
+
+asset
+
+Experience using business intelligence tools (e.g. Tableau) and data
+
+frameworks (e.g. Hadoop)
+
+• Analytical mind and business acumen
+
+• Strong math skills (e.g. statistics, algebra)
+
+• Problem-solving aptitude
+
+• Excellent communication and presentation skills
+
+• BSc/BA in Computer Science, Engineering, or relevant field; graduate degree in Data Science or other quantitative field is preferred
+
+Manpower Lanka Solutions (Pvt) Ltd,
+
+Astoria Tower 03, Level 09, #422 R.A De Mel Mawatha, Colombo 03, Sri Lanka.
+============================================================

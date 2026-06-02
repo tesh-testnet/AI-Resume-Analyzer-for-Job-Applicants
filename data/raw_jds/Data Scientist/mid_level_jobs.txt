@@ -1,0 +1,620 @@
+MID-LEVEL / ASSOCIATE JOB DESCRIPTIONS
+============================================================ 
+Are you passionate about shaping innovative solutions with data? Atlas Labs is seeking a Data Scientist to join our team. In this critical role, you will leverage video footage to develop and deploy machine learning algorithms and models for behaviour and movement recognition. Your solutions will be optimized for low-latency performance on edge devices, ensuring real-time processing capabilities that classify and interpret behaviour directly from camera inputs.
+
+🚀 About Atlas Labs:
+
+Atlas Labs is a progressive technology company focused on creating exceptional technology products and services that propel progress and have a positive impact on the world.
+
+At the heart of everything we do is to liaise our culture of passion, commitment and excellence. We're all about cultivating an environment where creativity thrives and excellence is the norm. With a burning passion to achieve greatness, we're committed to going above and beyond to deliver the best possible outcomes for our clients and ourselves.
+
+We are not an ordinary company and we are not looking for people who want just another job. Our team consists of truly driven individuals, working together to achieve the unimaginable.
+
+🔧 Your Role:
+
+Analyze data, unraveling patterns and trends that lead to innovative solutions and untapped opportunities.
+Engage with cross-functional teams to understand business requirements and translate them into data-driven solutions.
+Assess the effectiveness and accuracy of new data sources and gathering techniques.
+Collaborate with different business units, leveraging custom data models and algorithms on diverse datasets.
+Develop ingenious processes and tools to monitor model performance and ensure data accuracy, empowering us to make data-driven decisions with confidence.
+Transform insights into visual presentations and reports, effectively communicating your data discoveries and recommendations to stakeholders.
+Stay updated with the latest advancements in the field of data science.
+🎓 Your Profile:
+
+Bachelor’s degree in Computer Science, Mathematics, Data science or a related field.
+Experience developing advanced statistical and machine learning models.
+Experience in analyzing and interpreting time-series data.
+Proficiency in conducting comprehensive image data processing and analysis.
+Proficiency in data science oriented languages such as Python and R.
+Knowledge of SQL for data querying and manipulation.
+Excellent written and oral English communication skills, with the ability to convey complex concepts to both technical and non-technical audiences.
+Additional Skills:
+
+Experience in analyzing and processing audio datasets.
+Familiarity with Rust would be an advantage.
+💼 Benefits:
+
+In addition to our wonderful team, our great culture, and our magnificent vision, there are a wide range of additional benefits that makes Atlas Labs an amazing place to work! You can receive:
+
+The experience of creating and implementing highly-valuable and innovative technology, while contributing to the long-term growth of a successful tech company
+High-impact working environment with flat hierarchies and short decision-making processes
+Market rate remuneration with a Dollar peg
+State-of-the-art hardware to work with and a modern software infrastructure
+A beautiful office in the heart of Colombo with plenty of flexibility to take care of what matters most!
+🌟 Apply Today:
+
+Don't meet every single requirement? If you're excited about this role but your past experience doesn't align perfectly with every qualification in the job description, we encourage you to apply anyway. You may be just the right candidate for this or other roles.
+
+============================================================
+Key Responsibilities
+Algorithm Development: Design and implement algorithms to optimize large language models (LLMs) and related AI systems.
+Model Optimization: Improve model performance through mathematical optimization, hyperparameter tuning, and efficient computational strategies.
+Data Analysis: Analyze large datasets to extract insights, enhance model training, and guide algorithm design.
+Collaboration: Work closely with ML engineers and software developers to integrate optimized models into production systems.
+Research & Innovation: Stay up-to-date with the latest advances in AI, RAG (Retrieval-Augmented Generation), MCP (Multi-Context Processing), and optimization techniques.
+Validation & Testing: Ensure models are accurate, reliable, and robust across different datasets and use cases.
+Required Qualifications
+Advanced degree in Mathematics, Statistics, Computer Science, or a related field.
+Strong expertise in mathematical optimization, linear algebra, probability, and numerical methods.
+Experience with Python, NumPy, PyTorch, TensorFlow, or similar frameworks.
+Knowledge of LLMs, RAG systems, MCP, and AI model evaluation metrics.
+Ability to write efficient, production-ready algorithms.
+Strong analytical and problem-solving skills with a team-oriented mindset.
+Preferred Skills
+Hands-on experience with distributed training, GPU optimization, or model compression techniques.
+Familiarity with cloud platforms and scalable AI deployment.
+Knowledge of data pipelines, preprocessing, and large-scale data management.
+
+============================================================
+
+We a re one of the fastest-growing companies, a leader in digital transformation, Blockchain, and AI technologies with global clients from the education, healthcare, and manufacturing industries. With aggressive plans to expand into many international markets, we are looking to grow our team!
+
+Responsibilities
+Conduct in-depth descriptive analysis and extract meaningful features to deliver analytical models.
+Design, develop, and validate machine learning models to integrate in healthcare applications.
+Identify and use appropriate analytic tools to execute analysis against business requirements.
+Manage data science projects end-to-end while translating vague problem statements into structured analytical frameworks.
+Evaluate impact and performance of data-driven products.
+Work closely with product teams to integrate data-driven insights.
+Technical Requirements
+2+ Years of proven track record of data modeling is a must have.
+Practical experience of developing advanced statistical and machine learning models.
+Proficiency in Python, SQL, and frameworks like TensorFlow or PyTorch.
+Familiarity with data quality pipelines and ML model validation.
+Ability to effectively communicate complex analytical and technical content.
+Benefits
+Great Remuneration 💰
+Flexible Work Arrangement 🏠
+Performance Bonus 🏦
+Private Health Insurance 🏥
+Exciting Company Events 🥳
+
+============================================================
+As a data scientist (AI/ML Engineer), you will be responsible for developing and deploying machine learning models and AI-driven solutions to support our HR and Facilities teams and systems. You will work closely with cross-functional teams including HR, Facilities, Finance, IT, and business analysts to automate processes, optimize data workflows, and create predictive models that improve reporting, forecasting, and decision-making. Your work will directly contribute to enhancing the scalability, reliability, and accuracy of our HR and Faciliites operations.
+
+Key Responsibilities:
+
+AI/ML Model Development: Design, develop, and deploy AI/ML models to automate HR and Facilities processes, enhance reporting capabilities, and optimize ERP systems.
+
+Automation: Implement intelligent automation solutions to streamline HR-related workflows, such as Talent Acquisition, Learning and Development, Real Estate Management, Workforce Planning and M&A Integration.
+
+Data Integration: Work with data engineers to integrate people and places data from various sources (ERP, CRM, etc.) and ensure seamless flow of data into machine learning models.
+
+Predictive Analytics: Build predictive models for HR planning and forecasting, talent management and acquisition, and trend analysis to assist in strategic decision-making.
+
+Process Optimization: Identify opportunities within the ERP system for process automation and optimization, utilizing AI/ML techniques for improved financial performance.
+
+Collaboration: Collaborate with HR, Facilities, Finance, IT, and business teams to understand business requirements and translate them into technical solutions.
+
+Model Evaluation: Continuously monitor the performance of AI/ML models and refine them for accuracy, efficiency, and scalability.
+
+Documentation & Reporting: Create clear documentation for models, data pipelines, and algorithms, and report on the impact of AI/ML solutions to leadership.
+
+Research & Innovation: Stay up to date with the latest trends in AI/ML technologies and HR automation, bringing innovative ideas to the table for process improvement.
+
+Qualifications
+
+Required Qualifications:
+
+Education:
+• Bachelor’s or Master’s degree in Computer Science, Data Science, Engineering, or related field.
+
+Experience:
+• 3+ years of experience in AI/ML, with at least 2 years of experience working on HR, Finance or ERP systems.
+
+Technical Skills:
+• Strong experience with machine learning frameworks (e.g., TensorFlow, PyTorch, Scikit-learn).
+• Proficiency in programming languages (Python, R, SQL, etc.).\
+• Experience in data preprocessing, feature engineering, and model tuning.
+• Familiarity with cloud platforms (e.g., AWS, Azure, GCP) and data storage technologies (e.g., SQL, NoSQL, data lakes).
+• Experience with AI-driven process automation and robotics (RPA) tools is a plus.
+
+Soft Skills:
+• Strong problem-solving and analytical abilities.
+• Excellent communication skills with the ability to collaborate effectively with both technical and non-technical stakeholders.
+• Ability to work independently and manage multiple priorities in a fast-paced environment.
+
+============================================================
+
+Education and Experience
+• Bachelors or Masters in Computer Science, Statistics, Mathematics, Engineering, or a related field; or MBA with Bachelors in the above fields
+• Experience of 2 -5 Years in data analytics companies, focused in data science with exposure to business data warehousing, data consumption, data analyses and use of Gen AI in analytics in a consumer (B2C) company, preferably in Retail or Ecommerce
+
+About the Role
+We are seeking a highly skilled and motivated Data Scientist and AI Specialist to join our data science team. The ideal candidate will have a strong foundation in Python, SQL, and machine learning, with recent hands-on projects delivered leveraging LLMs. They will play a key role in building data-driven solutions that drive business decisions and impact.
+Job Description
+
+This is an exciting opportunity to be a part of the team that works as Agentic Ai Builder and develops foundational capabilities enabling enhanced analytics and measurement, critical to shaping global digital adoption and experience strategies.
+
+The incumbent will be part of the Customer Analytics team. He/she will be an individual contributor working on customer analytics space as primary responsibility. He/she would work with data to help their clients make better business decisions. Using techniques from a range of disciplines, he/she would draw conclusions from data to describe, predict, and improve business performance.
+
+
+============================================================
+
+Looking for exceptional Data Scientist with a proven track record of experience in Predictive analytics.
+
+
+Job Responsibilities(JR) : 6 8 Areas
+
+
+Actionable (4-6)
+
+
+Scorecard Building and Modelling
+
+Developing analytical models to assess risk profile of a customer / identifying cross-sell opportunities/fraud control for new and existing customers
+Responsible for development and deployment of various scorecards / models for the credit risk / Retail asset products of the Bank within the specified timelines. Ensure the deployment also is line with Banks strategies so as to gain maximum efficiencies.
+Estimate probability of default arising out of the scorecards and monitor deviation from expected default rates.
+Monitor portfolio and identify pockets of opportunity for business growth and risk alerts to control NPAs. Communicate these alerts to the respective owners and follow-up for closure
+Formulating data cuts and strategies to assess credit risk for new and existing customers of the Bank. Give feedback to stakeholders to improve the usage of the models
+Develop novel approaches/algorithms in Risk modeling to constantly improve the operational efficacy of current models and its impact to stake holders
+To adopt the latest trends wrt fintech companies by applying the best-in-class financial models, risk strategies
+To work on various aspects related to automation of scorecards in Analytics domain.
+Explore data available within the Banks ecosystem but not used currently to meet the above stated business objectives
+
+Innovation
+
+Thinking, evolving and making significant changes in the processes, techniques, methods so as to save time, energy and money.
+Any other assignments depending on the needs of the organization
+
+Educational Qualifications
+
+
+Key Skills
+
+
+1. MCA/MTech/MSc Statistics or Economics/BTech/MBA or equivalent in Computer science/Statistics or related areas with strong inclination towards machine learning algorithms is preferred
+
+
+Excellent problem solving capabilities with strong fundamentals in computer science
+Strong technical & analytical skills
+Hands-on experience in data wrangling (ETL), feature engineering, building and deploying scalable machine learning algorithms
+Strong written and verbal communication skills
+Excellent knowledge of current trends in the field of machine learning/analytics field
+
+Experience Required
+
+Experience of 2+ years in analytics/predictive modeling/machine learning
+Experience of 2+ years in Python/R in building as well as deploying scalable analytics based models
+Exposure to banking preferable
+
+Major Stakeholders (intra team and cross functional stakeholders, who would need to be interacted with for discharging duties)
+
+Credit Policy
+Underwriting
+Process
+Fraud Control
+Product
+Credit Bureaus
+Third Party Analytics Service Providers
+IT
+Legal
+Information Security
+============================================================
+We are seeking an experienced Data Scientist expertise in advanced analytics, machine learning, and data-driven decision-making. The ideal candidate will have a strong background in statistical modelling, programming, and business problem-solving, with the ability to translate complex data into actionable insights.
+
+
+Exp: 5-7yrs
+
+Role: Data Scientist
+
+Location: Navi Mumbai, Airoli
+
+
+Technical Expertise:
+
+Strong proficiency in Python .
+Solid understanding of SQL, NLP (Natural Processing Language) and ML(Machine Learning).
+Ability to connect data insights to business outcomes.
+Excellent communication, problem-solving, and collaboration skills.
+Experience in Gen AI will be an added advantage.
+============================================================
+Basic statistical concepts and introductory machine-learning methods (linear regression, logistic regression, decision trees).
+Proficiency in Python and SQL for data manipulation, analysis, and simple model building.
+Hands-on experience with data cleansing and preprocessing using libraries such as pandas or NumPy.
+Working knowledge of version control (Git) and best practices for writing reproducible, well-documented code.
+Strong analytical mindset, attention to detail, and clear written and verbal communication skills for summarizing findings.
+============================================================
+What Youll Do Partner with Product to spot high-leverage ML opportunities tied to business metrics. Wrangle large structured and unstructured datasets; build reliable features and data contracts. Build and ship models to: Enhance customer experiences and personalization Boost revenue via pricing/discount optimization Power user-to-user discovery and ranking (matchmaking at scale) Detect and block fraud/risk in real time Score conversion/churn/acceptance propensity for targeted actions Collaborate with Engineering to productionize via APIs/CI/CD/Docker on AWS. Design and run A/B tests with guardrails. Build monitoring for model/data drift and business KPIs
+
+
+What Were Looking For 2–4 years of DS/ML experience in consumer internet / B2C products, with 7–8 models shipped to production end-to-end. Proven, hands-on success in at least two (preferably 3–4) of the following: Recommender systems (retrieval + ranking, NDCG/Recall, online lift; bandits a plus) Fraud/risk detection (severe class imbalance, PR-AUC) Pricing models (elasticity, demand curves, margin vs. win-rate trade-offs, guardrails/simulation) Propensity models (payment/churn) Programming: strong Python and SQL; solid git, Docker, CI/CD. Cloud and data: experience with AWS or GCP; familiarity with warehouses/dashboards (Redshift/BigQuery, Looker/Tableau). ML breadth: recommender systems, NLP or user profiling, anomaly detection. Communication: clear storytelling with data; can align stakeholders and drive decisions
+
+============================================================
+
+Technical & Behavioral Competencies
+
+Python, R, SQL
+
+Machine learning algorithms
+
+PyTorch or TensorFlow
+
+Specific Qualifications:
+
+Data Scientist
+
+Skills Referential (Required knowledge, skills and abilities)
+
+Technical Skills:
+
+Python
+Sql/Pl-Sql
+Machine learning algorithms
+RAG / Architecture
+CRM Schema
+Behavioral Skills:
+
+Active listening
+Client focused
+Communication skills - oral & written
+Ability to deliver / Results driven
+Education Level: Any Graduation/Post Graduation
+
+Location: Mumbai
+
+Role: Data Scientist
+Industry Type: Recruitment / Staffing
+Department: Data Science & Analytics
+Employment Type: Full Time, Permanent
+Role Category: Data Science & Machine Learning
+Education
+UG: Any Graduate
+
+
+============================================================
+
+
+We are looking for a Quality Assurance Engineer with 2–3 years of experience to join our team and help ensure the quality and reliability of our software products.
+
+Key Responsibilities
+
+Review system requirements and design test cases
+Perform functional, system, integration, and regression testing
+Identify and track defects with the development team
+Participate in Agile processes and collaborate with cross-functional teams
+Support QA documentation, testing strategies, and security compliance initiatives
+Requirements
+
+Degree or qualification in Information Technology or related field
+Experience in Software Quality Assurance
+Familiarity with Agile frameworks and regression testing
+Strong analytical, communication, and problem-solving skills
+ISTQB certification or exposure to test automation tools will be an advantage
+
+============================================================
+
+Agentic AI pipelines using LangChain / LangGraph / CrewAI for automated analytical tasks
+level classification, anomaly detection, and report generation RAG
+based systems that make Coalition Greenwichs proprietary taxonomy, methodology, and historical benchmarking data queryable by AI
+Entity resolution and fuzzy matching pipelines to map ~100,000 subsidiary bank names to a clean master entity hierarchy
+A three
+dimensional revenue allocation engine (entity x product/wallet x region) that disaggregates incoming data across granularity levels LLM
+powered audit narrative generation
+turning structured data outputs into explainable, client
+ready commentary
+Evaluation frameworks and observability tooling so deployed agents are traceable, auditable, and reliable WHAT WE ARE LOOKING FOR Must Have
+4+ years of hands
+on engineering experience; at least 6 months working with LLMs in a production or near
+production context
+Solid Python
+you write clean, modular, well
+documented code that others can build on
+Practical experience with LangChain, LlamaIndex, or equivalent agentic frameworks
+Working knowledge of RAG architectures
+Ability to integrate LLM outputs into structured downstream pipelines
+not just chatbots Good to Have
+Exposure to financial markets, banking data, MIS, or analytics operations workflows
+Experience with at least one vector database
+Experience with LangGraph, CrewAI, or multi
+agent orchestration patterns
+MLOps fundamentals
+experiment tracking, model versioning, basic deployment (FastAPI, Docker)
+Familiarity with fuzzy matching or NLP
+based entity resolution (Jaro
+Winkler, BM25, embeddings based)
+Understanding of structured data disaggregation or hierarchical allocation problems
+
+
+Disclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.
+
+============================================================
+Hiring: Data Scientist
+
+We are looking for a passionate and analytical Data Scientist to join our team and work on innovative AI-driven solutions and industrial data use cases.
+
+Location: Bangalore
+Experience: 38 Years
+
+Key Skills:
+• Python & SQL
+• Machine Learning
+• Generative AI & Prompt Engineering
+• Data Modeling & Predictive Analytics
+• React / Streamlit Prototyping
+• Requirement Gathering & Problem Solving
+
+Responsibilities:
+• Build AI-powered data solutions and workflows
+• Translate business requirements into analytical use cases
+• Develop predictive models and data-driven insights
+• Create rapid prototypes using React/Streamlit
+• Work closely with stakeholders and domain experts
+
+============================================================
+About The Role
+BE / B. Tech in Computer Science, Engineering or relevant field
+Graduate degree in Data Science or other quantitative field is preferred
+Strong mathematics skills (e.g. statistics, algebra)
+Certification in Gen/Agentic AI solutions
+Certification in Platforms Databricks,AWS is preferred
+Experience:
+8+ years of progressive experience in data science and machine learning, with a minimum of 3 years focused on Generative AI and LLM-based systems.
+Demonstrated track record of delivering AI solutions at enterprise scale
+Hands-on experience with full AI/ML lifecycle management: data engineering, feature stores, model training, evaluation, deployment, and monitoring.
+Industry experience especially in Manufacturing Function in a Building Material Industry, Manufacturing, Process or Pharma is preferred.
+Required skills:
+Proficiency in Python; strong working knowledge of relevant libraries frameworks: LangChain, LangGraph, HuggingFace Transformers, PyTorch, scikit-learn, Pandas, and NumPy.
+Deep experience with LLM APIs (OpenAI, Anthropic, Google, Mistral) and open-source model deployment via Ollama, vLLM, or TGI.
+Solid command of vector databases, semantic search, and knowledge graph technologies for enterprise RAG architectures.
+Proficiency with MLOps tooling: MLflow, Weights Biases, Kubeflow, or similar; experience with LLMOps tools such as LangSmith.
+Strong SQL and experience with modern data platforms such as Databricks for AI-ready data preparation.
+Understanding of software engineering best practices: version control (Git), containerization (Docker/Kubernetes), API design (REST/gRPC), and CI/CD pipelines.
+Knowledge of how to benchmark GenAI models beyond simple accuracy (e.g., toxicity, bias, and reasoning depth).
+Exposure to multi-modal AI systems incorporating vision, audio, or structured document understanding (PDFs, tables, charts).
+Good understanding of the GENAI standards (MCP, A2A, A2UI etc.)
+Key Responsibility:
+Platform Prototyping: Design and implement core ML components, such as feature stores, model registries, and automated evaluation pipelines.
+Standardization: Establish best practices for the ML lifecycle, from data labeling and experimentation to CI/CD for ML (MLOps).
+Scalability: Optimize model inference and training workflows to handle high-throughput, low-latency requirements.
+Internal Consulting: Act as a subject matter expert for product-facing data science teams, helping them leverage platform tools to solve complex business problems.
+Tooling Automation: Build internal libraries and SDKs that simplify the transition from a local research environment to a distributed production environment.
+RAG Infrastructure: Design and optimize high-performance retrieval systems using vector databases (e.g., Pinecone, Weaviate) and advanced semantic search techniques.
+LLM Evaluation Frameworks: Build automated "vibe-check" replacements. Develop rigorous evaluation pipelines using LLM-as-a-judge, G-Eval, or custom scoring rubrics to measure hallucination, faithfulness, and relevancy.
+Agentic Orchestration: Develop and standardize the use of agentic frameworks (e.g., LangGraph, CrewAI) to allow product teams to build complex, multi-step AI workflows.
+Model Lifecycle Management: Manage the transition between model providers (OpenAI, Anthropic, Google) and open-source alternatives (Llama 3+, Mistral) through unified abstraction layers.
+Cost Latency Optimization: Implement caching strategies (e.g., GPTCache), prompt compression, and token-usage monitoring to ensure the platform remains economically viable.
+Guardrails Safety: Integrate real-time content filtering and PII masking to ensure all LLM outputs comply with corporate security and ethical standards.
+Result oriented and with a work ethic of delivering on-time and in scope
+
+============================================================
+We are seeking a seasoned Senior Data Scientist to join our dynamic Data Science & Analytics team in Mumbai. In this role, you will lead the end-to-end development and deployment of data-driven solutions, from problem definition to production monitoring. You will leverage your strong foundation in statistics, machine learning, and Generative AI to drive significant business impact and mentor junior team members. This is an opportunity to work on complex, real-world problems in a fast-paced, collaborative environment.
+
+ 
+
+Key Responsibilities
+
+End-to-End Project Leadership: Take ownership of data science projects, from initial research and experimentation to scalable deployment, monitoring, and ongoing optimization.
+
+Model Development: Design, build, and optimize advanced statistical and machine learning models to solve complex business problems.
+
+LLM & Generative AI: Research and implement innovative LLM/GenAI solutions, including advanced prompt engineering, Retrieval-Augmented Generation (RAG) frameworks, and parameter-efficient fine-tuning for specific business needs.
+
+Cross-functional Collaboration: Partner with product, engineering, and business stakeholders to translate complex challenges into actionable data science solutions and communicate findings effectively to technical and non-technical audiences.
+
+Mentorship: Guide and mentor junior data scientists and analysts, fostering a culture of technical excellence and continuous learning.
+
+Infrastructure & Deployment: Work with data engineering teams to design scalable data models and robust, automated ML pipelines using MLOps best practices and cloud services (AWS/GCP/Azure).
+
+Performance Monitoring: Implement monitoring frameworks to track and enhance the performance of deployed models.
+
+ 
+
+Core Technical Skills
+
+Machine Learning & Statistics:
+Strong foundation in supervised & unsupervised ML algorithms, evaluation metrics, and feature engineering.
+Practical experience with hands-on modelling and experimentation.
+LLM & Generative AI:
+Conceptual and practical understanding of LLM architecture, prompt engineering, RAG, parameter fine-tuning, and LLM evaluation/monitoring.
+Exposure to vector databases
+Executed at least 1 impactful LLM/GenAI implementation in real-world settings.
+ 
+Programming:
+Proficiency in Python, R, and SQL for model development and data analytics.
+Deployment & Automation:
+Experience with cloud platforms (AWS/GCP/Azure)
+API integration and orchestration for scalable solutions.
+Practical experience with MLOps tools like MLflow, Docker, or Kubernetes for CI/CD pipelines.
+ 
+
+Soft Skills
+
+Strong analytical thinking and structured problem-solving ability.
+Excellent interpersonal communication and stakeholder engagement.
+Ability to work in a fast-paced, collaborative environment and lead through influence.
+High ownership and drive to deliver measurable impact.
+Collaborate with product, engineering, and business stakeholders to translate complex AI solutions into business impact.
+ 
+
+Educational Background
+
+Bachelor’s/Master’s degree in Computer Science, Data Science, Statistics, Mathematics
+Equivalent industry experience with strong hands-on contributions will be preferred.
+
+============================================================
+
+Responsible for building intelligent systems that analyze vehicle data, predict resale value, assess condition, and optimize pricing strategies using advanced machine learning techniques.
+Design, develop, and deploy AI/ML models
+
+Required Candidate profile
+
+Hands-on Senior Data Scientist with strong AI/ML engineering
+capabilities .
+Build and maintain end-to-end ML pipelines using Python.
+Conduct model performance monitoring, retraining, and optimization.
+============================================================
+
+Provide analytics leadership to all lines of business with predominance in sales and marketing, and driving meaningful business impacts.
+Conduct segmentation and targeting analytics in order to optimize revenue performance, increase sales from campaigns, digital transformation of customer acquisitions, servicing, engagement, as well as other portfolio strategic initiatives.
+Data Governance - drive a culture of data quality, data integrity, and strong governance controls around data processes.
+Build predictive models and machine-learning algorithms
+Deep dive into data generate insights to recommend growth strategies, change in sourcing mix, program performance other areas of improvement.
+Drive rapid data-driven opportunities identification, sizing, and execution through strong leadership and partnerships with Product, Risk, Sales, Operations, Investments, Digital and Marketing teams.
+Be a key partner in customer campaigns and communications through the generation of campaign data lists and sharper targeting
+Partner with multiple teams to deliver cutting-edge next-gen modeling solutions for country-specific business needs Explore and evaluate new data sources and cutting edge analytic tools and techniques
+Work with stakeholders throughout the organization to identify opportunities for leveraging company data to drive business solutions.
+Support various ad hoc data needs from different business units
+Manage multiple projects simultaneously through effective project management
+Lead team of experienced as well as junior analysts
+As a leader and functional manager, be responsible for coaching, developing, and empowering staff to achieve superior results in all aspects of the job
+
+EDUCATIONAL QUALIFICATION EXPERIENCE
+
+
+Bachelor s degree in quantitative disciplines (Statistics, Engineering, Operations Research, etc.)
+Master s degree preferred
+15 to 18 years of experience.
+
+============================================================
+Truebil is looking for an enthusiastic and detail oriented individual who is passionate to work in an establish start-up and loves to challenge the status quo. If you enjoy finding solutions to complex problems and work in synergy with multiple teams to contribute & be a part of the family ready to change the used car industry, come and join our flagship venture.
+
+Roles & Responsibilities:
+
+- You will be working on building our proprietary systems using data science techniques like Pricing, Car Recommendation, Dynamic Pricing, Car Rating system etc
+
+- You will work as a partner to business unit executives, process owners to identify, develop and drive key analytics and reporting projects relevant to the business
+
+- You will be responsible for defining, analysing and communicating key metrics and business trends with the stake holders
+
+- You will drive data driven decision making through the stake holders
+
+- You are involved in identifying complex fuzzy problems, break it down in smaller parts and implement creative, data-driven solutions
+
+- You execute quantitative analysis that translates data into actionable insights.
+
+- You model data in order to create reporting infrastructure/ dashboards for business process management and data mining
+
+You will work with Product team to:
+
+- Identify gaps in the data capture strategy and collaboratively implement enhancements
+
+- Identify opportunities to improve conversion & user experience through data. Influence product & feature roadmaps
+
+- Analyze A/ B or Multi-Variate Tests and drive fundamental improvements to site experience
+
+- You lead and mentor junior Analysts
+
+Relevant Experience & Functional Competencies:
+
+- Bachelors in Engineering, Computer Science, Math, Statistics, or related discipline from a reputed institute
+
+- You have 2 Years of experience in relevant role
+
+- Strong quantitative abilities, distinctive problem-solving and excellent analysis skills
+
+- Strong organizational, communication, presentation and project management skills
+
+- Programming background with proficiency in SQL, Excel, Python
+
+- Strong background in statistical modelling and experience with statistical tools such R, SAS or SPSS
+
+- Knowledge of statistical techniques (such as distributions, statistical testing, regression, etc.), machine learning algorithms and data mining
+
+- Experience in analysing website experience, user paths, & AB test analysis, having hands on with Google Analytics
+
+- Experience in analysing very large, complex, multi-dimensional data sets.
+
+- Ability to understand business problems and convert them into data models
+
+- Ability to multitask and work on a diverse range of requirements with acute attention to detail
+
+- Affinity for business, curiosity about numbers and persistence to work with data to tease out insights
+
+We believe that our vision to simplify used car transaction can only be achieved with very strong focus on data, and it's ingrained in the company's DNA. We are building many proprietary systems using data science techniques like Pricing, Car Recommendation, Dynamic Pricing, Car Rating system etc to make the transaction more like a standard product. Join us to make the real impact!
+
+============================================================
+we are a technological powerhouse, delivering a full stack of exclusive software development services to empower your transformation and leverage your success in the digital arena. We house a dynamic team of strategists, designers, developers, technologists, innovators and are the best partner to help kickstart your journey through technology.
+
+The ideal candidate will have the below qualities,
+• Self-taught/HND/Certifications/Fresh Graduate/Bachelor’s degree + tactical experience or related background preferred
+• Ability to estimate, prioritize, plan, and coordinate testing activities.
+• Ability to test and report software bugs and gaps in specifications.
+• Ability to create detailed, comprehensive, and well-structured test plans and test cases.
+• Ability to communicate and collaborate with other team members.
+• Review functional requirements to assess their impact on the software applications and formulate test cases from them.
+• Familiarity or experience with Agile and SCRUM methodologies.
+• Experience with automated testing tools is a plus.
+• Provide release support during production software deployment.
+• Proficient in English.
+
+Please note, at huex we believe in attitude over skills because skills can always be teachable and we provide opportunities to those who have a passion for technology!
+
+
+============================================================
+We are looking for a passionate Data Scientist with 2 3 years of experience to build ML/DL and Generative AI solutions for high-impact financial use cases.
+Key Responsibilities:
+Develop ML/DL models for fraud detection, risk scoring, and personalization
+Build and deploy GenAI applications using LLMs
+Design and implement Agentic AI workflows
+Work with LangChain and LangGraph for orchestration
+Use tools like Claude, Cursor/CoPilot for AI-assisted development
+Implement monitoring using LangSmith
+Build APIs for model deployment
+Collaborate with cross-functional teams
+Maintain MLOps pipelines and CI/CD workflows
+Key Requirements:
+2 3 years experience in Data Science / ML / DL
+Strong Python skills
+Experience with ML frameworks (PyTorch, TensorFlow, XGBoost)
+Hands-on with GenAI, LLMs, prompt engineering
+Experience with LangChain, LangGraph
+Familiarity with Agentic AI concepts
+Exposure to tools like Claude, Cursor/CoPilot
+Experience with LangSmith for debugging/monitoring
+Knowledge of APIs, FastAPI/Flask, Docker
+Experience with MLOps tools (MLflow, DVC)
+FinTech domain experience preferred
+ModInclusion
+We believe that by seeing Modulr, and the world, from all sorts of angles, we can make life better for all. We want you to know that the things that make you, you like your identity, age, ability, and background are things that we will always celebrate and support with open arms. As such, we are keen to maximise the diversity of our workforce and actively encourage applications from anyone and everyone.
+============================================================
+Join our customer's team as an expert Quality Assurance Engineer and play a pivotal role in ensuring the highest quality standards for web and mobile applications, with a special focus on messaging platforms such as LINE. You will design, execute, and document comprehensive testing strategies to validate product functionality and deliver exceptional user experiences.
+
+
+Key Responsibilities:
+
+Create and maintain detailed test plans, test cases, and test documentation aligned with project requirements.
+Perform functional, regression, user acceptance, exploratory, and cross-browser testing for web and mobile applications, including the LINE app.
+Conduct thorough API testing and collaborate with developers to validate integrations.
+Identify, log, and track defects using industry-standard defect tracking tools, ensuring clear and actionable bug reports.
+Participate in Agile ceremonies, contribute to sprint planning, and ensure quality deliverables throughout the SDLC and STLC.
+Work closely with cross-functional teams to ensure requirements are understood and met, leveraging strong written and verbal communication skills.
+Champion quality assurance best practices to drive continuous improvement across testing processes within the customer's team.
+
+
+Required Skills and Qualifications:
+
+Minimum 4 years of hands-on experience in manual testing of web or mobile applications.
+Proficiency in designing and executing test cases, test plans, and test documentation.
+Strong experience in regression, functional, exploratory, and user acceptance testing.
+Demonstrated ability in bug reporting, defect tracking, and cross-browser testing.
+Solid understanding of SDLC, STLC, and Agile methodologies.
+Hands-on experience with API testing and mobile app testing.
+Exceptional attention to detail and excellent written and verbal communication skills.
+
+
+Preferred Qualifications:
+
+Experience testing messaging platforms, ideally the LINE app.
+Background in collaborating within Agile, cross-functional teams.
+Familiarity with industry-leading test management and defect tracking tools.

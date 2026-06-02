@@ -1,0 +1,685 @@
+INTERN / ENTRY-LEVEL JOB DESCRIPTIONS
+============================================================
+Responsibilities:
+
+Assist in developing and testing machine learning models for predictive analytics.
+Support data collection, cleaning, and integration from multiple sources for analysis.
+Help build interactive dashboards and reports using tools like Power BI or Looker Studio.
+Conduct exploratory data analysis (EDA) to uncover trends and patterns.
+Work with Python and SQL to manipulate data and build basic models.
+Collaborate on Natural Language Processing (NLP) tasks such as sentiment analysis or text classification.
+Contribute to research and experimentation with LLMs and AI tools like the OpenAI API.
+Document findings and present insights to internal teams.
+Stay updated with the latest trends in data science and AI.
+Requirements:
+
+Currently pursuing or recently completed a Bachelor’s or Master’s degree in Data Science, Computer Science, Statistics, or a related field.
+Familiarity with Python and SQL for data analysis and basic modeling.
+Exposure to data visualization tools like Power BI, Tableau, or Looker Studio (coursework or personal projects).
+Basic understanding of machine learning concepts and algorithms.
+Interest in Natural Language Processing (NLP) and large language models (LLMs).
+Strong analytical and problem-solving skills.
+Eagerness to learn and collaborate in a team environment.
+Excellent communication and presentation skills.
+
+==============================================================================
+
+Cadmus is a next-gen digital agency startup from Sri Lanka focused on combining data, design, and development to drive business growth. From marketing analytics to predictive modeling, we use data to create smart, scalable solutions for brands across industries.
+
+We’re now hiring Data Science Interns who are eager to dive into real-world data problems, explore machine learning, and turn insights into action.
+
+What You’ll Do
+
+Clean, analyze, and visualize structured and unstructured datasets
+
+Support real-world projects involving predictive modeling, recommendation systems, or business intelligence
+
+Work with tools like Python, Pandas, NumPy, Scikit-learn, and Jupyter
+
+Assist in data pipeline design and model evaluation
+
+Present insights using dashboards or data storytelling
+
+Collaborate with engineers and marketers to apply insights to real campaigns
+
+Who We're Looking For
+
+Final-year student or graduate in Data Science, Computer Science, Statistics, or a related field
+
+Strong knowledge of Python, data structures, and basic machine learning
+
+Familiarity with SQL, data visualization, or cloud tools (bonus!)
+
+Good communication skills and attention to detail
+
+Curious mindset with a desire to learn from real projects
+
+Based in Sri Lanka and able to work remotely
+
+What You’ll Get
+
+Paid Internship
+
+100% Remote work environment
+
+Hands-on mentorship from data professionals
+
+Experience working on real-world problems with impact
+
+Flexible hours & performance-based growth
+
+Potential full-time job offer after the internship
+
+Turn data into action. Learn, build, and grow with Cadmus.
+
+==========================================================================
+Xeptagon is a team of professionals specializing in Climate Finance, Fintech, and R&D-based software development, addressing complex business challenges. Our cutting-edge software solutions empower governments, international universities, startups, and major corporations, including Fortune 500 companies, to leverage the latest innovations for a competitive edge in their industries.
+
+With a global presence, Xeptagon has successfully collaborated with clients from Hong Kong, Hungary, Kenya, Namibia, Norway, Singapore, South Korea, UK, USA, Vietnam and Zimbabwe.
+
+We are seeking talented and motivated Data Scientist Interns to join our dynamic development team. In this role, you will contribute to impactful strategic projects that address global challenges. You will be responsible for designing, developing, and supporting data-driven solutions for Climate Financing, Carbon Trading, and data-driven optimization systems. This internship offers a unique opportunity to work and learn with advanced analytics, and technologies, while collaborating with a diverse global team of experts.
+
+Colombo, Sri Lanka (HQ) · 6-month Internship
+Open positions: 0
+Key Responsibilities
+Detect patterns, implement tests and evaluate datasets.
+Perform data pre-processing and feature engineering.
+Understand and generalize Machine Learning models.
+Create visualizations on massive scale data sets.
+Use and evaluate relevant Machine Learning tools.
+Write analysis reports.
+Requirements
+Completion or a final year student of a Bachelor’s degree in a quantitative field (mathematics, statistics, engineering or data science) with strong programming skills
+Fluent English speaker with good writing skills.
+Good hands on experience in Python, some Machine Learning libraries or other relevant coding skills.
+Strong interest in complex Machine Learning models (supervised & unsupervised, deep learning etc.)
+Knowledge of Machine Learning principles and practices.
+Basic statistics knowledge.
+Ability to work in a team and show high motivation.
+This job requires a high autonomy and a curiosity towards a changing environment.
+Working Conditions
+Employment: Full-time internship (6-month duration).
+Location: Level 2, Block D, IT Park, Port City Colombo, Sri Lanka.
+How to apply: Email your resume to info@xeptagon.com with subject "Data Scientist - Intern".
+============================================================
+Data Science Fresher
+Remote Opportunity | Freshers & Students Welcome | Immediate Hiring
+Ready to begin your journey in Data Science? We are looking for enthusiastic freshers and students who are passionate about data, analytics, machine learning, and solving real-world problems using technology.
+This is a great opportunity to gain hands-on industry exposure and work on practical data science projects while learning from experienced professionals.
+What You’ll Work On
+• Analyze and interpret real-world datasets
+• Perform data cleaning, preprocessing, and visualization
+• Assist in building Machine Learning models
+• Work with Python, SQL, and Data Science tools
+• Generate insights and support data-driven decisions
+• Participate in live projects and analytics tasks
+Who Can Apply
+• Freshers, students, and recent graduates
+• Basic understanding of Python, SQL, or Data Analytics
+• Interest in Machine Learning and Artificial Intelligence
+• Strong analytical and problem-solving mindset
+• Eagerness to learn and grow in the Data Science field
+Job Details
+Mode: Remote / Work From Home
+Experience: Fresher
+Duration: 3 Months
+Stipend: ₹25,000/month
+Why Join Us?
+• Hands-on practical experience with real-world projects
+• Internship & Experience Certificate
+• Mentorship from industry professionals
+• Opportunity to build a strong project portfolio
+• Skill development and career growth opportunities
+• 100% Placement Support
+How to Apply
+Interested candidates can apply by clicking on the “Apply” button.
+Early applicants will get priority during the shortlisting process. Limited openings available.
+
+=======================================================================================
+About the Internship
+
+
+Infrabyte Consulting is looking for a Data Science Intern who is enthusiastic about working with data to derive insights and support data-driven decision-making. This internship provides hands-on exposure to real-world datasets, analytical techniques, and industry-relevant tools in a professional remote environment.
+
+
+Key Responsibilities
+
+
+• Assist in collecting, cleaning, and preparing datasets
+• Perform exploratory data analysis (EDA)
+• Support basic statistical analysis and data modeling tasks
+• Create reports and visualizations to present insights
+• Work with tools and libraries used in data analysis
+• Collaborate with team members on data-driven projects
+
+
+Required Skills & Qualifications
+
+
+• Basic understanding of data science or analytics concepts
+• Familiarity with Python and libraries like Pandas, NumPy, or Matplotlib
+• Basic knowledge of statistics is a plus
+• Familiarity with Excel or Google Sheets
+• Willingness to learn and experiment with data
+• Strong analytical and problem-solving skills
+• Ability to work independently in a remote setup
+
+
+Who Can Apply
+
+
+• Students or recent graduates from any technical or analytical background
+• Freshers interested in data science or analytics
+• Candidates looking to gain hands-on experience with real datasets
+• Applicants available for a full-time internship (1–2 months)
+
+
+What You’ll Gain
+
+
+• Hands-on experience with real-world data science projects
+• Exposure to industry-standard data tools and workflows
+• Monthly stipend of ₹15,500
+• Remote work flexibility
+• Internship completion certificate
+• Opportunity to strengthen your data science portfolio
+
+============================================================
+Houlihan Lokey is hiring for the role of Data Science Intern!
+
+Responsibilities of the Intern:
+• Collect and process data from financial databases
+• Analyze data using advanced Excel functions
+• Perform data extraction and transformation using Python and Dataiku
+• Support data warehousing activities in Snowflake
+• Create dashboards, charts, and visualizations using Power BI or Tableau
+• Document and share best practices for Excel-based processes
+
+Requirements:
+• Strong academic record
+• Strong quantitative and analytical skills
+• Knowledge of Excel, SQL, and Python
+• Excellent verbal and written English communication skills
+• Demonstrated interest in Data Science
+• Previous internship experience in Data Analysis or Data Science is essential
+
+===========================================================================
+About the internship:
+1) Manage and optimize day-to-day business functions, ensuring seamless execution through data-backed decision-making.
+
+2) Design and implement data-driven strategies to improve operational workflows, efficiency, and overall effectiveness.
+
+3) Monitor and interpret key metrics, conducting in-depth data analysis to identify patterns, inefficiencies, and opportunities for refinement.
+
+4) Facilitate cross-functional coordination by utilizing analytical insights to enhance teamwork and streamline communication.
+
+5) Ensure adherence to company policies, industry regulations, and compliance frameworks while maintaining high operational standards.
+
+6) Analyze team performance using data-driven insights, offering mentorship and actionable recommendations for improvement.
+
+7) Oversee resource allocation and budgeting with a data-centric approach, optimizing costs without compromising performance.
+
+8) Detect operational roadblocks through comprehensive data assessment and develop innovative, long-term solutions.
+
+9) Prepare detailed reports on operational performance, offering strategic insights and forecasts to senior leadership.
+
+10) Collaborate with executive teams to align operational priorities with organizational goals, using analytics to support data-driven strategies.
+
+Who can apply:
+
+Only those candidates can apply who:
+• are available for full time (in-office) internship
+• can start the internship between 24th Apr'26 and 29th May'26
+• are available for duration of 6 months
+• have relevant skills and interests
+• Freshers looking for jobs may also apply
+
+==============================================================================
+Role & responsibilities
+• Support data extraction, cleaning, and preparation from multiple PSA systems and structured datasets
+• Perform Exploratory Data Analysis (EDA) to identify trends, patterns, and data quality issues
+• Assist in building descriptive and diagnostic analytics, and simple predictive models under supervision
+• Create dashboards and visualizations using Power BI or Python to communicate insights clearly
+• Work with data scientists, data engineers, and analysts through stages of the CRISPDM methodology:
+• Business understanding
+• Data understanding
+• Data preparation
+• Modeling & evaluation
+• Validate analytical outputs and document assumptions, metrics definitions, and results
+• Support adhoc analysis requests from business stakeholders (Operations, Commercial, Finance, etc.)
+• Adhere strictly to PSA data governance, data privacy, and security standards
+
+Preferred candidate profile
+• Currently pursuing or recently completed a degree in:
+• Data Science
+• Computer Science
+• Statistics
+• Mathematics
+• Engineering
+• Business Analytics or a related quantitative field
+• Strong foundation in statistics, data analysis, and problemsolving
+• Interest in applying analytics to realworld business and operational problems
+
+Technical Skills
+• Programming: Python (pandas, numpy; matplotlib/seaborn preferred)
+• Data Handling: CSV, Excel; basic SQL is an advantage
+• Analytics: Basic understanding of statistical concepts and machine learning fundamentals
+• Visualization: Power BI, Python visualization libraries
+• Tools: Jupyter Notebook, VS Code, Git (basic exposure)
+
+What the Intern Will Gain
+• Handson experience with enterprisegrade analytics and data science projects
+• Exposure to PSA Groups analytics standards, platforms, and governance practices
+• Mentorship from experienced data scientists and analytics professionals
+• Opportunity to contribute to live business use cases
+• Potential consideration for fulltime roles based on performance and business needs
+============================================ 
+About Artha Artha Group is a performance-first investment house managing 2,300 crores across domestic and international investment vehicles, including Category I & II AIFs, LLPs, and Private Limited companies. With active investments in 130+ startups, with 32+ successful exits, and 10+ renewable energy projects. We operate at the convergence of capital precision and operational depth.Our Technology Division is building the Unified Intelligence Platform (UIP) an AI-first portfolio intelligence system powered by multi-agent orchestration, knowledge graphs, and large language models.Location: Mumbai / OnsiteEmployment Type: Internship (6 months)Reporting To: CTO, Artha GroupTeam: Technology Division AI & Data ScienceExperience Level: Final-year student or recent graduates (01 year)Role Overview This is a hands-on data science internship focused on fine-tuning language models, building financial data pipelines, and supporting AI workflows for a production-grade intelligence platform. You will work directly with the CTO and the AI team, gaining exposure to real VC data, deal intelligence, and advanced ML systems.This is not a research-only role. You will be expected to ship working components, handle messy real-world data, and contribute to production workflows.You will Fine-tune small language models (SLMs) on proprietary VC and portfolio datasetsBuild and clean structured/unstructured financial data pipelinesDevelop embeddings for semantic search on deal memos and financialsSupport multi-agent AI workflows with ML componentsDesign evaluation frameworks for LLM outputs in financial contextsPerform exploratory data analysis (EDA) on portfolio metrics and market trendsEnrich knowledge graphs with ML-derived signalsKey ResponsibilitiesImplement LoRA/QLoRA fine-tuning workflows on HuggingFaceWork with SLMs (Phi-3, Mistral, Gemma, LLaMA) and understand tokenization, context windowsHandle financial datasets: P&L, balance sheets, MIS reports, time-series metricsBuild and maintain Python-based ML pipelines (NumPy, Pandas, Scikit-learn, PyTorch/TensorFlow)Integrate vector databases (ChromaDB, Qdrant) for semantic searchContribute to evaluation and monitoring of model performanceWhat Success Looks Like in 6 Months Delivered at least one fine-tuned model integrated into UIP workflowsBuilt robust data pipelines for financial datasetsDemonstrated ability to work independently on assigned ML tasksProduced clear documentation and reproducible experimentsReceived positive feedback from CTO and AI team on ownership and executionCandidate Profile Education: Final-year or recent graduate in CS, ECE, Statistics, Data Science, or MBA with strong quant backgroundExperience: 01 year; prior projects in NLP, ML, or financial data preferredMindset: Ownership-driven, curious, comfortable with ambiguity, strong execution disciplinePortfolio: GitHub repos, Kaggle notebooks, fine-tuning experiments, or research papers are a strong plusRequired Skills Strong foundations in statistics, probability, and ML theoryHands-on experience with fine-tuning language models (LoRA, PEFT)Proficiency in Python and ML stack (NumPy, Pandas, Scikit-learn, PyTorch/TensorFlow)Familiarity with vector databases and semantic searchUnderstanding of transformer architectures and attention mechanismsGood to Have: Exposure to VC/FinTech datasetsExperience with LangChain/LangGraph, Neo4j, or MLOps toolsKnowledge of RAG pipelines and LLM evaluation frameworksCompensation Structure Stipend: 25,000 per month, with the possibility of converting to a full-time positionDuration: 6 monthsStart Date: ImmediatePPO: High performers will be considered for a full-time roleWhat This Role Is NOT This is not a pure research internship you will work on production-grade systemsThis is not a remote-only role fulltime presence in Mumbai is expectedThis is not a short-term project full 6-month commitment required
+
+==============================================================
+The team The Digital Excellence Centre is responsible for building products and platforms for Deloitte India that focuses on providing extraordinary customer experience by putting design thinking with trailblazing technology in the center of what they do. The diverse team consists of subject matter experts, technology specialists, quality engineers, user experience researchers & designers, data scientists and product managers.
+Your work profile
+
+As a Machine Learning Engineer, you will play a crucial role in the development and implementation of cutting-edge artificial intelligence products. Your responsibilities will involve designing and constructing sophisticated machine learning models, as well as refining and updating existing systems.
+
+In order to thrive in this position, you must possess exceptional skills in statistics and programming, as well as a deep understanding of data science and software engineering principles.
+
+Your ultimate objective will be to create highly efficient self-learning applications that can adapt and evolve over time, pushing the boundaries of AI technology.
+
+Key skills required
+• Ability to process complex data sets
+• Ability to perform exploratory data analysis to discover interesting trends and relationships
+• Experience applying statistical modelling, machine learning, NLP, and other quantitative techniques to solve business problems
+• Experience in deep learning
+• Possess understanding of and ability to communicate statistics to experts and non-experts
+• Creative thinker who has proven ability to innovate through data exploration and application of solutions
+• Ability to thrive in an environment that requires flexibility and multi-tasking
+• Ability to take initiative and work with high level of independence
+• Strong technical and remote collaboration skills are a must
+• Any exposure to Generative AI would be a great addition.
+
+==================================================
+
+Express Analytics helps growth teams turn customer data into production‑grade analytics and GenAI/agentic AI solutions across marketing, customer experience, and operations. We are looking for ambitious interns to help us build LLM‑driven workflows and autonomous agents that power our marketing and analytics platforms as well as selected client projects.
+What you’ll do:-
+• Agentic AI development: Contribute to autonomous agents that orchestrate data, analytics, and content generation for our marketing and analytics product suites and internal tools.
+• LLM integration & NLP: Implement and experiment with Large Language Models (LLMs) for tasks such as text analysis, sentiment understanding, topic extraction, and document summarization.
+• Customer analytics models: Support the development and evaluation of models for customer lifetime value (CLV), churn prediction, segmentation, and RFM‑style analyses.​
+• Predictive & recommendation modeling: Help build and test forecasting and recommendation models for use cases like demand, pricing, and personalized offers.​
+• Marketing intelligence: Work on components like look‑alike modeling, attribution modeling, and marketing mix modeling (MMM) that improve campaign performance and budget allocation.​
+• Engineering & experimentation hygiene: Write clean, reproducible code and notebooks, run experiments, track results, and document learnings for the broader team.
+
+What we’re looking for:-
+• Candidates that are available to work full time at time of Internship.
+• To join us full time resource after internship (confirmation based on your performance)
+• Education: Currently pursuing or recently completed B.Tech or a Bachelor’s degree in Computer Science, Artificial Intelligence, Data Science, or related fields.
+• Core AI/ML skills: Solid foundations in machine learning (classification, regression, basic evaluation).
+• Exposure to deep learning (e.g., CNNs, RNN/LSTM or transformers) and clustering techniques.
+• Programming & data skills:
+• Proficiency in Python (pandas, scikit‑learn) and basic SQL.
+• Comfort working with Jupyter/Colab, Git, and APIs.
+• Emerging tech & frameworks (nice to have)
+• Familiarity with LLM frameworks such as LangChain, LangGraph, CrewAI, or similar.
+• Understanding of agentic AI concepts, multi‑agent workflows, or tool‑using agents.
+• Exposure to deep learning libraries like TensorFlow or PyTorch.
+• Soft skills: Analytical mindset, eagerness to learn, and strong written and verbal communication.
+Why join us?
+• Work on real GenAI and agentic AI use cases tied to marketing and customer analytics, not just toy projects.
+• Gain hands‑on experience in a flexible, fully remote setup with a team focused on shipping production‑grade analytics and AI systems.
+• Receive mentorship from senior data scientists and engineers, with room to convert strong internship performance into future opportunities.
+
+APPLY NOW..!!
+===============================================================
+Our PurposeMastercard powers economies and empowers people in 200 countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest potential.Title And SummaryData Scientist Intern, Summer 2025 - Dubai (UAE Nationals Preferred)Data Scientist Intern, Summer 2025 - Dubai, UAEInternship ProgramThe Mastercard Internship Program offers penultimate year students an immersive experience to challenge the status quo, gain real work-life skills in a global company, drive decency and belonging, and grow their personal and professional development. We invite you to bring your passion, share your talent, and make the most of this truly priceless experience.Role Description Conduct analyses on the effectiveness of product offerings by examining the real-world impacts of customer use. For instance, do banks that assess cyber risk before partnering with a merchant suffer less downstream fraud? How much money can a merchant save, in data breaches avoided, by subscribing to Mastercard’s cyber monitoring product?  Gain subject matter knowledge on cybersecurity best practices and common types of fraud. Advise technical teams in accordance with subject matter knowledge and participate in educational initiatives. Competently handle large datasets, sifting for patterns and trends and translate those insights into technical solutions and education materials.  Work closely with marketing and product to translate analysis into promotional materials.  Partner with other teams (Safety Net, Smart Authentication, Data Strategy) to combine multiple sources of data in new and insightful ways. What you’ll need To be available to work Full-time between 26th May/2nd June 2025 to 9th August or late June to late August 2025To be a Penultimate Masters/Undergraduate Student, due to graduate no earlier than 2026Ideally enrolled in a bachelors/Masters degree program in Computer science or related field Ideally focused in a field of data such as mathematics, statistics, or economics  Insightful problem-solver, able to gather input from multiple divergent sources, narrow in on any problems or gaps, and propose effective solutions. Conversant with data: comfortable working with data sets of varying sizes, able to generate descriptive statistics and find simple patterns. Bonus: knowledge of and experience with machine learning models. Innovative thinking and thoughtful risk-taking.  Familiar with at least one of the following tools: Tableau, SQL, Python, AWS, Hadoop.  Excellent communication skills, especially for group work and presentations to differing audiences. Corporate Security Responsibility All activities involving access to Mastercard assets, information, and networks comes with an inherent risk to the organization and, therefore, it is expected that every person working for, or on behalf of, Mastercard is responsible for information security and must:Abide by Mastercard’s security policies and practices;Ensure the confidentiality and integrity of the information being accessed;Report any suspected information security violation or breach, andComplete all periodic mandatory security trainings in accordance with Mastercard’s guidelines.R-228753
+
+===============================================
+Our vision is to transform how the world uses information to enrich life for all.
+
+Join an inclusive team passionate about one thing: using their expertise in the relentless pursuit of innovation for customers and partners. The solutions we build help make everything from virtual reality experiences to breakthroughs in neural networks possible. We do it all while committing to integrity, sustainability, and giving back to our communities. Because doing so can fuel the very innovation we are pursuing.
+
+## Project Description:
+
+This project focuses on applying data science, machine learning, and statistical modeling to large and diverse datasets generated from highly automated semiconductor manufacturing operations. The intern will work closely with data scientists and engineers to extract, process, and analyze terabytes to petabytes of structured and unstructured data.
+
+## Objective of the Project:
+• Develop analytical and machine learning models to improve manufacturing performance and operational efficiency
+• Build data pipelines for extraction, cleansing, outlier detection, and anomaly identification
+• Apply supervised, unsupervised, and semi-supervised learning techniques on real production datasets
+• Support digital transformation and automation efforts in a manufacturing environment
+
+## Opportunities to be Offered for Full-Time Employment:
+
+Interns demonstrating strong analytical capability, initiative, and technical performance may be considered for full-time roles in:
+• Data Scientist
+• Machine Learning Engineer
+• Data Engineer
+• Smart Manufacturing and Analytics Engineer
+
+## Project Scope:
+• Extract and manipulate data using SQL and large-scale query systems
+• Clean and prepare data using statistical and programming techniques
+• Build machine learning models using tools such as Python or R
+• Work with distributed computing systems including Spark and Hadoop-based tools
+• Support automation and analysis workflows for manufacturing datasets such as time-series and images
+• Collaborate with multi-functional teams to translate technical findings into actionable insights
+
+## Learning Opportunities:
+• Exposure to high‑volume semiconductor manufacturing data
+• Hands-on experience with machine learning, deep learning, and data preparation workflows
+• Familiarity with large-scale data platforms (Spark, Hadoop, Teradata)
+• Experience with Manufacturing Execution Systems
+• Opportunity to apply statistical modeling, feature extraction, and algorithm development
+• Development of strong communication and problem-solving skills through cross-team collaboration
+
+## Deliverables:
+• Completed data pipelines or analytical scripts
+• Machine learning models or prototypes with documented performance metrics
+• Clear and concise technical reports summarizing findings
+• Dashboards, visualizations, or automated analytics tools where applicable
+
+## Impact of Project:
+• Supports data-driven decision-making in manufacturing
+• Improves production efficiency, yield, and process stability
+• Enhances predictive capabilities for production anomalies and variations
+• Contributes to long-term digital transformation and automation initiatives
+
+## Skillset Required:
+• Strong interest in building a career in data science
+• Knowledge in statistical modeling and machine learning
+• Experience with Python or R
+• Ability to write efficient and maintainable code
+• Familiarity with SQL
+• Interest or experience in distributed computing systems (Spark, Hadoop)
+• Strong communication and documentation skills
+
+Bonus Skills:
+• Experience with time-series, image data, or semi-supervised learning
+• Knowledge of JavaScript or data visualization (Tableau)
+• Exposure to manufacturing systems or semiconductor processes
+• Experience with TensorFlow or other deep learning frameworks
+
+## Course of Interests:
+• Mathematics
+• Data Science
+• Computer Science
+• Physics
+• Statistics
+• Engineering programs with analytics emphasis
+
+================================================
+
+About the Hiring Team Level Infinite is Tencent’s global gaming brand. It is a global game publisher offering a comprehensive network of services for games, development teams, and studios around the world. We are dedicated to delivering engaging and original gaming experiences to a worldwide audience, whenever and wherever they choose to play while building a community that fosters inclusivity, connection, and accessibility. Level Infinite also provides a wide range of services and resources to our network of developers and partner studios around the world to help them unlock the true potential of their games. What the Role Entails 1. Applied AI & Model Development Develop and deploy machine learning / AI models to enhance platform capabilities. Work on use cases such as: Creator segmentation and recommendation. Creator Content labeling and data analysis. Campaign performance prediction and optimization. Agentic Systems Developing. 2. Problem Framing & Experimentation Translate business and product problems into data science solutions. Design experiments to validate hypotheses and measure impact. Iterate on models based on performance, feedback, and real-world usage. 3. Data Pipeline & Feature Engineering Work with data engineers to define and build scalable data pipelines. Clean, process, and structure large datasets (creator data, content metadata, campaign performance). Design meaningful features that improve model performance. 4. Product Integration Collaborate closely with product managers and engineers to integrate models into the platform. Ensure models are production-ready, reliable, and scalable. Contribute to API design, model serving, and inference workflows. 5. Monitoring & Continuous Improvement Track model performance using appropriate metrics (accuracy, precision, recall, business KPIs). Maintain documentation and ensure reproducibility. Who We Look For Core Values Integrity – You prioritize correctness, transparency, and responsible use of data. Gamer Native – You understand gaming ecosystems and player/content dynamics. Pop Culture Fluent – You are familiar with creators, platforms, and digital trends. Tech-Savvy – You are curious and hands-on with emerging AI technologies. Technical Skills Strong foundation in machine learning and statistics. Proficiency in Python and common ML libraries (e.g., PyTorch,scikit-learn). Experience with data processing (e.g., pandas, SQL). Familiarity with LLMs, NLP, or recommendation systems is a strong plus. Understanding of model deployment (APIs, batch/real-time inference) is preferred. Data & Product Thinking Ability to translate ambiguous business problems into data science solutions. Strong analytical thinking and hypothesis-driven approach. Understanding of how models create value in a product context (not just offline metrics). Execution & Collaboration Ability to work cross-functionally with product, engineering, and business teams. Good communication skills—able to explain complex models in simple terms. Strong ownership and ability to iterate quickly. Nice to Have Experience in influencer marketing, advertising, or creator platforms. Familiarity with social media data (e.g., YouTube, Twitch, TikTok ecosystems). Experience with embeddings, vector databases, or retrieval systems. Basic knowledge of data engineering or MLOps workflows. Example Projects You Might Work On Build a creator discovery engine using embeddings + similarity search. Develop a content understanding pipeline (tags, sentiment, brand safety). Train a campaign ROI prediction model to guide budget allocation. Integrate LLMs to improve tool efficiency and automate workflows. Equal Employment Opportunity at Tencent As an equal opportunity employer, we firmly believe that diverse voices fuel our innovation and allow us to better serve our users and the community. We foster an environment where every employee of Tencent feels supported and inspired to achieve individual and common goals. Who we are Tencent is a world-leading internet and technology company that develops innovative products and services to improve the quality of life for people around the world. Equal Employment Opportunity at Tencent As an equal opportunity employer, we firmly believe that diverse voices fuel our innovation and allow us to better serve our users and the community. We foster an environment where every employee of Tencent feels supported and inspired to achieve individual and common goals
+
+============================================================
+Business Unit
+LIGHTSPEED STUDIOS is made up of passionate players who advance the art & science of game development through great stories, great gameplay, and advanced technology. We are focused on bringing next generation experiences to gamers who want to enjoy them anywhere, anytime, across multiple genres and devices. About the Hiring Team
+Lightspeed Tech Center is a R&D department under Lightspeed Studios which develop PUBG Mobile and other high-quality games. Our Tech Center leads the research, exploration, and discovery of innovative technologies and provides technical services for all games during all phases of life cycle, including engine, audio, QA, AI, next generation game, technical cooperation, etc. What the Role Entails
+Responsibilities:
+
+Research on state-of-the-art machine learning, deep learning, social-network data mining and recommendation algorithms with game data, help design, evaluate and improve the core algorithm and strategy for online AI serving.
+Response for deep statistics analysis from large-scale data, mining for user behavior and attributes, building user portraits.
+By datamining and analysis, solving user pain point and proposing strategies improving user retention.
+Improving data analysis pipelines, combining business requirements and data, by using distributed computation platform, develop efficient and reliable data mining solutions.
+Research on recommendation algorithm or matching algorithm in gaming environments.
+Who We Look For
+Qualifications：
+
+Familiar with basic and latest research result in data mining, with a strong understanding of statistical models, related machine learning principles, and experience working on data mining related projects.
+Familiar with machine learning, deep learning and recommendation algorithms such as clustering and classification, grasping and having deep understanding in at least one of them.
+Proficient in at least one programming language, familiar with basic data structures and algorithms.
+Higher priority for candidates familiar with graph models, including community discovery, graph embedding、influence diffusion models.
+Higher priority for candidates familiar with causal inference or optimization algotirhms, and have strong
+Higher priority for candidates having big data experience, and familiar with distributed computation framework such as Hadoop, spark, hive and etc.
+Higher priority for candidates with strong logical thinking ability, communication ability and business understanding, and familiar with game situations. And candidates with better mathematics background are in favor.
+Strong self-driven ability, team cooperation ability, anti pressure ability and studious candidates is preferred.
+Equal Employment Opportunity at Tencent
+As an equal opportunity employer, we firmly believe that diverse voices fuel our innovation and allow us to better serve our users and the community. We foster an environment where every employee of Tencent feels supported and inspired to achieve individual and common goals.
+
+========================================================
+Your role
+
+As a Data Scientist Intern your main responsibilities will involve:
+
+
+Collaborate with business stakeholders to identify, design, and engineer scalable data solutions that address business needs.
+Build, deploy, and maintain AI-driven applications and APIs using FastAPI, containerized with Docker and orchestrated via CI/CD pipelines powered by GitHub Actions.
+Leverage SQL and NoSQL databases to manage, query, and optimize structured and unstructured data, ensuring robust data pipelines and storage architectures.
+Develop and operationalize advanced models in machine learning, natural language processing (NLP), computer vision, and generative AI using frameworks such as LangGraph and OpenAI Agents, OpenCV and more.
+Utilize Azure cloud services to architect, scale, and secure data science solutions in compliance with enterprise best practices.
+Lead end-to-end implementation of data initiatives, from data ingestion and feature engineering to model development, deployment, and monitoring.
+Analyze multi-source datasets to provide actionable business insights, automate processes, and drive customer engagement improvements.
+Facilitate stakeholder engagement and technical adoption through demonstrations, documentation, and collaborative problem-solving.
+Your Skills & Experience
+
+As a Data Scientist Intern your skills and qualifications will ideally include:
+
+
+Ongoing or completed bachelor’s degree in computer science, mathematics, data science, or a related field.
+Experience implementing data science projects that deliver measurable value.
+Proficiency in statistical and predictive modeling techniques (supervised and unsupervised learning, neural networks, LLMs, etc.).
+Practical experience managing and processing both structured (SQL) and unstructured (NoSQL, free text, images, web data) datasets.
+Strong programming skills in Python, with experience using frameworks such as FastAPI and tools like Docker for deployment.
+Familiarity with Azure cloud services, GitHub Actions for CI/CD, and modern AI libraries and orchestration tools (e.g., LangGraph, OpenAI Agents) is a plus
+Demonstrated history of delivering data science solutions or proof-of-concept projects.
+Period of Internship
+
+4-6 months (July - Dec)
+
+=========================================================
+Key Responsibilities 
+
+Involve in the process to build, validate, test, and deploy machine learning models or algorithms to solve real estate related problems 
+Have chances to optimise or design and build new framework and automation tools to enable teams to consume and understand data faster 
+Support various stakeholders by proposing and implementing data science models to extract insights 
+Perform data cleaning, exploratory analysis, and quality checks to ensure reliable model inputs
+Analyze large datasets to identify trends, anomalies, and market patterns in property transactions and listings 
+Qualifications & Requirements 
+
+Pursuing or recently completed a Bachelor’s or Master’s degree in Computing, Data Science, Statistics, Engineering, or a related field
+Strong Python programming skills, including experience with pandas, NumPy, and scikit-learn Familiarity with SQL and working with relational databases
+Basic understanding of statistics and machine learning concepts
+Knowledge in computer vision and NLP, LLM is a plus Knowledge in Big Data (Spark, Hadoop/Hive) and real-time analytics is a plus
+
+=================================================================
+What the Role Entails
+We are looking for an Associate Data Scientist to help build AI-powered capabilities for our influencer marketing platform. This role focuses on turning data and machine learning into practical product features-from creator discovery and content understanding to campaign optimization and performance prediction.
+You will work at the intersection of data science, product, and engineering, helping bring intelligent systems into real world use cases that drive measurable business impact.
+
+1. Applied AI & Model Development
+
+Develop and deploy machine learning / AI models to enhance platform capabilities.
+Work on use cases such as:
+Creator segmentation and recommendation.
+Creator Content labeling and data analysis.
+Campaign performance prediction and optimization.
+Agentic Systems Developing.
+2. Problem Framing & Experimentation
+
+Translate business and product problems into data science solutions.
+Design experiments to validate hypotheses and measure impact.
+Iterate on models based on performance, feedback, and real-world usage.
+3. Data Pipeline & Feature Engineering
+
+Work with data engineers to define and build scalable data pipelines.
+Clean, process, and structure large datasets (creator data, content metadata, campaign performance).
+Design meaningful features that improve model performance.
+4. Product Integration
+
+Collaborate closely with product managers and engineers to integrate models into the platform.
+Ensure models are production-ready, reliable, and scalable.
+Contribute to API design, model serving, and inference workflows.
+5. Monitoring & Continuous Improvement
+
+Track model performance using appropriate metrics (accuracy, precision, recall, business KPIs).
+Maintain documentation and ensure reproducibility.
+Who We Look For
+
+Core Values
+
+Integrity - You prioritize correctness, transparency, and responsible use of data.
+Gamer Native - You understand gaming ecosystems and player/content dynamics.
+Pop Culture Fluent - You are familiar with creators, platforms, and digital trends.
+Tech-Savvy - You are curious and hands-on with emerging AI technologies.
+Technical Skills
+
+Strong foundation in machine learning and statistics.
+Proficiency in Python and common ML libraries (e.g., PyTorch,scikit-learn).
+Experience with data processing (e.g., pandas, SQL).
+Familiarity with LLMs, NLP, or recommendation systems is a strong plus.
+Understanding of model deployment (APIs, batch/real-time inference) is preferred.
+Data & Product Thinking
+
+Ability to translate ambiguous business problems into data science solutions.
+Strong analytical thinking and hypothesis-driven approach.
+Understanding of how models create value in a product context (not just offline metrics).
+Execution & Collaboration
+
+Ability to work cross-functionally with product, engineering, and business teams.
+Good communication skills-able to explain complex models in simple terms.
+Strong ownership and ability to iterate quickly.
+Nice to Have
+
+Experience in influencer marketing, advertising, or creator platforms.
+Familiarity with social media data (e.g., YouTube, Twitch, TikTok ecosystems).
+Experience with embeddings, vector databases, or retrieval systems.
+Basic knowledge of data engineering or MLOps workflows.
+Example Projects You Might Work On
+
+Build a creator discovery engine using embeddings + similarity search.
+Develop a content understanding pipeline (tags, sentiment, brand safety).
+Train a campaign ROI prediction model to guide budget allocation.
+Integrate LLMs to improve tool efficiency and automate workflows.
+Equal Employment Opportunity at Tencent
+
+As an equal opportunity employer, we firmly believe that diverse voices fuel our innovation and allow us to better serve our users and the community. We foster an environment where every employee of Tencent feels supported and inspired to achieve individual and common goals.
+
+================================================
+
+Headquartered in Singapore, Actxa Pte Ltd is a deep tech company founded in 2015 that leverages artificial intelligence to create next generation preventive healthcare solutions.
+
+We are an affiliated company by common shareholders with Activate Interactive Pte Ltd which company logo appears on the top of this page.
+
+Actxa creates evidence-based, personalizes health insights in the domains of physical activities, sleep quality, body composition, stress and recovery, heart health and blood glucose evaluation and monitoring.
+
+To improve population health, Actxa establishes worldwide partnerships and research collaborations to develop critical preventive health models to help people avert chronic diseases such as diabetes and hypertension.
+
+We believe in positively impacting the lives of people around us and the environment we live in through the use of technology. Hence, we are committed to providing a conducive environment for all employees to realise their full potential, who in turn have the opportunity to continuously drive innovation.
+
+We have opportunities for you to grow your career path and are looking for talented professionals to join our team.
+
+More information about us: https://www.actxa.com
+
+Actxa is hiring for Data Scientist
+
+Internal Code: AX25001
+
+We are seeking a highly skilled and motivated Data Scientist to join our dynamic team in shaping the future of healthcare in preventive health using Artificial Intelligence (AI), Machine Learning (ML) and data analysis..
+
+The ideal candidate will directly contribute to improving the health and well-being of the population, reducing healthcare costs, and championing a proactive approach to healthcare.
+
+What will you do?
+
+Assist data scientists in performing public healthcare research and development in line with the organization's vision within the digital health and wellness domain
+Perform on-site or off-site data collection, data organization, storage and processing
+Develop data-driven solutions and insights based on data mining, statistical modelling and machine learning methods
+Perform algorithm testing and validation
+Documentation of research, experiments and modelling findings/results
+Opportunity to be the co-author of our research publications
+
+Requirements
+
+What are we looking for?
+
+Year 3 or final year in Data Science, Computer Science, Computer Engineering or related discipline
+Passionate about data science and good working knowledge of Python, SQL and R
+Good understanding or experience in signal processing and machine learning is required
+Keen interest in digital healthcare, wellness and fitness domain
+A 'go with the flow' and positive attitude, adaptable to change and energetic
+Passionate about learning and working with new technologies
+A natural tenacity, resilience and determination
+
+Benefits
+
+What do we offer?
+
+Fun working environment
+Employee Wellness Program
+Actxa Pte Ltd is an equal opportunity employer. Employment decisions will be based on merit, qualifications and abilities. Actxa Pte Ltd does not discriminate in employment opportunities or practices on the basis of race, colour, religion, gender, sexuality, national origin, age, disability, marital status or any other characteristics protected by law.
+
+Protecting your privacy and the security of your data are longstanding top priorities for Actxa Pte Ltd.
+
+Your personal data will be processed for the purposes of managing Actxa Pte Ltd’s recruitment related activities, which include setting up and conducting interviews and tests for applicants, evaluating and assessing the results, and as is otherwise needed in the recruitment and hiring processes.
+
+Please consult our Privacy Notice ( https://www.actxa.com/privacy-policy ) to know more about how we collect, use, and transfer the personal data of our candidates. Here you can find how you can request for access, correction and/or withdrawal of your Personal Data.
+
+
+
+===========================================================
+MH is looking for interns with background in data analytics who are keen to explore and contribute in the area of mental healthcare.
+
+Successful candidates will have the opportunity to work with an existing team of data analysts and biostatisticians to advance the quality of insights derived from existing clinical databases. This will include the harnessing of unstructured datasets with Large Language Models (LLM). They will also collaborate with clinicians and management to develop dashboards.
+
+Job Responsibilities:
+
+Assist in the execution of hackathons. The duties include, but not limited to organizing, facilitating a smooth run of hackathons and helping out with data analysis
+Exploring methods to analyse historical medical data.
+Exploring and developing data-centric and data driven solutions by leveraging generative AI and LLMS.
+Developing interactive dashboards and predictive models based on past medical data.
+Any other ad-hoc duties that may arise.
+
+Requirements:
+
+Educational and Professional Requirements
+
+Academic background in Mathematics/Statistics/Data science/Sciences/Engineering.
+Experience in SQL and Python necessary
+========================================================================
+Suntory Beverage & Food strives to be the most locally beloved beverage company in every market we serve. Guided by our founding principles of "Growing for Good," "Yatte Minahare" (the spirit of bold ambition), and "Giving Back to Society", we pursue sustainable growth, bold innovation, and meaningful social impact. Across the Asia Pacific region, we proudly offer trusted brands including Ribena®, Lucozade Sport™, BRAND'S® Essence of Chicken, Tea+, BOSS Coffee, V Energy - delivering quality products that honor our commitment to harmony with people and nature.
+
+
+Position Overview
+
+We are seeking a highly motivated Data Analyst / Data Science Intern to join the Data & Digital team at Suntory Beverage & Food. In this role, you will work closely with Data Product Managers and the Head of Data & Analytics to co-create data-driven solutions that generate measurable business value particularly in Revenue Growth Management (RGM), People & Culture (P&C) and Supply Chain analytics.
+
+This is not just a technical internship. The successful candidate will demonstrate strong business acumen and a problem-solving mindset, contributing to the design, ideation, and implementation of analytics products that directly support commercial and operational decision-making.
+
+This is a 3-6months internship position.
+
+Key Responsibilities
+
+1. Business Partnership & Problem Definition
+
+Collaborate daily with Data Product Managers, business stakeholders, and cross-functional teams to understand and frame business problems.
+Translate commercial challenges in RGM (e.g., promo effectiveness, pricing elasticity) and Supply Chain (e.g., demand forecasting, inventory optimization) into analytics use-cases.
+Support the development of product roadmaps and contribute to a value-centric analytics backlog.
+2. Data Analysis & Solution Development
+
+Perform exploratory data analysis to derive insights and generate hypotheses.
+Build and test forecasting models (time series, regression, etc.) and other ML algorithms to solve business problems.
+Assist in designing dashboards and visualizations that translate complex outputs into intuitive decision tools.
+3. Product Thinking & Innovation
+
+Contribute to ideation of new data products and enhancements to existing analytics tools.
+Assist the Head of Data & Analytics in scanning for emerging trends, new data sources, and innovative methodologies.
+Participate in brainstorming and cross-functional workshops to drive analytics adoption and business experimentation.
+
+Preferred Qualifications
+
+Education:
+Final year undergraduate or early-stage master’s student in Business Analytics, Statistics, Computer Science, Operations Research, or related field.
+Prior experience in a functioning business, sector-agnostic will be highly preferred and valued.
+Technical Skills:
+Proficient in Python, SQL, and time series forecasting libraries (e.g., Prophet, ARIMA, scikit-learn).
+Experience with Power BI or Tableau for dashboard development.
+Familiarity with ML lifecycle and exploratory data analysis (EDA).
+Cloud experience (AWS/GCP) is a plus.
+Business & Communication Skills:
+Strong analytical thinking with a practical understanding of business levers.
+Clear communicator who can explain technical results to non-technical stakeholders.
+Passionate about using data to drive decisions in real business settings.
+
+What You Will Gain
+
+Hands-on exposure to real-world analytics projects in the FMCG sector.
+Mentorship from senior analytics leaders and collaboration with cross-functional product squads.
+Opportunity to contribute to enterprise-wide transformation efforts through analytics and data science.
