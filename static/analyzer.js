@@ -1,6 +1,7 @@
 "use strict";
 
-const API_BASE = "http://127.0.0.1:8000";
+// ========== API BASE (empty = same origin, works on Render) ==========
+const API_BASE = "";
 
 // ========== GLOBAL STATE ==========
 let currentRoleResult = null;
@@ -196,7 +197,7 @@ function viewPreviousResult() {
     showCustomResults(currentCustomResult);
 }
 
-// ========== LOAD ROLES FROM BACKEND ==========
+// ========== LOAD ROLES FROM BACKEND (dynamic select) ==========
 async function loadRoleSuggestions() {
   try {
     const res = await fetch(API_BASE + "/roles");
@@ -918,9 +919,8 @@ window.addEventListener("load", async () => {
   await loadRoleSuggestions();
   await checkAndApplyLimit();
 
-  // Fix signup link to redirect to auth.html
   if (signupLink) {
-    signupLink.href = "auth.html";
+    signupLink.href = "/static/auth.html";
     signupLink.target = "_self";
   }
 
